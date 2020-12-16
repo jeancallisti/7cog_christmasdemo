@@ -1,0 +1,1106 @@
+// AGS TRANSLATION SOURCE FILE
+// Format is alternating lines with original game text and replacement
+// text. If you don't want to translate a line, just leave the following
+// line blank. Lines starting with '//' are comments - DO NOT translate
+// them. Special characters such as [ and %%s symbolise things within the
+// game, so should be left in an appropriate place in the message.
+// 
+// ** Translation settings are below
+// ** Leave them as "DEFAULT" to use the game settings
+// The normal font to use - DEFAULT or font number
+//#NormalFont=DEFAULT
+// The speech font to use - DEFAULT or font number
+//#SpeechFont=DEFAULT
+// Text direction - DEFAULT, LEFT or RIGHT
+//#TextDirection=DEFAULT
+//  
+// ** REMEMBER, WRITE YOUR TRANSLATION IN THE EMPTY LINES, DO
+// ** NOT CHANGE THE EXISTING TEXT.
+Do you want to hear about my trip to the Orient?
+Vuole che le racconti del mio viaggio in Oriente?
+How have things been here at Barnett?
+Come sono andate le cose qui al Barnett College?
+Have you seen Marcus?
+Ha visto Marcus?
+Water balloon incident?
+L'incidente del pallone d'acqua?
+Can you tell me anything about that trip Marcus went on?
+Puo' raccontarmi qualcosa del viaggio di Marcus?
+What was that about Marcus again?
+Mi dica ancora cosa e' successo a Marcus.
+Goodbye.
+Arrivederci.
+In all honesty, no. I have a ton of marking to do.
+In tutta onesta', no. Ho un sacco di cose da fare.
+Things have been going well here. Except for that "Water balloon incident"... Don't ask.
+Le cose stanno andando bene qui. Ad eccezione di quell'"incidente del pallone d'acqua"... Non mi chieda nulla.
+Marcus? He left last week on a trip to the Southwest, I believe.
+Marcus? Se ne e' andato la settimana scorsa per un viaggio a sud-ovest, credo.
+Well, it all started a week ago when two students decided to... No, no, I'm not going through this again. It's in the past, Indy, leave it there.
+Beh, tutto e' iniziato una settimana fa quando due studenti hanno deciso di... No, no, non voglio pensarci di nuovo. E' roba del passato, Indy, lasciamola li'.
+Sorry, no.  Wait... That reminds me. I believe a telegram arrived this morning for you, check with your secretary.
+Spiacente, no. Aspetti... Forse c'era qualcosa... Credo che un telegramma sia arrivato stamattina per lei. Provi dalla sua segretaria.
+Thanks for the information.
+Grazie per l'informazione.
+You were sent a telegraph, go to your secretary to find out more.
+Ha ricevuto un telegramma; vada dalla sua segretaria per saperne di piu'.
+Goodbye, Doctor Jones.
+Arrivederci, Dottor Jones.
+I heard that a telegram came in for me?
+C'e' un telegramma per me?
+Do you want to hear about my trip?
+Vuole che le racconti del mio viaggio?
+Irene do you have a spare key?
+Irene, hai una chiave di riserva?
+No, I haven't.
+No, mi spiace.
+Oh, yes... It slipped my mind. A telegram from Marcus arrived for you this morning...
+Oh, si... Mi era passato di mente. Un telegramma di Marcus: e' arrivato per lei stamattina...
+I put it in your file cabinet in your office...
+L'ho messo nello schedario del suo ufficio...
+Here, take this key for your office cabinet.
+Ecco, questa e' la chiave del suo schedario.
+Thanks.
+Grazie.
+Not now, I'm very busy.
+Non adesso, sono veramente indaffarata.
+For your cabinet again Doctor Jones? Yes, right here.
+Ancora per lo schedario, Dottor Jones? Si per di qui.
+Bye, Doctor Jones.
+Salve, Dottor jones.
+Maybe this will teach you to apply yourselves.
+Forse questo ti insegnera' ad applicarti meglio.
+You shouldn't be surprised, you've been failing all year long.
+Non dovresti esserne sorpreso, sei stato in ozio tutto l'anno!
+Well, you did put that frog in Irene's desk...
+Beh, hai messo quella rana nella scrivania di Irene...
+Well, you did hang Professor Mulbray's shorts from the flagpole...
+Beh, hai appeso i boxer del Professor Mulbray nel pennone...
+Well, you did egg Marcus Brody's car...
+Beh, hai lanciato delle uova sull'auto di Marcus Brody...
+Well, you did throw a rock through the dean's window...
+Beh, hai lanciato un sasso nella finestra del decano...
+Really?  Maybe we'll win some games now.
+Davvero? Allora forse vinceremo qualche partita adesso.
+Maybe when you learn to behave then they'll let you play again.
+Forse quando imparerete come ci si comporta vi lascero' giocare di nuovo.
+I was just doing my duty as a teacher here.
+Stavo solo facendo il mio dovere di insegnante, qui.
+Yeah, well, maybe me and Bruno have more important things to worry about than people who find old junk in the dirt! Right, Bruno?
+Eh gia'... forse io e Bruno abbiamo cose piu' importanti di cui preoccuparci, al contrario delle persone che vanno cercando vecchie cianfrusaglie nella immondizia! Giusto, Bruno?
+Haw, haw, haw!
+AH AH AH!
+And that's not all! You also ratted us out to the principal for being trouble makers!
+E non e' tutto! Ci hai anche denunciato dal Preside come facinorosi!
+Hey, we were trying to give her a little gift!
+Ehi, stavamo cercando di farle un piccolo regalo!
+Well, that's not the worst of it, teach! Because of what you did, we have been suspended from the team!
+Alla fine non e' stato questo il peggio, Prof.! A causa sua siamo stati sospesi dalla squadra!
+Well, ok, maybe we did do that...
+Beh... ok... forse lo abbiamo fatto...
+Hey! We were just eating lunch when the eggs... Uh... Slipped out of our hands!
+Stavamo solo pranzando quando le uova... ehm... ci sono scivolate dalle mani!
+That was an accident! The rock slipped out of my hand as I was... Uh... Cleaning it!
+E' stato un incidente! Il sasso e' scivolato dalla mia mano mentre lo stavo... ehm... spolverando!
+Well, you're going to be sorry for messing with us, teach! Right, Bruno?
+In futuro le dispiacera' per averci fatto questo brutto tiro, Prof.! Vero, Bruno?
+GUI_LANGUAGE
+it
+en
+
+it
+
+Unrecognized translation language : %s
+
+Changing the sprites TO English is not supported. Start the game directly in English please.
+
+In Translations::SetTranslatedSprites : Language not implemented for sprites : %d
+
+door
+porta
+trunk
+bagagliaio
+car
+auto 
+cabinet
+schedario
+drawer
+cassetto
+Walk to @OVERHOTSPOT@
+Vai verso @OVERHOTSPOT@
+Look at @OVERHOTSPOT@
+Esamina @OVERHOTSPOT@
+Use @OVERHOTSPOT@
+Usa @OVERHOTSPOT@
+Talk to @OVERHOTSPOT@
+Parla con @OVERHOTSPOT@
+Open @OVERHOTSPOT@
+Apri @OVERHOTSPOT@
+Close @OVERHOTSPOT@
+Chiudi @OVERHOTSPOT@
+Push @OVERHOTSPOT@
+Spingi @OVERHOTSPOT@
+Pull @OVERHOTSPOT@
+Tira @OVERHOTSPOT@
+Pick up @OVERHOTSPOT@
+Prendi @OVERHOTSPOT@
+Give 
+Dai
+%s
+%s
+ to @OVERHOTSPOT@
+ a @OVERHOTSPOT@
+Give @OVERHOTSPOT@
+Dai @OVERHOTSPOT@
+Use 
+Usa
+ with @OVERHOTSPOT@
+ con @OVERHOTSPOT@
+scrnshot.bmp
+scrnshot.bmp
+Double-Click Run Disabled
+Doppio click disabilitato
+Double-Click Run Enabled
+Doppio click abilitato
+Please enter a name for your saved game.
+Scrivi un nome per salvare il gioco.
+The maximum number of saved games has been reached; overwrite or delete some old ones.
+Hai raggiunto il numero massimo di salvataggi; sovrascrivi o cancella qualcosa.
+Please select a saved game to be loaded.
+Scegli il gioco da caricare.
+Please select a saved game to be loaded
+Scegli il gioco da caricare.
+Sorry, no save files have been detected.
+Spiacente, nessun salvataggio e' stato rilevato.
+I can't push myself!
+Non posso spingere me stesso!
+I can't pull myself...
+Non posso tirare me stesso!
+I can only give to someone else...
+Posso dare solo a qualcun altro...
+That will never work.
+Non funzionera' mai.
+I have better things to do.
+Ho cose migliori da fare.
+It's me, Indiana Jones.
+Sono io, Indiana Jones!
+That's not really possible.
+Non e' veramente possibile.
+I can't pick myself up.
+Non posso prendere me stesso.
+No, I'm still sane.
+No, sono ancora in salute.
+Maybe later...
+Forse piu' tardi...
+I can't pull him, he's not a lever.
+Non posso tirarlo, non e' una leva.
+I don't think Mulbray needs to see my wallet.
+Non penso che Mulbray necessiti di vedere il mio portafogli.
+I don't think he'd like that.
+Non penso che gli piacerebbe.
+Mulbray isn't a door.
+Mulbray non e' una porta.
+That won't work.
+Non funzionerebbe.
+It's Professor Mulbray.
+E' il Professor Mulbray.
+I can't pick up Mulbray...
+Non posso prendere Mulbray...
+Hello, Professor...
+Salve, Professore...
+Welcome back, Doctor Jones... I trust your trip to the Orient went well?
+Bentornato, Dottor Jones... Mi auguro che il suo viaggio in Oriente sia andato bene!
+Yes, I guess it did...
+Si, penso proprio di si...
+Well, that's good to hear.
+Bene, sono contento per lei.
+That wouldn't do anything.
+Sarebbe meglio evitarlo.
+Why would I want to do that?!
+Perche' dovrei volerlo?
+No, I have a feeling I'll need it.
+No, ho la sensazione che ne avro' bisogno.
+I don't think she'd like that.
+Non penso che le piacerebbe.
+Not now, maybe later...
+Non adesso, forse piu' tardi...
+It's Irene, my secretary.
+E' Irene, la mia segretaria.
+No.
+No.
+There's no way I'd ever do that.
+Non c'e' ragione che io debba farlo.
+Good afternoon, Irene.
+Buon pomeriggio, Irene.
+Good afternoon, and welcome back Doctor Jones.
+Buon pomeriggio e bentornato, Dottor Jones.
+He's a jerk, but that doesn't mean I should be pushing them around.
+E' un idiota, ma questo non significa che io dovrei spingerlo qua e la'.
+I have no need to bribe them.
+Non ho bisogno di corromperli.
+... But I'd pay him if he'd wash my car.
+... ma lo pagherei se lui lavasse la mia auto.
+I doubt that would change anything.
+Dubito che questo cambierebbe le cose.
+That can't work.
+Non puo' funzionare.
+One of Barnett College's juvenile delinquents.
+Uno dei giovani delinquenti del Barnett College.
+No, that wouldn't be good idea..
+No, non sarebbe una buona idea...
+Hello, Biff...
+Ciao, Biff...
+Hey teach, you have some nerve for flunking us!
+Ehi Prof., hai qualche motivazione per bocciarci?
+Ah yes, that last test...
+Ah si, l'ultimo compito in classe...
+Yeah, well me and Bruno aren't happy about it!
+Si, beh... io e Bruno non siamo contenti di questo!
+Talking to them anymore would be a waste of time.
+Continuare a parlare con loro sarebbe solo una perdita di tempo.
+I don't think so.
+Non e' proprio il caso.
+He doesn't seem to be the talkative type.
+Non sembra essere un tipo loquace.
+No, I don't want to get my hands covered in oil.
+No, non voglio sporcarmi le mani di olio.
+It's an oil can I took from the janitor's closet.
+E' un'oliatrice che ho preso dal ripostiglio del custode.
+That's not possible.
+Non e' possibile.
+I can't really pull it.
+Davvero, non posso tirarlo.
+That won't do anything.
+Non risolvera' nulla.
+I don't think that will work.
+Non penso che funzionera'.
+I can't use the oil can with itself...
+Non posso usare l'oliatrice con se stessa...
+It's the key to my office cabinet.
+E' la chiave del mio schedario.
+I don't see how that can work.
+Non vedo come possa funzionare.
+I can't use the key on itself!
+Non posso usare la chiave su se stessa.
+All signs point to NO for this key...
+Tutti gli indizi dicono NO per questa chiave...
+Let's take a look at that telegram.
+Diamo un'occhiata a questo telegramma.
+I don't want to rip it.
+Non voglio strapparlo.
+No, that's not helpful.
+No, non serve a nulla.
+I should try to use that with something else...
+Dovrei tentare di usarlo con qualcos'altro...
+I have no need to fix a tire...
+Non ho bisogno di sistemare lo pneumatico...
+It's a tire repair kit.
+Si tratta di un kit di riparazione per pneumatici.
+I can't open that!
+Non posso aprirlo!
+I can't pull that!
+Non posso tirarlo!
+I doubt that would do anything.
+Dubito che servirebbe a qualcosa.
+I can't do that.
+Non posso farlo.
+It's my wallet.
+E' il mio portafogli.
+That won't accomplish anything.
+Non si ottiene niente.
+Seven Cities of Gold
+Le sette citta' dell'oro
+New Button
+Nuovo pulsante
+Quit Now?
+Vuoi uscire ora?
+Quit and go to main menu?
+Vuoi uscire e tornare al menu principale?
+Indiana Jones
+Indiana Jones
+New character
+nuovo personaggio
+Students
+studenti
+Professor Mulbray
+Professor Mulbray
+Irene
+Irene
+Narrator
+narratore
+Biff
+Biff
+Bruno
+Bruno
+Oil Can
+oliatrice
+Office Key
+chiave dello schedario
+Telegram
+telegramma
+Tire Repair Kit
+kit di riparazione pneumatici
+Wallet
+portafogli
+Sorry, not now.
+Spiacente, non ora.
+Restore
+Ripristina
+Cancel
+Cancella
+Select a game to restore:
+Scegli un gioco da caricare:
+Save
+Salva
+Type a name to save as:
+Scrivi un nome per salvare come:
+Replace
+Sostituisci
+The save directory is full. You must replace an existing game:
+La cartella di dei giochi salvati e' piena. Devi sostituire un gioco esistente:
+Replace:
+Sostituisci:
+With:
+Con:
+Quit
+Chiudi
+Play
+Gioca
+Are you sure you want to quit?
+Sei sicuro di uscire?
+You are carrying nothing.
+Non possiedi niente.
+Talking to yourself is a sign of madness!
+Parlare da soli e' sintomo di pazzia!
+You rub your hands up and down your clothes.
+Strofina le mani su e giu' per i vestiti.
+I'm looking good today!
+Mi sento proprio bene oggi!
+Hotspot 4
+
+Hotspot 5
+
+Hotspot 6
+
+Hotspot 7
+
+Hotspot 8
+
+Hotspot 9
+
+Hotspot 10
+
+Hotspot 11
+
+Hotspot 12
+
+Hotspot 13
+
+Hotspot 14
+
+Hotspot 15
+
+Hotspot 16
+
+Hotspot 17
+
+Hotspot 18
+
+Hotspot 19
+
+Hotspot 20
+
+Hotspot 21
+
+Hotspot 22
+
+Hotspot 23
+
+Hotspot 24
+
+Hotspot 25
+
+Hotspot 26
+
+Hotspot 27
+
+Hotspot 28
+
+Hotspot 29
+
+Hotspot 30
+
+Hotspot 31
+
+Hotspot 32
+
+Hotspot 33
+
+Hotspot 34
+
+Hotspot 35
+
+Hotspot 36
+
+Hotspot 37
+
+Hotspot 38
+
+Hotspot 39
+
+Hotspot 40
+
+Hotspot 41
+
+Hotspot 42
+
+Hotspot 43
+
+Hotspot 44
+
+Hotspot 45
+
+Hotspot 46
+
+Hotspot 47
+
+Hotspot 48
+
+Hotspot 49
+
+In discovering his past, man can discover his future...
+Analizzando il suo passato, l'uomo puo' scoprire il suo futuro...
+Maybe the next great moment in man's history will be his discovery of some long lost secret of the past...
+Forse il prossimo grande momento nella storia dell'uomo sara' la sua scoperta di un segreto a lungo perduto del passato...
+OK, then... Read chapters 21 and 22 for next week. You are dismissed.
+OK allora... Leggetevi i capitoli 21 e 22 per la prossima settimana. Potete andare.
+It's good to be back here at Barnett College. I just got back from a trip to the Orient...
+E' bello essere di nuovo qui al Barnett College. Sono appena tornato da un viaggio in Oriente...
+I wonder where Marcus is? I haven't seen him since I've gotten back... I better find out where he is.
+Mi chiedo dove sia Marcus. Non l'ho piu' visto da quando sono tornato... Meglio scoprire dove si trova.
+I should probably put in a word for a new one.
+Probabilmente dovrei spendere una parola buona per averne una nuova.
+I don't think the chalkboard will work with that.
+Non credo che la lavagna funzioni con quello.
+I have better things to do than talk to inanimate objects.
+Ho cose migliori da fare che parlare con oggetti inanimati.
+This isn't some secret passage leading to a crazed genius who creates evil mutant tentacles.
+Questo non e' un passaggio segreto che porta a scienziati pazzi che creano malvagi tentacoli mutanti.
+I'm not in the mood.
+Non sono in vena.
+It's attached firmly to the wall.
+E' saldamente attaccata al muro.
+Why on Earth would I do that? It's as if some other being is possessing me to think about doing all these strange things...
+Perche' mai dovrei farlo? E' come se qualche altro essere si fosse impossessato di me, per pensare di fare tutte queste cose strane...
+Why would I want to carry around a chalkboard?
+Perche' dovrei voler portare in giro una lavagna?
+I don't want to pull that.
+Non voglio tirarla.
+As much fun as it would be to push the desk and give myself a back spasm, I think I'll pass.
+Sarebbe divertente spingere la scrivania... e beccarmi il colpo della strega! No, grazie... per stavolta passo.
+I can't give to that.
+Meglio di no.
+The desk's drawer has been stuck for years...
+Il cassetto della scrivania e' rimasto incastrato per anni...
+That just won't work.
+Non funziona proprio.
+It's a desk.
+E' una scrivania.
+It's too heavy to lift.
+E' troppo pesante da sollevare.
+Hello?
+Salve?
+I have a feeling that won't work.
+Qualcosa mi dice che non funziona.
+That wouldn't work.
+Non funziona.
+I have nothing to add to the billboard.
+Non ho nulla da aggiungere alla bacheca.
+It can't be opened.
+Non si apre.
+It can't be closed.
+Non si chiude.
+It's a billboard.
+E' una bacheca.
+FOR SALE: 1938 Packard. Call Frank.
+IN VENDITA: 1938 Packard. Chiedere di Frank.
+Debate this Monday Night - The Holy Grail: Myth or Reality?
+Il dibattito di questo lunedi' sera - Il Santo Graal: mito o realta'?
+I think I know the answer to that question...
+Penso di sapere la risposta a questa domanda...
+This space is for rent. Contact R. Derocher.
+Questo spazio e' in vendita. Contattare R. Derocher.
+WANTED: Gas for a chainsaw. Call Dave.
+SI CERCA: GAS per una motosega. Chiedere di Dave.
+Vote Gracie Allen for President.
+Vota Gracie Allen come Presidente.
+Meeting of Barnett Shakespeare Society this Tuesday in the auditorium.
+Riunione del Barnett Shakespeare Society questo martedi' nell'auditorium.
+FOR SALE: Collection of Buck Rogers comic books. Call Earl.
+SI CEDE: Collezione di fumetti di Buck Rogers. Chiedere di Earl.
+WANTED: Lab Assistant. Good pay. No questions asked. Call Doctor Fred.
+SI CERCA: assistente di laboratorio. Buona paga. Niente domande. Chiedere del Dottor Fred.
+Movie Saturday night: Robin Hood starring Errol Flynn.
+Film del sabato sera: Robin Hood interpretato da Errol Flynn.
+A billboard that talks? Now that's a novel concept.
+Una bacheca che parla? Per ora e' un concetto fantascientifico.
+My wallet wouldn't work with that.
+Il mio portafogli non funziona con quello.
+If I want to use this door, I should OPEN it.
+Se voglio usare questa porta, dovrei APRIRLA.
+It's already open.
+E' gia' aperta.
+It's already closed.
+E' gia' chiusa.
+It's an average door.
+E' una semplice porta.
+I can't pick the door up!
+Non posso prendere su la porta!
+The door works fine. If I want to use this door, I should OPEN it.
+La porta funziona bene. Se voglio usare questa porta, dovrei APRIRLA.
+FOR SALE: A math hand book. Will sell for $50,[ or trade for new slide rule.
+IN VENDITA: Un manuale di matematica. Sara' venduto per 50 dollari, [ o barattato per una nuova diapositiva
+It's the telegraph from Marcus. It says to meet him in Arizona.
+E' il telegramma di Marcus. Dice di raggiungerlo in Arizona.
+It's the key to my office.
+E' la chiave del mio schedario.
+No hotspot
+
+Chalk Board
+lavagna
+Indy's Desk
+scrivania di Indy
+Billboard
+bacheca
+Door
+porta
+I think they are fine where they are.
+Penso che stiano bene li'.
+I don't need to use these.
+Non serve.
+Several framed photographs of Barnett's history.
+Diverse foto incorniciate sulla storia del Barnett College.
+I have no need to take the pictures. Besides, they are fine where they are.
+Non ho bisogno di prendere quelle foto. Oltretutto, stanno bene li'.
+I don't think that will do anything.
+Non penso che servira' a qualcosa.
+That's not a good idea.
+Non e' una buona idea.
+I think the case is fine where it is.
+Penso che la vetrina stia bene dov'e'.
+I don't have any artifacts on me.
+Non ho alcun manufatto con me.
+I'm not going to steal them!
+Non ho intenzione di rubarli!
+It's already closed!
+E' gia' chiusa!
+No, they belong in there.
+No, appartengono al college.
+It's a display case with some minor pieces that I collected in my travels.
+E' una vetrina con alcuni pezzi minori che ho raccolto nei miei viaggi.
+Why would I want to pick that up?
+Perche' dovrei volerla prendere?
+The case is fine, I don't need to do anything with it.
+La vetrina va bene cosi', non ho bisogno di cambiare nulla.
+No, I'd get all wet.
+No, mi bagnerei tutto.
+I don't think that'll do anything.
+Non penso che servira' a qualcosa.
+That wouldn't do anything productive.
+Non servirebbe a niente di proficuo.
+This can't be opened.
+Non puo' essere aperta.
+This can't be closed.
+Non puo' essere chiusa.
+Well, I guess I could go for a small drink...
+Bene, mi serve proprio un sorso d'acqua.
+Ah, refreshing.
+Ah... rinfrescante!
+It's a drinking fountain.
+E' una fontanella.
+That's not going to happen.
+Non succedera'.
+I don't want to get my money all wet.
+Non voglio ritrovarmi i soldi tutti bagnati.
+I don't want to ruin the telegram!
+Non voglio rovinare il telegramma!
+The fountain doesn't need to be tinkered with.
+La fontanella non ha bisogno di essere oliata.
+I could move the tape, but I don't want to mess up the paint job or my shoes...
+Potrei spostare il nastro, ma non voglio rovinare la nuova tinta o le mie scarpe...
+It's taped off because it has just been painted.
+Il piano superiore e' inagibile perche' e' stato appena tinteggiato.
+That wouldn't help.
+Non aiutera' di certo.
+I don't think that's a good idea.
+Non penso che sia una buona idea.
+I really don't think that will do anything.
+Davvero: penso che non servira' a nulla.
+ERROR: Insert Disk 11.
+ERRORE: Inserire Disco 11.
+CRITICAL ERROR! DISK HAS NOT BEEN INSERTED!
+ERRORE CRITICO! IL DISCO NON E' STATO INSERITO!
+Oh, great. You broke the game, I hope you're happy.
+Oh caspita! Hai rotto il gioco... Spero tu ora sia contento.
+Just for that...
+Per cosi' poco...
+GAME OVER!
+GAME OVER!
+Just kidding!
+Era solo un piccolo scherzo!
+No, I might damage the fabric of time as we know it by doing that again.
+No, potrei danneggiare il continuum temporale cosi' come lo conosciamo se lo facessi ancora.
+It's the janitor's broom.
+E' la scopa del custode.
+I don't need that.
+Non ne ho bisogno.
+Where do you think we are? This could work on Mars, but not here!
+Ma dove pensi che siamo? Questo potrebbe funzionare su Marte, ma non qui!
+That's not really going to work.
+Sul serio, non funzionera'.
+I can't really get there, the paint on the stairway is drying.
+Davvero, non posso salire, la vernice deve ancora asciugarsi.
+The hallway is not a person.
+Il corridoio non e' una persona.
+That won't do anything useful.
+Non serve a niente.
+It's the door to my classroom.
+E' la porta della mia classe.
+It's the door to Mulbray's classroom.
+E' la porta della classe di Mulbray.
+There's a class in session in there. I don't want to go in and disturb it.
+C'e' lezione dentro. Non voglio disturbare.
+It's the door to Irene's office.
+E' la porta dell'ufficio di Irene.
+It's the janitor's closet.
+E' l'armadio del custode.
+I should find out where Marcus left before I decide to go somewhere.
+Dovrei sapere che fine ha fatto Marcus, prima di andare da qualche parte.
+It's a pair of front doors.
+Sono le porte dell'ingresso.
+I can't pick the doors up!
+Non posso prendere le porte!
+I better not... I could spill the oil and cause a mess.
+Meglio di no... Potrei rovesciare l'olio e combinare un disastro.
+No, I don't think that'll work.
+Non credo che funzionera'.
+It looks to be an oil can, although knowing the janitor it could be anything.
+Sembra essere una oliatrice, ma conoscendo il custode potrebbe essere qualsiasi cosa.
+I don't think anybody will mind if I take this.
+Nessuno si accorgera' se prendo questa.
+I can't talk to that!
+Non posso parlarci!
+I don't think I can use anything with that.
+Non penso di poter usare alcunche' con questo.
+Display Case
+vetrina
+Drinking Fountain
+fontanella
+Stairway
+scalinata
+Broom
+scopa
+Pictures
+fotografie
+Hallway
+corridoio
+Closet Door
+porta dell'armadio
+Front Doors
+porte dell'ingresso
+Mulbray's chalkboard sure is cluttered.
+La lavagna di Mulbray e' davvero confusionaria.
+That wouldn't solve anything.
+Non risolverebbe nulla.
+I don't think Mulbray would like me going through his drawers.
+Non credo che a Mulbray piacerebbe se frugassi nei suoi cassetti.
+FOR SALE: Oriental Rug from Pankot Palace in India. Call Stephen S.
+IN VENDITA: Tappeto orientale dal palazzo Pankot in India. Chiedere di Stephen S.
+Here's a scrawled note that reads: Aliens are among us and are controlling the Phone Company!
+E' una nota scarabocchiata che dice: Gli alieni sono tra noi e controllano la Compagnia Telefonica!
+Debate Next Week: The Location of Atlantis. Professor David Fox with the view that Atlantis was near Cuba and Professor Hal Barwood with the view that Atlantis was near Crete.
+Dibattito della prossima settimana: Dov'e' Atlantide? Il Professor David Fox e' dell'opinione che Atlantide fosse vicino a Cuba; il Professore Hal Barwood dice che invece fosse vicino a Creta.
+I happen to know that Hal is right on this matter...
+Penso di poter dire che Hal abbia ragione su questo argomento...
+Honor Roll Students: Sign up for the Barnett Spring Break Cruise to the Caribbean! You'll visit the following islands: Phatt, Melee, and Scabb... And will also visit the ever exotic Monkey Island!
+Gite per gli studenti piu' meritevoli: Iscriviti alla crociera "Spring Break Barnett" per i Caraibi! Potrai visitare le seguenti isole: Phatt, Melee, Scabb... E anche la mitica ed esotica Monkey Island!
+Here's a newspaper clipping... Government denies that it is hiding the Ark of the Covenant in a secret warehouse.
+Questo e' un ritaglio di giornale... Il Governo nega di nascondere l'Arca dell'Alleanza in un magazzino segreto.
+Movie tonight: Gone with the Wind.
+Film in programmazione stasera: Via col vento.
+Lecture tonight by Professor Ron Gilbert in the auditorium.
+Lezione dal professor Ron Gilbert questa sera nell'auditorium.
+Chalkboard
+lavagna
+Mulbray's Desk
+scrivania di Mulbray
+I'd probably break them if I did that.
+Se lo facessi probabilmente le romperei.
+I don't think that will do anything useful.
+Non credo che fara' qualcosa di utile.
+That's not really necessary.
+Non e' proprio necessario.
+Some photos belonging to Irene, or so I would assume.
+Alcune foto sono di Irene, o almeno cosi' presumo.
+I don't think that works.
+Non penso che funzionerebbe.
+I don't need Irene's photographs.
+Non ho bisogno delle foto di Irene.
+I really don't want to do that.
+Veramente, non voglio farlo.
+I think they are fine in their present condition.
+Secondo me stanno bene come sono.
+No, Irene would get mad.
+No, Irene si arrabbierebbe.
+There's no point to that.
+Non ne vedo la ragione.
+I have no need to do that.
+Non ho bisogno di farlo.
+It's Irene's desk.
+E' la scrivania di Irene.
+I don't want to bother.
+Non voglio disturbare.
+No, I don't think that would do anything.
+No, non penso che servirebbe a qualcosa
+I don't think Irene would like that.
+Non credo che a Irene piacerebbe.
+I don't really want to.
+Non voglio veramente farlo.
+No, that would get Irene mad.
+No, farei arrabbiare Irene.
+It's today's date: Friday, April 12, 1940. I wish it was the weekend already...
+E' la data di oggi: Venerdi', 12 aprile 1940. Vorrei che fosse gia' il fine settimana...
+I don't need to take Irene's calendar.
+Non ho bisogno del calendario di Irene.
+That will never do anything useful.
+Non servira' mai a niente di utile.
+It's working fine, I don't want to mess with it.
+Sta funzionando bene, non voglio fare disastri.
+That's not needed.
+Non e' necessario.
+No, I don't want to mess with it.
+No, non voglio creare pasticci.
+There's no need to do that.
+Non c'e' bisogno di farlo.
+This was a gift from the school to Irene.
+Questo e' un regalo della scuola per Irene.
+Seems a bit heavy to carry around...
+Sembra un po' pesante da portare in giro...
+I have a feeling that will yield no results.
+Ho la sensazione che non portera' ad alcunche' di utile.
+I don't think Irene wants me doing that.
+Non penso che Irene ne sarebbe contenta.
+That wouldn't be useful.
+Non ne vedo l'utilita'.
+It's just Irene's file cabinet.
+E' solo lo schedario di Irene.
+There's nothing I need from the file cabinet.
+Non mi serve nulla dallo schedario.
+I don't want that.
+Non lo voglio.
+It's a door.
+E' una porta.
+Irene's Desk
+scrivania di Irene
+Calendar
+calendario
+Grandfather Clock
+orologio del nonno
+File Cabinet
+schedario
+Photographs
+fotografie
+That doesn't really work.
+Non funziona.
+No, I don't think that's a good idea.
+No, non penso che sia una buona idea.
+I can't really do that.
+Non posso farlo.
+Pointless... Marcus is not at home.
+Inutile... Marcus non e' in casa.
+I hope the mobile phone will be invented soon.
+Spero che inventino presto il telefono cellulare!
+It's my telephone.
+E' il mio telefono.
+I don't want to lug that around.
+Non voglio trascinarmelo dietro.
+That won't help my current situation.
+Non risolvera' la mia attuale situazione.
+I don't need to do that.
+Non ho bisogno di farlo.
+It's already a mess, I don't want to make it worse.
+Sono gia' penosi cosi', non voglio peggiorare la situazione.
+No, I don't want to mark these terrible papers now.
+No, non voglio correggere questi terribili compiti adesso.
+My students' work. What a mess.
+I compiti dei miei studenti. Che disastro!
+I have no need for them!
+Non ho bisogno di loro!
+No, that's not going to happen.
+No, proprio no.
+The window is already shut.
+La finestra e' gia' chiusa.
+It looks like a nice day outside.
+Sembra una bella giornata, fuori.
+I don't need to open the window right now.
+Non ho bisogno di aprire la finestra ora.
+That wouldn't do anything useful.
+Non servirebbe a nulla.
+That's a bad idea, last time I did that I threw out my back.
+E' una cattiva idea: l'ultima volta che l'ho fatto mi sono spezzato la schiena.
+The drawer is already closed.
+Il cassetto e' gia' chiuso.
+No, I don't want to move it.
+No, non ho bisogno di muoverlo.
+It's my desk.
+E' la mia scrivania.
+There's nothing in the drawer, why bother?
+Non c'e' niente nel cassetto, perche' preoccuparsi?
+I think it's fine where it is.
+Penso che stia bene li' dov'e'.
+It's a rare Ancient Roman statue of an Emperor's two pets: Samius and Maximus.
+E' una rara statua romana su due animali di un Imperatore: Samius e Maximus.
+It's too heavy for me to do that.
+E' troppo pesante per me farlo.
+No, that won't solve anything.
+No, non risolvera' nulla.
+Looks pretty heavy, I better not.
+Sembra piuttosto pesante, meglio di no.
+I don't think that's possible.
+Non penso che sia possibile.
+I doubt that will do anything.
+Dubito che servita' a qualcosa.
+Poor Marcus... He bought this from a street vendor in Cairo. He insists that it is actually the nose from the Sphinx...
+Povero Marcus... Ha comprato questo da un venditore ambulante al Cairo. Insiste nel dire che e' davvero il naso dalla Sfinge...
+Now why did I let Marcus talk me into keeping this in here?
+Come ho fatto a lasciarmi convincere da Marcus a tenerlo qui?
+I don't think that will work..
+Non penso che funzionera'...
+These things won't go together.
+Queste cose non funzionano insieme.
+I think that Chuck is fine where he is.
+Penso che Chuck stia bene li' dov'e'.
+This used to be at my father's house, but he gave it to me as a gift last year.
+Era a casa di mio padre, ma me l'ha regalata l'anno scorso.
+Hi Chuck!
+Ciao Chuck!
+I don't think that would work.
+Non penso che funzionerebbe.
+Just some oddities I've collected in my travels...
+Solo alcune stranezze che ho raccolto nei miei viaggi ...
+I don't need anything from there.
+Non ho bisogno di niente da li'.
+No, there is nothing from the shelf I need.
+No, non c'e' nulla che possa servirmi dallo scaffale.
+I don't want to do that.
+Non voglio farlo.
+It's locked. I need my office key to open it.
+E' chiuso. Ho bisogno della chiave per aprirlo.
+The key is stuck, I need something to move it.
+La chiave si e' incastrata. Mi serve qualcosa per muoverla.
+I should OPEN, CLOSE, PULL, or PUSH to use this cabinet.
+Dovrei APRIRE, CHIUDERE, SPINGERE o TIRARE per usare questo schedario.
+My old file cabinet... So old you could probably call it a relic!
+Il mio vecchio schedario... Cosi' vecchio che potresti considerarlo una reliquia!
+Here's a telegram from Marcus!
+Ecco un telegramma da Marcus!
+I already got the telegram. There's nothing else of interest in the cabinet.
+Ho gia' preso il telegramma. Non c'e' altro che mi interessi nello schedario.
+No, I don't want to pick the cabinet up.
+No, non voglio prendere lo schedario.
+It's not going to happen.
+Non succedera'.
+There! The oil has freed the key... I think it's now unlocked.
+Ecco! L'olio ha liberato la chiave... Penso che ora si sia sbloccato.
+Oh great, now the key is stuck in the lock. I'll need to free it somehow...
+Caspita! Adesso la chiave e' incastrata nella serratura. Ho bisogno di liberarla in qualche maniera...
+I don't need to add that to the file cabinet.
+Non ho bisogno di metterlo nello schedario.
+Window
+finestra
+Desk
+scrivania
+Roman Statue
+statua romana
+Sphinx Nose
+naso della Sfinge
+Chuck the Plant
+Chuck la pianta
+Shelves
+scaffali
+Papers
+compiti in classe
+Telephone
+telefono
+I guess I better head over to Arizona! I wonder what Marcus discovered there?
+Credo sia meglio dirigersi in Arizona! Chissa' che cosa avra' scoperto Marcus la'?
+Exit
+Uscita
+Hotspot 2
+
+Hotspot 3
+
+I think that this will teach old Doctor Jones a lesson not to mess with us!
+Penso che questo insegnera' al vecchio Dottor Jones la lezione. Mai mettersi contro di noi!
+He won't be going anywhere for awhile with a slashed tire, will he, Bruno?
+Non andra' da nessuna parte con uno pneumatico tagliato, giusto Bruno?
+Haw haw haw!
+AH AH AH !
+Just, great... It looks like someone slashed my tire!
+Fantastico... Sembra che qualcuno mi abbia tagliato uno pneumatico!
+I can't pull my car!
+Non posso tirare la mia auto!
+I have no need to push my car.
+Non ho bisogno di spingere la mia auto.
+I don't think I can give to my car.
+Non penso che possa darlo alla mia auto.
+I better close the trunk first...
+Meglio chiudere il bagagliaio, prima...
+Arizona, here I come!
+Arizona, arrivo!
+I can't leave now, the tire is flat!
+Non posso partire adesso: lo pneumatico e' tagliato!
+It's my car.
+E' la mia auto.
+No, that won't do anything.
+No, non servira' a nulla.
+Maybe if I use this with the flat tire...
+Forse se lo usassi con lo pneumatico...
+It works!
+Funziona!
+There's no point to that...
+Non ha molto senso...
+The trunk works fine, I don't need to do anything with it.
+Il bagagliaio va bene, non ho bisogno di farci nulla.
+It's the trunk of my car.
+E' il bagagliaio della mia auto.
+I can't close that!
+Non posso chiuderlo!
+That's not going to improve anything.
+Questo non migliorera' la situazione.
+No, that can't work.
+No, non puo' funzionare.
+I'm not walking to Arizona! I better take the car instead.
+Non andro' in Arizona a piedi! Meglio prendere l'auto.
+Hotspot 1
+
+Car
+auto
+Trunk
+bagagliaio
+ERROR: NO MAP REFERENCE
+
+Indiana Jones and the Seven Cities of Gold
+Indiana Jones e le Sette Citta' dell'Oro
+A Binary Legends Production
+Una produzione Binary Legends 
+Project Leader
+Capo progetto
+Rick Derocher
+Rick Derocher
+Story
+Storia
+Additional Story Ideas
+Idee aggiunte sulla storia
+Ben Barnes
+Ben Barnes
+Coding
+Codifica
+Ben Barnes [Timo Frank
+
+Background Artist
+Fondali
+Tolga ï¿½cek
+Tolga ï¿½cek
+Demo Sprite Artist
+Artista degli sprite della demo
+Aaron Milburn
+Aaron Milburn
+Additional Sprite Art
+Ulteriori sprite
+Additional Art
+Ulteriori disegni
+Christian Goehring [Ben Barnes
+Christian Goehring [Ben Barnes
+Musicians
+Musiche
+Tony Franklin [Arjan Pelle
+Tony Franklin [Arjan Pelle
+Project Consultant
+Consulente di progetto
+Joshua Derocher
+Joshua Derocher
+Website
+Sito web
+selmiak
+selmiak
+Beta Testing
+Beta Testing
+Rick Derocher [Ben Barnes [Christian Goehring [Tolga ï¿½cek [Timo Frank [Arjan Pelle
+Rick Derocher [Ben Barnes [Christian Goehring [Tolga ï¿½cek [Timo Frank [Arjan Pelle
+Additional Team Members
+Ulteriori componenti del Team
+Tim Vlk [Timo Frank [Daniel Creed
+Tim Vlk [Timo Frank [Daniel Creed
+Special Thanks
+Ringraziamenti speciali
+George Lucas [Ron Gilbert [Hal Barwood [Noah Falstein
+George Lucas [Ron Gilbert [Hal Barwood [Noah Falstein
+Special Thanks To
+Ringraziamenti speciali
+The Fountain of Youth Team [Chris Jones
+The Fountain of Youth Team [Chris Jones
+is a registered trademark of Lucasfilm Ltd.
+E' un marchio registrato della LucasFilm Ltd.
+Binary Legends
+Binary Legends
+is not associated with Lucasfilm or LucasArts.  This is a free, fan-made adventure game.
+non e' associato con la Lucasfilm o la LucasArts. Questo e' un'avventura amatoriale realizzata dai fan senza scopo di lucro.
+LEGAL
+LEGAL
+Please see the attached readme for any legal matters.
+Prego, leggere il file "readme" qui allegato per qualsiasi questione legale.
+Binary Legends website:
+Sito web della Binary Legends
+http://binarylegends.5gigs.net [thanks for playing!
+http://binarylegends.5gigs.net [grazie per aver giocato!
+Click Screen!
+Clicca sullo schermo!
+... This stone artifact was discovered in my class dig.
+... questo manufatto in pietra e' stato scoperto durante gli scavi della mia classe.
+Several other Aborigine artifacts were discovered in the dig.
+Diversi altri manufatti aborigeni sono stati scoperti in quello scavo.
+Now the dig wasn't a major dig and the artifacts we discovered were not major finds...
+Ovviamente lo scavo non era importante, e i manufatti che abbiamo scoperto non erano reperti importanti...
+But each piece of history that archeology can uncover is important in the large scale of things...
+Ma ogni pezzo di storia che l'archeologia puo' scoprire e' importante su vasta scala...
+Every clue to man's past is a vital piece of knowledge.
+Ogni indizio passato dell'uomo e' un pezzo vitale della conoscenza.
+with @OVERHOTSPOT@
+con @OVERHOTSPOT@
+II don't want to lug that around.
+Non voglio trascinarmelo dietro.
+Please don't forget to add a language code (en, it, ...) under GUI_LANGUAGE in your .TRS file
+
+Tolga Öcek
+
+Rick Derocher [Ben Barnes [Christian Goehring [Tolga Öcek [Timo Frank [Arjan Pelle
+
+Please don't forget to add a language code (en, it, ...) under GUI_LANGUAGE in your .TRS file. Also keep in mind that you can't always run the translated game in Debug.
+
+normal
+
+pushed
+
+over
+
+Press F5 during the game to open the menu.
+
+Unknown language : %s
+
+Unable to change the translation
+
+English
+
+Italiano
+

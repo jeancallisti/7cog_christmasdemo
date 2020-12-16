@@ -1,0 +1,3908 @@
+// AGS TRANSLATION SOURCE FILE
+// Format is alternating lines with original game text and replacement
+// text. If you don't want to translate a line, just leave the following
+// line blank. Lines starting with '//' are comments - DO NOT translate
+// them. Special characters such as [ and %%s symbolise things within the
+// game, so should be left in an appropriate place in the message.
+// 
+// ** Translation settings are below
+// ** Leave them as "DEFAULT" to use the game settings
+// The normal font to use - DEFAULT or font number
+//#NormalFont=DEFAULT
+// The speech font to use - DEFAULT or font number
+//#SpeechFont=DEFAULT
+// Text direction - DEFAULT, LEFT or RIGHT
+//#TextDirection=DEFAULT
+//  
+// ** REMEMBER, WRITE YOUR TRANSLATION IN THE EMPTY LINES, DO
+// ** NOT CHANGE THE EXISTING TEXT.
+Well actually I did!
+
+Who ARE you?
+
+How did YOU get in here?
+
+I sell these fine leather jackets.
+
+You thought you could get away that easily!
+
+Wake up, pal. It's 1938! It belongs in a museum!
+
+Do you think Jesus' toe is actually in this box?
+
+The catacombs are outside monastery land.
+
+I was hired by the Vatican.
+
+I am brother Bernard, of the monastery of Saint-Luc,
+
+and this OUR crypt!
+
+How DARE you trespass and steal our most precious property?
+
+Give back the toe at once!
+
+ENOUGH OF THAT NONSENSE!
+
+I know all the secret passages!
+
+Give me the box this instant or I lock you up in here!
+
+OK, pal, no need to go all inquisitor on me.
+
+Here you go.
+
+Umph.
+
+Now, maybe we can talk?
+
+Look, we started on the wrong FOOT...
+
+Aren't you curious about what's REALLY inside?
+
+If you knew me better you'd trust me.
+
+It's fake anyways.
+
+Stamp collections are less idiotic than relics.
+
+So, you like relics... And beer, apparently.
+
+VER:1.1DATA:Are you trying to be funny, thief?
+
+VER:1.1DATA:Well, you know...
+
+VER:1.1DATA:Since the box supposedly contains a toe or whatnot...
+
+VER:1.1DATA:Aren't you curious about what's REALLY inside?
+
+VER:1.1DATA:No one looks at the relic! Even me, its guardian!
+
+In 10 centuries, we have never had the audacity to open this box.
+
+VER:1.1DATA:If you knew me better you'd trust me.
+
+VER:1.1DATA:I hate EVERYTHING about you.
+
+VER:1.1DATA:Oh come on, now...
+
+VER:1.1DATA:WHAT DID YOU SAY?!?
+
+VER:1.1DATA:The nerve of--
+
+VER:1.1DATA:Stamp collections are less idiotic than relics.
+
+VER:1.1DATA:EXCUSE ME?!?
+
+VER:1.1DATA:How dare you--
+
+VER:1.1DATA:So, you like relics... And beer, apparently.
+
+VER:1.1DATA:I BEG YOUR PARDON?!?
+
+VER:1.1DATA:I don't even know what to--
+
+BLASPHEMY!
+
+I WARNED YOU to respect the name of the Lord in my presence!
+
+Easy there, pal.
+
+I've had enough of your sarcastic tone and your cursing!
+
+For ONCE in your miserable life you will lay eyes on the most precious relic!
+
+And then never again!
+
+BEHOLD!
+
+...
+
+It's empty, you know.
+
+!?!
+
+Let me see.
+
+It's-- It's empty!
+
+That can't be!
+
+Look, there are some unusual scratchings inside.
+
+Wait a minute, these are not scratchings!
+
+This is the runic alphabet!
+
+The letters seem to have been carved hastily with a sharp object.
+
+Do you understand this pagan language? What does it say?
+
+I'm a bit rusty, the real specialist here would be Marcus.
+
+Who?
+
+Never mind.
+
+I believe it says...
+
+"Agsvald was here"
+
+Wh-- Are you sure?
+
+Yikes!
+
+Do you hear yourself?
+
+Golly!
+
+These are strong words.
+
+Zounds!
+
+Thats sounds extreme!
+
+Bejabbers!
+
+Did you really say that?
+
+Ouch!
+
+Jiminy Cricket!
+
+For God's sake!
+
+Are you for real?
+
+That hurt.
+
+Everyone LOVES the way I look.
+
+Everyone LOVES the way I dress.
+
+Everyone LOVES the way I talk.
+
+Everyone LOVES the way I use my smarts.
+
+VER:1.1DATA:Everyone LOVES the way I look.
+
+VER:1.1DATA:Your hat is covered in cobwebs and your face is all bruised!
+
+VER:1.1DATA:Fair enough.
+
+VER:1.1DATA:Everyone LOVES the way I dress.
+
+VER:1.1DATA:Button up that shirt, will you, punk?
+
+VER:1.1DATA:Everyone LOVES the way I talk.
+
+VER:1.1DATA:With all your cursing?
+
+VER:1.1DATA:Dammit! I only--
+
+VER:1.1DATA:...
+
+VER:1.1DATA:But I've heard worse.
+
+VER:1.1DATA:The one thing I hate is BLASPHEMY.
+
+VER:1.1DATA:'Taking the name of the Lord thy God in vain.'?
+
+VER:1.1DATA:Hearing God's name used as a curse makes me so furious I could just--
+
+VER:1.1DATA:But why am I even talking with you?
+
+VER:1.1DATA:Everyone LOVES the way I use my smarts.
+
+VER:1.1DATA:Don't make me laugh. You can't even leave this room.
+
+Strange as it sounds, I'm pretty sure.
+
+Agsvald sounds like a Viking name.
+
+When did you last check on the relic?
+
+You should have picked Runic over Latin.
+
+That is a CATASTROPHY!
+
+We've been watching over the Holy remains for almost a millenium!
+
+You're telling me that all that time they had been taken away?
+
+And by some bearded pagan adventurer at that!
+
+Wait, there's more.
+
+"Come get the body parts of your whiny god in Nissefest, if you dare."
+
+Our Lord is not whiny! How dare you!
+
+Hey, I'm just reading it as it is. Our friend Agsvald knows how to tease.
+
+What is this Nissefest he's talking about?
+
+I think it used to be a Viking settlement in Norway, many centuries ago.
+
+My son, the time has come for you to answer to a higher calling.
+
+You must be kidding me.
+
+You must bring back the relic, the salvation of your soul depends on it.
+
+Yeah, yeah.
+
+Plus, I would let you see the rare manuscripts of our monastry.
+
+Say no more.
+
+monkDialogFinished
+
+I'm done with you.
+
+I've had enough.
+
+Me and my relic, we're gone.
+
+Wait!
+
+What now.
+
+Can't you find the exit yourself?
+
+Don't insist, the reliquary stays closed.
+
+VER:1.1DATA:Oh, I see what you're doing.
+
+VER:1.1DATA:You think that if I lose my temper I might open the box.
+
+VER:1.1DATA:Well, joke's on you because...
+
+VER:1.1DATA:I'M NOT THE ONE WHO WILL ROT IN HELL!
+
+VER:1.1DATA:I'M NOT THE DEPRAVED SINNER IN THIS ROOM!
+
+VER:1.1DATA:UNLIKE YOU, I KNOW WHAT VIRTUE IS!
+
+currentMonkCursingDialog
+
+VER:1.1DATA:ERROR unexpected value for currCursing : %d
+
+VER:1.1DATA:Only the truth hurts.
+
+Hello! I'm an American archeologist.
+
+Could I speak to someone in town?
+
+Maybe I can help you with your boat?
+
+What is it you need again?
+
+I'll let you work.
+
+Oj, oj, oj.
+
+Sorry sir, I'm too busy, I cannot help you.
+
+It's the fishing season. Everyone's at sea from dusk till dawn.
+
+Except for me. My boat is damaged and I must fix it urgently.
+
+I really don't have time to talk, good bye sir.
+
+Ha! I don't think so.
+
+This old thing's engine has been patched so many times...
+
+...I'm probably the only person to know how to make it work.
+
+It used to finish the Fjord run in 12 nautic miles, you know.
+
+Anyways I'm too busy to continue this little chat.
+
+But if I help you fix it will you answer my questions?
+
+Listen min herr, I told you--
+
+Hmm...
+
+OK, listen.
+
+Next to the church, there's an old storehouse where I keep some tools.
+
+And inside of it there's a hose. Bring it back to me and we'll see.
+
+In the meantime I'll be busy with min lille hammer.
+
+hasReceivedFishermanMission
+
+Oj! I thought I was clear!
+
+Bring me the hose that's in the old storehouse, and I'll help you.
+
+Hurry up please, while I tighten a few bolts.
+
+If you don't mind.
+
+About the church...
+
+About that pile of ashes on the hill...
+
+Seen any vikings around  lately?
+
+Bye bye.
+
+Yes?
+
+Ha! Ha!
+
+Bye bye!
+
+Does your church host a relic or two?
+
+Quite authentic!
+
+I've noticed those strange holes in the wall...
+
+Can you sing one of his songs?
+
+Would you sing another song?
+
+How about another song?
+
+You have quite the sense of humor!
+
+But it's a tiny church. No relics. Not even a crypt.
+
+Yes, it's extremely old. From the times of massive Christian conversions.
+
+I even believe it was built on top of the Viking common hall.
+
+Peculiar, aren't they?
+
+As a kid, I used to imagine it was the holes of a flute.
+
+I get it. A boring mass can make the mind wander.
+
+Not only that, but our priest enjoyed music a lot.
+
+He had lots of songs to help us remember events and dates from the Bible.
+
+Do you mean... Songs he invented himself?
+
+Yes.
+
+Well, erm... That's a bit embarrassing.
+
+Come on, I helped you with your engine.
+
+Wouldn't you prefer a drinking song?
+
+OK, here goes :
+
+'Adam has Abel, that's one son...',
+
+'Adam has Cain, that's two sons...'
+
+'Cain kills Abel, that's one son again...'
+
+'Adam has Seth, that's two sons again...'
+
+I think I get the gist of it.
+
+That's a boring song but thanks to it I never forgot the genealogy of Adam.
+
+I wish my dad knew how to sing.
+
+How about this one:
+
+'the hip bone connects to the leg bone,'
+
+'The leg bone connects to the--'
+
+I already know that one.
+
+Yes, I think the priest adapted it from a famous song.
+
+I don't know any more songs but that one:
+
+'A door has a lock, the lock needs a key',
+
+'Push it three times!'
+
+'The lock can also be a key',
+
+'Then the lock opens another door',
+
+The tune is catchy.
+
+Yes. The priest was singing to himself very often. I remember it to this day.
+
+hasRevealedDoorMechanism
+
+When did it burn?
+
+I've seen some runes next to it.
+
+Nevermind
+
+Very recently, actually.
+
+It belonged to our priest's family since forever.
+
+Do you mean they maintained it?
+
+Yes, with great care. God knows why.
+
+So, when the priest died it went derelict.
+
+Yes, and then this mysterious fire.
+
+Somehow, the soil is always hot up there, even in winter.
+
+Could it have started the fire?
+
+Possibly.
+
+Oh yes it's extremely old.
+
+There used to be a Viking settlement up there. That furnace was the last remaining trace.
+
+Once, I saw the INSIDE of the furnace door.
+
+It's beautiful: Ornamented and all.
+
+Have you heard of a Viking named Agsvald?
+
+Do you have... A Vikings museum of some sort?
+
+Nevermind.
+
+Oh yes he was the big shot around here in the early middle ages.
+
+He kept going on raids to Great Britain, and even to France!
+
+To France? Interesting.
+
+The rumour says that he stashed a treasure somewhere here.
+
+But guess what, no one ever found it.
+
+Oh, no. The mountain is littered with Viking artifacts.
+
+But we're just a small fishing village. I know the stories my grandma's grandma told her.
+
+So... No reliable source of information?
+
+Well, our priest and his family seemed to know many secrets about this Agsvald guy!
+
+That priest didn't have any children, sadly. His secrets died with him.
+
+TESTING;
+
+DEMO;
+
+BETATEST;
+
+DEBUG;
+
+SAFEMODE;
+
+SuspendableWait::Set :  count should be 0
+
+Cannot create new tween because the Tween module is currently playing %d tween(s), which is the maximum. You can increase this max number on the Tween module script header.
+
+Cannot create Tween. Invalid index!
+
+ERROR: Too many timers/named globals used when accessing named global %s. Contact the game author and tell them to increase the value of ULTRAVARIABLES_MAX_GLOBALS from %d in the UltraVariables module header
+
+Sorry, cannot alias to global int 0
+
+$APPDATADIR$/Log.txt
+
+Could not create log file. Will not try again.
+
+%02d%02d%02d
+
+%s_%s :
+
+     %s
+
+** GLOBALS **
+
+'%s',%d,'%s'
+
+** TIMERS **
+
+'%s',%d
+
+%d
+
+%s (%d)
+
+SoundManagement::FindAudioTypeIndex : could not find index of audiotype '%d'
+
+SoundManagement::GetAudioClipCount : woops, womething's wrong with the macros
+
+SoundManagement::GetAudioClip : you tried to access AudioClip %d but there are only %d
+
+SoundManagement::GetAudioClip_ByName : no AudioClip is named %s
+
+null
+
+SoundManagement::GetName : did not find name of clip
+
+UNNAMED CLIP
+
+eAudioTypeAmbientSound
+
+eAudioTypeMusic
+
+eAudioTypeSound
+
+eAudioTypeDebugMaxChannels0
+
+SoundManagement::RegisterAudioTypes() : you forgot to name AudioType '%d'!
+
+SoundManagement::RegisterAudioTypes() : couned %d types, but manually set %d types.
+
+UNKNOWN AUDIO TYPE
+
+SoundManagement::RegisterAudioClip : not enough slots to store '%s'. Increase MAX_NAMED_CLIPS
+
+SoundManagement::CheckForgottenTypes : AudioClip '%s' has AudioType '%d' which didn't receive a name.
+
+SoundManagement::CheckForgottenClips : there is no way of performing this self-check in this version of AGS. You need AGS 3.4.0.x
+
+SoundManagement::CheckForgottenClips : you forgot to name %d clips. Do it in module SoundManagement.
+
+all clips need to be named
+
+SoundManagement::GetAudioChannelGroup_ByAudioType : didn't find AudioType %d (%s) in the channels groups
+
+SoundManagement::GetAudioChannel : There is no AudioChannel with index %d.
+
+== NAMED AUDIOTYPES DUMP ==
+
+%d : %s
+
+== END OF NAMED AUDIOTYPES ==
+
+==CHANNELS GROUPS DUMP==
+
+Group %d: AudioTypes
+
+%s '%s'
+
+    start=%d
+
+    lengt=%d
+
+    nbCh=%d
+
+    maxCh=%d
+
+==END CHANNELS GROUPS DUMP==
+
+Counting channels for AudioType '%s'(%d) using AudioClip '%s'.
+
+CountAudioChannels_Manually : could not play clip '%s'. This could be a low-level issue (hardware?). Leaving function.
+
+    The channel of AudioType '%s' was found in a channels group before, but I can't find which one.. :-(.
+
+    the channel of AudioType '%s' was already bound to channels group #%d.
+
+CountAudioChannels_Manually : WARNING AudioClip '%s' was played in a channel reserved by AudioType '%s' (channels group #%d). Did you register this AudioType twice or did you get mixed up with your test AudioClips?
+
+CountAudioChannels_Manually : I'll keep counting but I can't guarantee the integrity of the results.
+
+    This is the shared channel. Let's add this AudioType to the channels group's list of AudioTypes.
+
+    CountAudioChannels_Manually : This AudioType is already present in group %d. Skipping.
+
+Manually Counted %d AudioChannels. Created channels group #%d
+
+== START CHANNEL COUNT ==
+
+will be counting channels for AudioType %d (%s) using AudioClip '%s'.
+
+SoundManagement::CountAudioChannels_MaxChannelMore : Could not find a test clip with AudioType %d (%s).
+
+== END CHANNEL COUNT ==
+
+More channels info:
+
+    Found a total of %d channels.
+
+    %d of these channels are shared by all the AudioTypes that have MaxChannel = 0.
+
+    The channels split as follows:
+
+aTestClip
+
+aMusicSpain_short
+
+aMusic1
+
+aMusic2
+
+aMusic3
+
+aMusic4
+
+aMusic5
+
+aMusic6
+
+aSnow_tempest
+
+aAmbiant_cave1
+
+aAmbiant_cave2
+
+aIcecracks1
+
+aStep1
+
+aStep2
+
+aStep3
+
+aWhiplash
+
+aSound1
+
+aWoodenMechanism
+
+aSound3
+
+aSound4
+
+aSound5
+
+aSound6
+
+aSound7
+
+aTruck00
+
+aMachinegun00
+
+aCrickets00
+
+B 
+
+\\ 
+
+_ 
+
+%c 
+
+%d-
+
+%c
+
+.
+
+0
+
+1
+
+SERIOUS WARNING: Files '%s' and '%s' both exist in the game folder.
+
+[[This means a CRASH happened while a critical file was being saved.
+
+[[Please quit the game, keep only ONE of the two files (delete the one you don't need anymore), then start again.
+
+SafeFile::FindInstance : ERROR : neither '%s' nor '%s' exist.
+
+ERROR: Could not open '%s' for writing
+
+ERROR: Could not open '%s' for append
+
+ShitXML::findFreeNode - you need to increase 'MAXNODES'
+
+ShitXML::NewNode : requires a name
+
+ShitXML::SetText : txt cannot be null
+
+ShitXML::SetText : bad node '%d'
+
+ShitXML::SetParams : bad node '%d'
+
+ShitXML::GetParams : bad node '%d'
+
+ShitXML::GetText : bad node '%d'
+
+ShitXML::GetText_i : bad node '%d'
+
+ShitXML::GetName : bad node '%d'
+
+BROTHER
+
+ShitXML::AddChild : error. You tried to add children to node '%d' ('%s') but it has style OneLine
+
+<%s>
+
+</%s>
+
+<br>
+
+XML::WriteNode : unknown style for '%s': '%d'
+
+Error: ShitXML::Dump : empty XML node %d
+
+Error: ShitXML::Dump : Could not open '%s' for writing
+
+'%s'
+
+/
+
+001 badly formed xml. Reached end of file while expecting an opening tag.[Here: %s
+
+002 badly formed xml. Expected '<', found '%s'. Here: %s
+
+003 badly formed xml. Found a solo tag '<%s>' while looking for an opening tag. [Here: %s
+
+004 badly formed xml. Found a closing tag '<%s>' while looking for an opening tag. [Here: %s
+
+005 badly formed xml. Reached end of file while expecting a closing tag to <%s>.[Here: %s
+
+006 badly formed xml. Solo tag '<%s>' contains several words. It's forbidden. [Here: %s
+
+br
+
+[
+
+007 xml warning: parser doesn't know how to handle Solo tag '<%s>'.[Here: %s
+
+008 badly formed xml. Found some content in-between <%s> and <%s>: '%s'.[Here: %s
+
+010 badly formed xml. Expected </%s>. Around here: %s
+
+011 badly formed xml. Opening tag=<%s> but closing tag=<%s>.
+
+012 badly formed xml. There cannot be rogue text between a closing tag (<%s>) and the next tag. Here: %s
+
+ShitXML::Parse : ERROR : could not open '%s' for reading.
+
+]
+
+;
+
+=
+
+[%s]
+
+true
+
+on
+
+yes
+
+%s=%s
+
+%s=%d
+
+%s=%f
+
+O
+
+WARNING RadioButton::BindChoice : radio already bound!
+
+findFreeEntry : no more free entries. Increase 'MAXENTRIES'
+
+AddListBox: ERROR: too many advanced listboxes. Increase 'MAXADVLISTBOX'.
+
+GetEntry_FromIndex : ERROR: There is no entry '%d' in the list
+
+YpyjIHgMNWQ
+
+GetRowHeight_risky : ERROR: cannot use this function if text area is not visible
+
+GetRowHeight_risky : ERROR: cannot use this function if text area's ListBox is covered by another control
+
+0000000
+
+1111111
+
+WARNING: could not find height of text area rows. The cursor might be off, or maybe your font is taller than 20 pixels?
+
+SoundDebugGui::SetGraphValue : bad slot : %d (should be in 0, %d)
+
+?
+
+UNUSED
+
+ERROR in 'SoundDebugGUI::SetGUI' : Please provide more controls on the GUI (counted %d,%d,%d)
+
+%d/%d
+
+updateing %d
+
+startOnGraphMs=%d, positonMs=%d, positoinPixels=%d
+
+Started recording %d (scale %d)
+
+I can't pull that.
+
+I can't push that.
+
+That just won't work.
+
+I don't know what to do.
+
+I see nothing special about it.
+
+Why would I want to pick that up?
+
+I shouldn't start talking to things.
+
+That won't work.
+
+I can't open that.
+
+I can't close that.
+
+I don't think that will work.
+
+Nu-uh.
+
+No.
+
+Nope.
+
+That's silly.
+
+Why would I try that?
+
+I'll have to think of something more useful.
+
+No way.
+
+I can't figure it out.
+
+I'd rather keep that to myself.
+
+I won't give that away.
+
+Bad idea.
+
+Let's keep that to myself.
+
+ERROR : no sentence returned.
+
+I don't need that.
+
+Unknown mode : %d
+
+It's too heavy to pull it
+
+It's too heavy to push it
+
+Let it be.
+
+I can't pick up something that big!
+
+Violence is not a solution here.
+
+I don't just push people around.
+
+I don't randomly touch people.
+
+Yes, why don't I just carry everybody around on my back?
+
+You mean, open that person with a knife or something?
+
+That doesn't make sense.
+
+ERROR: Mirrors::AddMirrorChar : too many mirrors in this room. Increase MAX_MIRRORS_PER_ROOM
+
+ERROR: Mirrors::AddMirrorChar : you already used %s as a mirror reflection!
+
+ERROR: Mirrors::NewMirror : too many mirrors in your game. Increase MAX_MIRRORS
+
+ERROR: Mirrors::NewMirror : Bad scripting! you've declared the same mirror twice
+
+NewMirror: Incorrect opacity value: %f. Must be 0.0 to 1.0
+
+NewMirror: Could not find an unused mirror character. You must call 'AddMirrorChar' once more!
+
+Mirrors::SetOffset : could not find mirror. Did you call NewMirror first?
+
+Mirrors::SetOpacity : could not find mirror. Did you call NewMirror first?
+
+Bad scripting in 'SetSubstituteCharacter': that mirror has not been previously created. Call NewMirror first!
+
+Mirrors::EnableMirror : you tried to enable a mirror that wasn't registered before using NewMirror
+
+Mirrors::mirrorLoop : unexpected symetry type %d
+
+Mirrors::AssertSymmetryType : Unexpected symmetry type %d
+
+Mirrors::AssertSymmetryType : Composite symmetry types not implemented: %d
+
+%d %d %d
+
+a game by
+
+the Seven Cities of Gold team
+
+this featurette by
+
+Monsieur Ouxx
+
+Charalampos Papadopoulos
+
+Selmiak
+
+story by
+
+background art by
+
+Tolga Öcek
+
+sprite and animations by
+
+Monsieur Ouxx - ProgZmax - Selmiak
+
+Jag - Amelie - Trample Pie
+
+CaesarCub - Hans
+
+music by
+
+Drew CU
+
+Victor Parejo Medina
+
+Dualnames
+
+scripting by
+
+project coordination & research
+
+Beta testing
+
+Ricky Derocher
+
+Cassiebsg
+
+extra scripting by
+
+H. Diot
+
+Abstauber - Edmundito - SSH
+
+Khris - Ryan Timothy - Spyros
+
+Proskrito - Hedgefield - Ashen
+
+fonts by
+
+Rulaman
+
+Lucasfan
+
+website by
+
+Forums & hosting by
+
+cbm8bit
+
+social networks
+
+AGS engine by
+
+Chris Jones
+
+Ivan Mogilko - Sonneveld
+
+Morgan Willcock - Tobihan
+
+Gurok - Monkey0506
+
+Tzachs - rofl0r
+
+Icicles::NewIcicle : Too many icicles in this game. increase MAX_ICICLES
+
+SCROLLING LOCK INFORMATION[[edgeLeft=%d, edgeRight=%d[edgeTop=%d,edgeBottom=%d
+
+Speed values can't be 0 at the same time
+
+Fallingspeed already been set to zero.
+
+Windspeed already been set to zero.
+
+ParticleSystem Init failed as:\n
+
+Particle system type cannot be NO_CHANGE_PARTICLE in init.\n
+
+Wind direction cannot be NO_CHANGE_WIND in init.\n
+
+Sprite slot %d is not proper.\n
+
+\nPlease check your script.
+
+MIRROR1
+
+MIRROR2
+
+MIRROR3
+
+MIRROR4
+
+%d.
+
+GUI_LANGUAGE
+en
+de
+
+es
+
+fr
+
+en
+
+it
+
+sv
+
+gui_language
+
+Unrecognized translation language : %s
+
+English
+
+French (Français)
+
+German (Deutsch)
+
+Italian (Italiano)
+
+Swedish (Svenska)
+
+Portuguese (Português)
+
+Please provide the name of the translation file for eLanguage with value %d
+
+ERROR
+
+This button is not part of the Tumbleweed verbs GUI
+
+Gehe zu %s
+
+Schau %s an
+
+Rede mit %s
+
+Gib !s an %s
+
+Gib %s
+
+Nimm %s
+
+Benutze !s mit %s
+
+Benutze %s
+
+Öffne %s
+
+Schließe %s
+
+Drücke %s
+
+Ziehe %s
+
+Ir a %s
+
+Mirar %s
+
+Hablar con %s
+
+Dar !s a %s
+
+Dar %s
+
+Coger %s
+
+Usar !s con %s
+
+Usar %s
+
+Abrir %s
+
+Cerrar %s
+
+Empujar %s
+
+Tirar de %s
+
+Aller vers %s
+
+Regarder %s
+
+Parler à %s
+
+Donner !s à %s
+
+Donner %s
+
+Prendre %s
+
+Utiliser !s sur %s
+
+Utiliser %s
+
+Ouvrir %s
+
+Fermer %s
+
+Pousser %s
+
+Tirer %s
+
+Vai a %s
+
+Esamina %s
+
+Parla con %s
+
+Dai !s a %s
+
+Dai %s
+
+Raccogli %s
+
+Usa !s con %s
+
+Usa %s
+
+Apri %s
+
+Ferma %s
+
+Premi %s
+
+Tira %s
+
+Ir para %s
+
+Olhar para %s
+
+Falar com %s
+
+Apanhar %s
+
+Usar !s com %s
+
+Fechar %s
+
+Empurrar %s
+
+Puxar %s
+
+Ga naar %s
+
+Bekijk %s
+
+Praat met %s
+
+Geef !s aan %s
+
+Geef %s
+
+Pak %s
+
+Gebruik !s met %s
+
+Gebruik %s
+
+Open %s
+
+Sluit %s
+
+Duw %s
+
+Trek %s
+
+Walk to %s
+
+Look at %s
+
+Talk to %s
+
+Give !s to %s
+
+Give %s
+
+Pick up %s
+
+Use !s with %s
+
+Use %s
+
+Close %s
+
+Push %s
+
+Pull %s
+
+!s
+
+%s
+
+>
+
+>n
+
+This button is not part of the Verbs GUI.
+
+Optionen
+
+Musik Lautstärke
+
+Sound Effekte
+
+Standard
+
+Speichern
+
+Laden
+
+Beenden
+
+Weiter
+
+Pause
+
+Leertaste für weiter
+
+Spielstand laden
+
+Abbruch
+
+Spielstand speichern
+
+Spiel verlassen
+
+Möchten Sie das Spiel beenden?
+
+Ja
+
+Nein
+
+Opciones
+
+Volumen de la música
+
+Efectos de sonido 
+
+Restablecer
+
+Guardar
+
+Cargar
+
+Salir
+
+Volver
+
+Pausa
+
+Pulsa Espacio para continuar
+
+Por favor, elige el juego a cargar
+
+Cancelar
+
+Por favor, introduce un nombre
+
+¿Salir del juego?
+
+¿Seguro que quieres salir?
+
+Si
+
+No
+
+Paramètres
+
+Volume de la musique
+
+Volume des sons
+
+Réinitialiser
+
+Sauver
+
+Charger
+
+Quitter
+
+Reprendre
+
+Appuyez sur la barre d'espacement pour reprendre
+
+Choisissez une partie à charger
+
+Annuler
+
+Saisissez un nom
+
+Voulez-vous vraiment quitter?
+
+Oui
+
+Opzioni
+
+Volume della Musica
+
+Effetti Sonori
+
+Risedersi
+
+Salva
+
+Carica
+
+Esci
+
+Continua
+
+Partita in Pausa
+
+Premi Spazio per Continuare
+
+Scegli una partita da caricare
+
+Cancella
+
+Inserisci un nome
+
+Uscire dal gioco
+
+Sei sicuro/a che vuoi uscire?
+
+Opções
+
+Volume Música
+
+Efeitos Sonoros
+
+Gravar
+
+Restaurar
+
+Desistir
+
+Continuar
+
+Prima Space para continuar
+
+Por favor escolha um jogo
+
+Por favor insira um nome
+
+De certeza que quer desistir?
+
+Opties
+
+Muziek Volume
+
+Geluidseffecten
+
+Standaard
+
+Opslaan
+
+Stop
+
+Ga door
+
+Pauze
+
+Druk op de Spatiebalk om door te gaan
+
+Kies a.u.b. een spel om te laden
+
+Annuleren
+
+Vul a.u.b. een naam in
+
+Sluit spel af
+
+Weet u zeker dat u wilt stoppen?
+
+Nee
+
+In module Tumbleweed : Unable to change the translation to '%s'
+
+%dm
+
+%dh %dm
+
+%s;%04d/%02d/%02d %02d:%02d
+
+Missing module 'verbgui'
+
+I can't use that.
+
+That won't do any good.
+
+Nice %s
+
+It's %s
+
+I can't push %s
+
+I can't pull %s
+
+It has already been closed.
+
+Doing that with %s is not a good idea.
+
+It is open.
+
+%s would not like it.
+
+I don't want to pick %s up.
+
+I have nothing to say.
+
+I don't want to talk to %s.
+
+I'd rather keep it.
+
+I can't do that.
+
+The door looks solid.
+
+It is locked.
+
+I can't unlock it with that.
+
+I have to close it first.
+
+Now it's unlocked.
+
+The door is locked again.
+
+Missing module 'OptionGui'
+
+Go to
+
+Look At
+
+Talk To
+
+Give
+
+Pick Up
+
+Use
+
+Open
+
+Close
+
+Push
+
+Pull
+
+Gehe zu
+
+Schau
+
+Rede
+
+Gebe
+
+Nehme
+
+Nutze
+
+Öffne
+
+Schließe
+
+Drücke
+
+Ziehe
+
+Ir a
+
+Mirar
+
+Hablar
+
+Dar
+
+Coger
+
+Usar
+
+Abrir
+
+Cerrar
+
+Empujar
+
+Tirar
+
+Aller
+
+Regarder
+
+Parler
+
+Donner
+
+Prendre
+
+Utiliser
+
+Ouvrir
+
+Fermer
+
+Pousser
+
+Tirer
+
+Vai a
+
+Esamina
+
+Parla
+
+Dai
+
+Raccogli
+
+Usa
+
+Apri
+
+Ferma
+
+Premi
+
+Tira
+
+Ir para
+
+Olhar
+
+Falar
+
+Apanhar
+
+Fechar
+
+Empurrar
+
+Puxar
+
+Ga naar
+
+Bekijk
+
+Praat
+
+Geef
+
+Pak
+
+Gebruik
+
+Sluit
+
+Duw
+
+Trek
+
+ERROR2
+
+Unknown state
+
+Unknown language
+
+Did something change?
+
+NOT IMPLEMENTED (suit yourself)
+
+Not a valid theme number : %d
+
+a mistake has been made.
+
+In Translations::SetTranslatedSprites : Language not implemented for sprites : %d
+
+Misc
+
+Lang
+
+In module Translations : Unable to change the translation to '%s'
+
+DATA:
+
+Please run the game without a translation. Select 'Default Language' in Winsetup.exe\nCurrently you're using '%s'.
+
+Interactions style : GUI=
+
+9Verb
+
+Coin
+
+Simplified
+
+Error
+
+, tap=
+
+Desktop
+
+Tap
+
+Could not write to file '%s'
+
+bonuses are now enabled permanently. Delete this file to lock access to the bonuses again.
+
+OLDDEMO.ags
+
+BONUS.ini
+
+IndyTravelMap : you didn't define a vehicle sprite for the current region (player at %d, %d). Please use 'addVehicle' and position player properly.
+
+MACHINE:
+
+(null)
+
+STATE:
+
+FROM:
+
+INPUT:
+
+TO:
+
+CLONE:
+
+NEW:
+
+CLONE:%s
+
+NEW:%s
+
+MACHINE:%s
+
+STATE:%s
+
+FROM:%s
+
+INPUT:%s
+
+TO:%s
+
+DEBUG/TESTS
+
+GUI: Settings
+
+Fonts tests
+
+TextArea
+
+FoAcredits
+
+Mirrors 2
+
+character animation tests
+
+Test scrolling lock
+
+GUI interactions (look at, etc.) tests
+
+GUI Tumblew. dialogs test
+
+MENUS
+
+MS-DOS
+
+Disclaimer
+
+Main Menu
+
+Demo bonuses
+
+Regular credits
+
+DEMO
+
+01 Catacombs (no cutscene)
+
+01 Catacombs (with cutscene)
+
+01 Catacombs (Monk Cutscene)
+
+01b Tinted glass
+
+02 Norway outside
+
+02b Norway outside (night)
+
+02b norway outside (oven)
+
+Norway Hatch Close Up
+
+03 norway inside
+
+03 norway inside (end cutscene)
+
+04 norway ice cave
+
+05 europe map
+
+06 indys classroom
+
+end credits
+
+journal
+
+Programing mistake: you forgot to implement checkpoint '%d'.
+
+RunAlways:
+
+AutoRemove:
+
+Paused:
+
+bad scripting. You should not try to unpause during debug pause
+
+showDisclaimer
+
+ERROR: in 'ToModernAudio' : Unexpected sound index
+
+If I want to use this door, I should OPEN it.
+
+It's an average door.
+
+I can't pick the door up!
+
+Sure, I should just start talking to doors.
+
+The door works fine. If I want to use this door, I should OPEN it.
+
+It's already open.
+
+It's already closed.
+
+Error: findDoorIndex: Couldn't find the requested door in room %d
+
+Error in 'Doors' module : bad door id : (id=%d, but should be between 0 and %d
+
+Fatal error: too many rooms to handle doors
+
+Fatal error: too many doors declared
+
+It's already properly closed.
+
+It's an oil can I took from the janitor's closet.
+
+I'd rather not, I might spill the oil.
+
+Why would my cabinet key open this oil can?
+
+...And risk having my papers ruined?
+
+It's the key to my office cabinet.
+
+...And have the key all slimy? No, thanks!
+
+Let's take a look at that telegram.
+
+There's no envelope. Nothing to open.
+
+No way, that would ruin the telegram.
+
+That's my wallet.
+
+There's nothing of interest in it.
+
+Why would I spill oil all over my papers?
+
+Apparently it's some sophisticated metal compass.
+
+It's from the the early Ottoman Empire, at the end of the middle ages.
+
+It was used by muslim artists and decorators.
+
+They were ornamenting everything with geometric shapes in that era.
+
+That device helped designing them.
+
+Yes, that's defnitely the artifact the tag is about.
+
+eDialog_LookedAtCompassTag
+
+It's a strange metal artifact. I can't date it, and I don't know what it's for.
+
+Thanks to the tag, I know what this artifact is.
+
+There's no point in disassembling it.
+
+Hey! It's the description tag of that ancient metal device.
+
+Irene probably left the tag in my drawer to make sure it wouldn't be lost.
+
+It's one of those tags we use to classify our artifacts.
+
+Here is what it says:
+
+It's the description tag of one of the many artifacts we have in Barnett college.
+
+I don't know what artifact it describes.
+
+I'm not waving that around.
+
+eDialog_IndyConfusedHammers
+
+It's a ceremonial hammer... But I don't know if it's a copy.
+
+It's a ceremonial hammer. That's the real one.
+
+I looks really very much like the real one.
+
+It's a tire repair kit.
+
+A short, sturdy stick.
+
+It fits. I got myself a nice shovel.
+
+It's an empty bucket.
+
+Luckily, the salted water doesn't seem to be freezing.
+
+It's all rusty but it could do the job if it had a handle.
+
+It fits!
+
+Let me adjust the nail... Voila!
+
+It's not the right size at all.
+
+It can't even sharpen the wood to make it fit.
+
+eDialog_isOilLampBurning
+
+There, now it's lit.
+
+The lamp is already lit.
+
+It was more of a censer apparently, but now it's used as a plain oil lamp.
+
+It has a gentle little flame coming out of it, as expected.
+
+There's oil inside but it's not lit.
+
+I don't want to put oil all over it.
+
+There's only oil inside, I don't want to spill it.
+
+Talk to me, o genie of the lamp.
+
+[ACHIEVEMENT[[Friend of the Djinns.[[Post a screenshot on Twitter #RelicOfTheViking[[
+
+Careful not to hurt your fingers if you try to burn ropes.
+
+I don't want to burn that.
+
+There's a tiny amount of fuel inside, I don't want to spill it.
+
+This is a long paddling oar.
+
+I have no idea how it fits in my pants.
+
+Unusally big and thick!
+
+Those Norwegians are not fooling around.
+
+It's a small, simple golden key. It looks worn off.
+
+It's a shovel.
+
+It's an old plastic hose without much value.
+
+Unbelievable! It's a MASSIVE ruby!
+
+It's an enormous sapphire. I can't believe my eyes.
+
+They'll never believe me, back at the geology department.
+
+Could not read parameter at position '%d'
+
+\"
+
+%d%d%d:%d%d
+
+Console history saved to file '%s'.
+
+Could not open file '%s'.
+
+TODO
+
+type 'exit' to close the console, or press Ctrl+C in debug mode
+
+quit
+
+Quiting...
+
+change_room
+
+usage : change_room room x y
+
+set_gi
+
+change_name
+
+walk_view
+
+display
+
+usage : display This is a message
+
+room_script
+
+Room script %d executed
+
+dump
+
+close
+
+change_npc_room
+
+Character %d (%s) moved to room %d at %d,  %d
+
+object_visible
+
+Error: Invalid Object specified: object %s
+
+false
+
+object_view
+
+Error: Invalid Object ID entered (%s)
+
+Error: Invalid View entered (%d)
+
+Object %d View set to %d
+
+object_animate
+
+Please enter a Loop
+
+Please enter a Delay
+
+object_move
+
+Invalid speed supplied: %d
+
+Object %d moved to (%d,%d) at speed %d
+
+walkable_enabled
+
+Error: No Walkable Area ID supplied
+
+Error: Invalid parameter supplied: %s
+
+char_properties
+
+AnimationSpeed %d, Baseline %d, IgnoreLighting %d
+
+IgnoreWalkbehinds %d,Transparency %d
+
+char_invquan
+
+Character %d has item %d in a quantity of %d
+
+char_setplayer
+
+New player is %s, old player is %s
+
+char_getplayer
+
+Player is '%s'.
+
+char_addinv
+
+Added item %d to %s
+
+char_loseinv
+
+Lost item %d from %s
+
+region_enabled
+
+Error: Enter a Region ID
+
+get_property
+
+hotspot
+
+character
+
+object
+
+Invalid parameter supplied: %s.
+
+%s %d property '%s' is %d
+
+get_textproperty
+
+%s %d property '%s' is '%s'
+
+room_property
+
+Please enter a Property name
+
+Room %d property '%s' is %d
+
+room_textproperty
+
+Room %d property '%s' is '%s'
+
+system
+
+Screen %d x %d
+
+Colour Depth %d and gamma %d
+
+AGS Engine version %s
+
+Direct3d
+
+DirectDraw
+
+Windowed
+
+Fullscreen
+
+dumpvars
+
+The values can be seen in the log file.
+
+set
+
+stored.
+
+Invalid parameter.
+
+get
+
+sets
+
+gets
+
+list_scripts
+
+*.oux
+
+No script found.
+
+%s   
+
+LIST OF ALL SCRIPTS
+
+[[Run 'call <scriptname>' to run it.
+
+call
+
+Please enter a script name
+
+Running script '%s'
+
+There is no script file '%s'
+
+End of '%s'
+
+xmlparse
+
+Please enter an xml file name
+
+Parsing xml file '%s'
+
+Error: There is no file named '%s'
+
+root
+
+Finished parsing '%s'. Now dumping.
+
+output.xml
+
+Finished dumping xml tree to '%s'. Now deleting tree.
+
+Deleted xml tree from memory. 
+
+upload
+
+usage: upload server port filename
+
+Please enter the name of the file to upload
+
+Please enter the target server for uploading
+
+Please enter the port for uploading
+
+Uploading file '%s' to server '%s':%s
+
+Error: not a valid port number '%s'
+
+this is a bug report test 00000
+
+Content-Length: %d\r\n\r\n
+
+?p=bugs
+
+POST %s HTTP/1.1\r\n
+
+Host: khris.agser.me\r\n
+
+Content-Type: application/x-www-form-urlencoded\r\n
+
+\r\n
+
+Finished uploading '%s'
+
+command not available. This version of the program does not have the upload plugin.
+
+exit
+
+help
+
+ALL COMMANDS:[%s
+
+Unknown command '%s'
+
+Game is paused. Player pressed key '%d' (char %c)
+
+Player clicked MouseButton %d in mode %d
+
+Interaction available
+
+No Interaction
+
+Player clicked InvItem %d (%s), %s
+
+Button
+
+Inventory
+
+Label
+
+ListBox
+
+Slider
+
+TextBox
+
+Player clicked GUI %d, Control %d (%s)
+
+Player clicked GUI %d, no Control
+
+Player clicked Character %d (%s)
+
+Player clicked Hotspot %d (%s)
+
+Player clicked Object %d (%s)
+
+Player clicked nothing at (%d,%d)
+
+Item %d added
+
+Item %d removed
+
+Player gets %d points
+
+(Old score: %d, current score %d)
+
+Player left room %d
+
+Player entered room %d
+
+Game restored from slot %d
+
+Dialog %d started
+
+Game saved to slot %d
+
+Not implemented
+
+Welcome to the AGS console ^_^[ 
+
+Cursor mode change to %d
+
+Run an external script
+
+Display variables window
+
+Help
+
+Scroll console up
+
+Scroll console down
+
+Show betatesters interface (pauses game)
+
+Click in the text area to start typing.
+
+OK
+
+Click on OK to discard this message.
+
+TextArea: WrapLine : ERROR: listbox cannot be null
+
+Starting line. word='%s', x_in_word='%d', column_in_word='%d'
+
+Dumpword: word_with_c='%s'
+
+full capacity
+
+!wordFits
+
+eol
+
+eof
+
+loop broken: word='%s', column_in_word[0]='%d'
+
+word='%s', length='%d', column_in_word[%d]='%d', x_in_word[%d]='%d'
+
+pos=%d
+
+???????????????????
+
+PLEASE NOTE: the maker of this [game used a font that does not [allow special characters.[[  All the special characters you [type in will be replaced with their [equivalent from the standard [ASCII set.[[  We recommend you contact the [maker of this game and request [from them that they start using [256-characters fonts, that's [more respectful of international [users.[[  You will see this warning only [once.
+
+???
+
+????
+
+This text area was not set up[to enable scrolling and it has[reached its maximum number[of lines.[Click on OK to go back to typing.
+
+on_key_press :ERROR: could not compute row height
+
+Forbidden character: please[do not type '%c' into this text[area.[[Note: That was set up by the[maker of the game, that's not[a restriction of the module.
+
+Forbidden character: please do not type \[ just after \\
+
+Text Area 0.92 module by Monsieur Ouxx.[[For AGS by Chris Jones[[Inspired by Text Area 0.0.1.1 by monkey_05_06
+
+TextAreas::SetFocus ERROR: cannot give focus to a text area if ListBox is not visible
+
+(column %d:line %d)
+
+findFreeTextArea : ERROR : no more available text areas. You must increase 'eTextArea_MaxAreas'
+
+ERROR: Text Areas : The listbox cannot be less than 20 px wide and %d high.
+
+|
+
+Cut
+
+Copy
+
+Paste
+
+ERROR: Text Areas: Scrollbar 'up' button cannot be displayed lower than the 'down' button. Please adjust your GUI first.
+
+Scroll up
+
+Scroll down
+
+Grab and drag to scroll
+
+About
+
+Bug::Find : ERROR : couldn't find bug with ID '%d' in the list
+
+Enter here bug description.
+
+Bug::NewBug : you need to increase 'MAXBUGS'
+
+Bug::SetText : wrong bug ID: '%d'
+
+Saving...
+
+Saved.
+
+bad_translation
+
+blocking_bug
+
+graphical_glitch
+
+missing_interaction
+
+unknown_type
+
+BugType_I : ERROR: unknown bug type '%s'
+
+bugslist
+
+bug
+
+id
+
+type
+
+author
+
+revision
+
+uid
+
+text
+
+line
+
+<br/>
+
+bugslist.xml
+
+Saved bugs list to '%s'.
+
+Please do as advised in the message you've just read.
+
+doc
+
+bt
+
+[T]
+
+[B]
+
+[G]
+
+[I]
+
+%s id=%d
+
+t_null
+
+bug_null
+
+text_null
+
+trunc_null
+
+\\%s (%d) %s
+
+Bug Tracker for AGS [by Monsieur Ouxx
+
+forbidden during a cutscene
+
+top: not implemented yet
+
+bottom: not implemented yet
+
+bad tester name (or could not save file)
+
+(%d,%d), %d
+
+<>
+
+Scroll Down
+
+Scroll Up
+
+Show or hide
+
+Show console
+
+New game-blocking bug
+
+New graphical glitch
+
+New missing interaction
+
+New bad translation
+
+Top of the list
+
+Bottom of the list
+
+Sort by ID
+
+Sort by type
+
+Save bugs to XML file
+
+Delete this bug
+
+%s CHANNEL1
+
+%s CHANNEL2
+
+Ambient\[%d of %d] dedicated to ambient sounds is playing the wrong clip on '%s'![[It means it got overwritten by another AudioClip.Play somewhere else.[[It might mean that you're playing too many sounds at a too high priority.[[Try no more than 2 ambient sounds at the same time.
+
+Ambient\[%d of %d] dedicated to ambient sounds is playing the wrong clip![[It means it got overwritten by another AudioClip.Play somewhere else.[[It might mean that you're playing too many sounds at a too high priority.[[Try no more than 2 ambient sounds at the same time.
+
+%s [More details: expected '%s', found '%s'.
+
+ERROR: too many ambient sounds, not enough free slots
+
+%s[ambients\[%d]  CHANNEL1=%s  CHANNEL2=%s
+
+%s[ambients\[%d]=%s
+
+ERROR in FindSlot: could not find audio channel playing AudioClip '%s'
+
+Already playing %d ambients. No more allowed, BIATCH!
+
+ERROR: Cannot play sound. It seems like a low-level issue (DirectSound?)
+
+AudioClip '%s' is not currently being played
+
+Audioclip::SetAmbientVolume : You tried to adjust the Ambient volume AudioClip '%s' which is not currently being played
+
+Sending %s to %d
+
+scrnshot.bmp
+
+Stop_Ambient_All()
+
+aSound3.Stop_Ambient()
+
+aSound3.Play_Ambient();
+
+There's no shame in being a Disney attorney! Bye bye!
+
+This button enanles Tap interface
+
+This Button enables Computer Interface
+
+This button enables 9 Verb Interface
+
+This button enables Verb Coin 
+
+This button mutes music
+
+This button mutes voices
+
+This button mutes sound effects
+
+Talk to
+
+Look at - unhandled
+
+Open - unhandled
+
+Close - unhandled
+
+Use - unhandled
+
+Push - unhandled
+
+Pull - unhandled
+
+Pick up - unhandled
+
+Give to - iPruningShears or unhandled
+
+I'm using the shears.
+
+Give to : Unhandled
+
+Use inv - iPruningShears or unhandled
+
+Unhandled
+
+It must belong at an officer.
+
+Indy wears the Nazi suit
+
+LastLineOfDialogNotSaidYet
+
+The dialog is finished!
+
+This line of dialog will be said no matter
+
+the soul
+
+the heart
+
+the verb
+
+Wrong value for 'side'.
+
+UNKNOWN (visit catacombs first)
+
+Catacombs Puzzle : bad modifier : %d
+
+%SIDENAME%
+
+zero
+
+one
+
+two
+
+three
+
+four
+
+five
+
+six
+
+St. Luke
+
+St. John
+
+St. Thomas
+
+Error in generating Saint's name
+
+The verb has %s, the soul has %s. The last one has %s.
+
+And they saw that %SIDENAME% needed one more to please the Lord.
+
+Let them add one to %SIDENAME%, said He.
+
+The truth will be revealed to them if %SIDENAME% has one more.
+
+'Forget this folly and remove one from %SIDENAME%.', He said to them.
+
+The humility commands you to remove one from %SIDENAME%.
+
+VER:1.1DATA:He looked and said: 'You choose that number for %SIDENAME%? That is one too many'.
+
+Wrong name  %s
+
+Wrong room object ID
+
+switch00
+
+switch01
+
+switch02
+
+switch03
+
+switch04
+
+Missing entity logic for %s
+
+steam00
+
+steam01
+
+steam02
+
+steam03
+
+steam04
+
+leak00
+
+steam05
+
+steam06
+
+steam07
+
+steam08
+
+steam09
+
+steam10
+
+steam11
+
+steam12
+
+Unknow entity type %d
+
+Entity not initialized : %d
+
+Not a valid state change for a switch
+
+Unknown type
+
+Not a switch state : %d
+
+Missing interaction with switch %d in the room (%s)
+
+Some sort of... spinning valve?
+
+Someone kept themselves busy upgrading Agsvald's toys.
+
+I'd put my money on the priest and his family.
+
+This pipe got damaged. It has a small crack.
+
+I can't use the gum, it's way too hot right now.
+
+I'm just glad Henry Jones senior can't see how I fixed this plumbing.
+
+Bad use of this function
+
+shieldLeft
+
+shieldMiddle
+
+shieldRight
+
+eyeLeft
+
+eyeMiddle
+
+eyeRight
+
+hasVisitedIceCave
+
+basin
+
+Wrong object name: %s
+
+unknown entity type
+
+Invalid state for that type of entity : %d
+
+Wrong state
+
+Not authorized. Should have been blocked earlier by the interaction.
+
+There's a cavity in there. It's empty.
+
+I'll be taking that back.
+
+There's already something in the cavity.
+
+The gem fits perfectly.
+
+New Button
+
+New game
+
+Load game
+
+Bonuses
+
+Quit
+
+Congrats for finishing this demo!
+
+You now have access to the following extra features :
+
+This is the demo that was made in 2010 and definitely kick-started the project!
+
+Finish this demo first!
+
+intro credits by:
+
+RYAN TIMOTHY
+
+Interface
+
+Sounds
+
+Display
+
+Controls
+
+Jukebox
+
+Game Resume
+
+9 verb
+
+Verb Coin
+
+Enable Swastikas
+
+Nothing
+
+Load
+
+Cancel
+
+Options
+
+Default
+
+Save
+
+Resume
+
+Music Volume
+
+Sound Effects Volume
+
+v1.1
+
+Ambient sounds volume
+
+Game Paused
+
+Press <SPACE> to continue
+
+Quit Game
+
+Are you sure you want to quit?
+
+Yes
+
+DISCLAIMER
+
+Proceed
+
+Quit game
+
+Indiana Jones and the relic of the Viking is a [freeware fan-made work of fiction based on cha-[racters now owned by The Walt Disney Company.[ [Our team of contributors are making this game [without receiving any kind of pay and we're not [affiliated with The Walt Disney Company, LucasArts [Entertainment Company, LLC or Paramount Pictures.[ [This is a 100% fan effort and no monetary profit[of any kind is or has been gained by the authors[of this game. This game is not to be sold by anyone.[ [No copyright infringement is intended.[ 
+
+...and don't pester me with this message next time
+
+Italiano
+
+Deutsch
+
+Français
+
+Svenska
+
+Português
+
+The game is currently PAUSED. Press SPACE to continue.
+
+Comment out #TESTING in the script to disable this debug UI.
+
+Directly go there
+
+Please pick a checkpoint from the list below and click on the button.
+
+Also, no sound, please!
+
+Language label
+
+2
+
+3
+
+New Label
+
+Text
+
+Seven Cities of Gold text editor
+
+aaa%%bbb
+
+Id
+
+T
+
+coolTip
+
+X
+
+\[
+
+Timers
+
+Named var
+
+Other var
+
+UltraVariables
+
+Tester, please enter your name
+
+You will be asked for this only once. Please enter [something short, without special characters. It [will appear in your bug reports.
+
+Go
+
+Verb
+
+Simple
+
+IMPORTANT MESSAGE
+
+You are now using the game files on Sync.com[[Do not add or remove any files in the AGS project on Dropbox. These files are now "dead" and anything you put there will be destroyed.
+
+Previous
+
+Next page
+
+Exit
+
+Page1
+
+Page2
+
+C:\7COG>
+
+C:\>cd 7COG
+
+INDY.EXE
+
+Loading...
+
+PARIS, 1938
+
+You have unlocked the bonuses![Wait for this credits sequence to end.
+
+IndySuit2
+
+IndyClothes
+
+Marcus
+
+Narrator
+
+Reserved for Sound effects
+
+New character
+
+Spain truck
+
+nazi
+
+Monk
+
+Agsvald
+
+Can with food
+
+Key Tool
+
+Pruning Shears
+
+Opened Can
+
+Unlit Torch
+
+Lit Torch
+
+Tar
+
+Paddles
+
+long oar
+
+Donkey Tooth
+
+Dead fly
+
+Nazi Research Book
+
+Gold Watch
+
+Sugar Cube
+
+Shovel
+
+Cabinet Key
+
+chewed gum
+
+bucket
+
+bucket of sea water
+
+broom stick
+
+shovel head
+
+oil lamp
+
+lighter
+
+old hose
+
+large sapphire
+
+large yellow sapphire
+
+large ruby
+
+Oil Can
+
+Office Key
+
+Telegram
+
+Tire Repair Kit
+
+Wallet
+
+metal device
+
+small tag
+
+genuine hammer
+
+copy of hammer
+
+Nazi Uniform
+
+Salvado's journal
+
+Relic
+
+Sorry, not now.
+
+Restore
+
+Select a game to restore:
+
+Type a name to save as:
+
+Replace
+
+The save directory is full. You must replace an existing game:
+
+Replace:
+
+With:
+
+Play
+
+You are carrying nothing.
+
+Talking to yourself is a sign of madness!
+
+You rub your hands up and down your clothes.
+
+I'm looking good today!
+
+Hotspot 4
+
+Hotspot 5
+
+Hotspot 6
+
+Hotspot 7
+
+Hotspot 8
+
+Hotspot 9
+
+Hotspot 10
+
+Hotspot 11
+
+Hotspot 12
+
+Hotspot 13
+
+Hotspot 14
+
+Hotspot 15
+
+Hotspot 16
+
+Hotspot 17
+
+Hotspot 18
+
+Hotspot 19
+
+Hotspot 20
+
+Hotspot 21
+
+Hotspot 22
+
+Hotspot 23
+
+Hotspot 24
+
+Hotspot 25
+
+Hotspot 26
+
+Hotspot 27
+
+Hotspot 28
+
+Hotspot 29
+
+Hotspot 30
+
+Hotspot 31
+
+Hotspot 32
+
+Hotspot 33
+
+Hotspot 34
+
+Hotspot 35
+
+Hotspot 36
+
+Hotspot 37
+
+Hotspot 38
+
+Hotspot 39
+
+Hotspot 40
+
+Hotspot 41
+
+Hotspot 42
+
+Hotspot 43
+
+Hotspot 44
+
+Hotspot 45
+
+Hotspot 46
+
+Hotspot 47
+
+Hotspot 48
+
+Hotspot 49
+
+INDIANA JONES AND THE RELIC OF THE VIKING
+
+By the Seven cities of gold team
+
+THIS FEATURETTE BY
+
+Monsieur Ouxx[Charalampos Papadopoulos[Selmiak
+
+STORY BY
+
+BACKGROUND ART BY
+
+Monsieur Ouxx[Selmiak[Tolga Öcek
+
+SPRITE AND ANIMATIONS BY
+
+Monsieur Ouxx[ProgZmax[Selmiak[Jag
+
+Amelie[Trample Pie[CaesarCub[Hans
+
+MUSIC BY
+
+Drew CU[Victor Parejo Medina[Dualnames
+
+SCRIPTING BY
+
+Monsieur Ouxx[Charalampos Papadopoulos
+
+EXTRA SCRIPTING BY
+
+H. Diot[Abstauber[Edmundito[SSH
+
+Khris[Ryan Timothy[Spyros[Proskrito
+
+Hedgefield[Ashen
+
+BETA TESTING BY
+
+Cassiebsg[Ricky Derocher[Selmiak
+
+FONTS BY
+
+Rulaman[Lucasfan[Monsieur Ouxx
+
+PROJECT COORDINATION & RESEARCH
+
+WEBSITE BY
+
+Monsieur Ouxx[Selmiak
+
+FORUMS AND HOSTING BY
+
+Selmiak[Ricky Derocher[cbm8bit
+
+SOCIAL NETWORKS
+
+Charalampos Papadopoulos[Monsieur Ouxx
+
+AGS ENGINE BY
+
+Chris Jones[Ivan Mogilko[Sonneveld[Morgan Willcock
+
+Tobihan[Gurok[Monkey0506[Tzachs
+
+rofl0r
+
+SPECIAL THANKS TO
+
+Ron Gilbert[Hal Barwood[Chris Jones[Ivan Mogilko
+
+Click to go back[to main menu!
+
+No hotspot
+
+Click Screen!
+
+Hotspot 2
+
+Hotspot 3
+
+Hotspot 1
+
+I should probably put in a word for a new one.
+
+I have better things to do than rehearsing my course.
+
+This isn't some secret passage leading to a crazed genius who creates evil mutant tentacles.
+
+I read that in 'Detective Illustrated' at the barber's.
+
+I'm done for today.
+
+It's flat, and it has drawers. It's a desk.
+
+I don't think there is anything else in it.
+
+I don't think there is anything in that drawer that can help.
+
+Wait! There is a small tag. I don't recall putting it in here.
+
+I'll take it.
+
+I have more urgent matters to attend to, right now.
+
+I don't want to pull that.
+
+That wouldn't work.
+
+I have nothing to add to the billboard.
+
+It can't be opened.
+
+It can't be closed.
+
+It's a billboard.
+
+FOR SALE: 1938 Packard. Call Frank.
+
+Debate this Monday Night - The Holy Grail: Myth or Reality?
+
+I think I know the answer to that question...
+
+This space is for rent. Contact R. Derocher.
+
+WANTED: Gas for a chainsaw. Call Dave.
+
+Vote Gracie Allen for President.
+
+Meeting of Barnett Shakespeare Society this Tuesday in the auditorium.
+
+FOR SALE: Collection of Buck Rogers comic books. Call Earl.
+
+WANTED: Lab Assistant. Good pay. No questions asked. Call Doctor Fred.
+
+Movie Saturday night: Robin Hood starring Errol Flynn.
+
+It's too heavy to lift.
+
+A billboard that talks? Now that's a novel concept.
+
+I have a feeling that won't work.
+
+Let's see if there is anything interesting back there.
+
+Nope. What did I expect to find in an empty classroom?
+
+eDialog_StudentsPuzzleFullyResolved
+
+Professor!
+
+Where are you going?
+
+Are you even listening to us?
+
+We need an answer!
+
+Yes, yes, of course I'm listening. I'm not leaving before we find a solution together.
+
+Someone left that artifact on my desk before the class.
+
+Probably Irene, my secretary.
+
+I suppose a colleague of mine thought it would be of interest for me.
+
+FOR SALE: A math hand book. Will sell for $50,[ or trade for new slide rule.
+
+It's the telegraph from Marcus. It says to meet him in Arizona.
+
+It's the key to my office.
+
+Chalk Board
+
+Indy's Desk
+
+Billboard
+
+The back of the room
+
+Door
+
+... This stone artifact was discovered in my class dig.
+
+Several other Aborigine artifacts were discovered in the dig.
+
+Now the dig wasn't a major dig and the artifacts we discovered were not major finds...
+
+But each piece of history that archeology can uncover is important in the large scale of things...
+
+Every clue to man's past is a vital piece of knowledge.
+
+  %s
+
+[  
+
+Current flags are: [%s
+
+Current language : %s
+
+This screen is meant for testing fonts in several languages.
+
+Please note that it only tests TTF fonts (that support UTF-8 characters).
+
+(In other words: it only tests native multilingual fonts)
+
+The bits of text that you will see were entered 'as-is' in AGS' script editor.
+
+AGS' script editor does support UTF-8 encoding. The question is : does this font too?
+
+FRENCH TESTS
+
+Current font: '%d'
+
+Can you see all special characters in the following sentence?
+
+REMOVED FROM THE DEMO
+
+please update script to latest textarea version
+
+lol
+
+the mirrors module has been disabled in this demo. You need to recreate cMirror1, cMirror2, cMirror3 if you need to use it. Then you need to uncomment 'Mirrors2.AddMirrorChar(cMirror1);' in mirrors_2.0.asc
+
+Press 'i' for scroll lock info.
+
+unhandled
+
+Give to : unhandled
+
+Object
+
+Unknown checkpoint: %d
+
+Hey yo, Mr. White!
+
+Imma make some badass pixel-art.
+
+Let's start cooking, BITCH.
+
+I can't walk out, they're blocking the door. And they seem pretty decided.
+
+I'll just take it.
+
+I can't give to that.
+
+As much fun as it would be to push the desk and give myself a back spasm, I think I'll pass.
+
+desk
+
+door
+
+There is already a WaitNoBlock going on.
+
+Ugh...
+
+All in an day's work for an archeologist.
+
+Now I better find that relic.
+
+*CLICK*
+
+STOP RIGHT THERE, THIEF!
+
+Norway, here I come!
+
+*tap*
+
+*rattle* *rattle* *rattle*
+
+*RATTLE*
+
+*tap* *TAP* *TAP*
+
+Oof!
+
+*WOOSH*
+
+Yagh!
+
+*BANG*
+
+Tinted glass
+
+Reliquary
+
+That's an impressive pile of bones.
+
+A tinted glass? Underground?
+
+It's open now.
+
+That was too close for my comfort.
+
+I'm not going back there before I find the relic.
+
+Enter the elusive reliquary.
+
+Let's snatch this thing before I get into any more trouble.
+
+Reliquaries usually contain bogus body parts.
+
+I wonder what this one actually contains?
+
+Those look pretty steady.
+
+I don't think they're hiding anything.
+
+I hope that mine won't end up there.
+
+I don't see anything special there.
+
+I don't think it can be pushed or moved.
+
+It's just painted on.
+
+I've seen this symbol before.
+
+But where?
+
+Pile of bones
+
+Passageway
+
+Loose skull
+
+Timbering
+
+Skulls
+
+Stalls
+
+Symbol
+
+This is a thingie
+
+His name is written around his head.
+
+It appears to be %s.
+
+He's the one whose words I should follow.
+
+DEBUG: you need to visit the catacombs room at least once.
+
+The scroll says:
+
+Head
+
+Scroll
+
+I hope the trip was worth it.
+
+The door is unlocked.
+
+That makes no sense.
+
+A large pile of half-frozen snow has cluttered the old iron door.
+
+No, there is no time for snowballing.
+
+Usually I pay some kids to shovel the snow off my sidewalk.
+
+Phew!
+
+I can get snow anywhere, but I don't think I need fresh water.
+
+Can you imagine how much salt water I'd need to melt that much snow?
+
+That wouldn't work: The snow is slightly frozen and the oar is far from sharp.
+
+eDialog_DoorState
+
+It seems to have some ornament on the inside. Strange!
+
+The angle's not right, I don't see anything. I'd need to open it.
+
+There. It's still awfully rusty but at least it's not welded shut.
+
+eDialog_hasDoorBeenOiled
+
+Hey, this oar is probably over a thousand years old. I won't use it as a lever!
+
+It would surely break it.
+
+This door is completely gripped! It won't move at all.
+
+eDialog_DoorCounter
+
+Hmmm, it's getting better. Let's do it again.
+
+I think it's time for a final pull instead.
+
+It's very rusty, it got stuck half-way. I might loosen it with some efforts.
+
+Almost there. One of the hinges is crumbling away though.
+
+It won't open further. I need to continue making it move in either direction.
+
+OK, one final push should do it!
+
+*CLUNK!*
+
+*CRACK!*
+
+I'm just glad it didn't fall on my feet.
+
+eDialog_IceCrackOpened
+
+I should try to get rid of that ice.
+
+I see someone rummaging inside, but whoever it is they don't notice me.
+
+AHOY! ANYONE ON BOARD?
+
+Hva er det?
+
+hasHelpedFisherman
+
+Look, I found the hose you were asking for.
+
+Wonderful! Let me try my little experiment.
+
+*CLANG!*
+
+*BONK!*
+
+It works!
+
+Thank you mister!
+
+Now, tell me. How can I help you?
+
+Tusen takk again for helping me! I'm confident I can sail away tomorrow at dawn.
+
+Shaking the boat will only make them hostile. Why not just call?
+
+The boat is surely open already, but there's someone inside.
+
+Why not just call?
+
+There are a few houses and buildings but I wonder where is everyone.
+
+The sea seems pretty still.
+
+The bucket is already full.
+
+It's one of those medieval Scandinavian churches, entirely made of wood.
+
+It's exceptionally well preserved.
+
+Even though it's technically christian, I'm certain Vikings were still around when it was built.
+
+Found it!
+
+There's a TON of junk in there, but it's too dark.
+
+A lighter is not bright enough to search through it.
+
+There's a lot of useless junk in there.
+
+That wasn't easy.
+
+I also found a shovel head. Not brand new but still good.
+
+I don't think I'll find anything useful anymore in there.
+
+Those old storehouses can be found everywhere.
+
+Scandinavians would preserve salted meet and other goods in them.
+
+I'd say it was a furnace or an oven. It's OLD.
+
+But it looks like it burnt very recently.
+
+There are just some remains of this so called building.
+
+I don't want to destroy this completely!
+
+No doubt, there used to be some Vikings nearby.
+
+Why should I wandering around with that stone at my back?
+
+If I didn't know better, I'd say this stone looks like... An ancient pipe?
+
+I pops straight out of the ice wall... And back again into the ground, to God knows where.
+
+It's a huge stone literally popping out of the mountain.
+
+There's something going on behind that wall.
+
+My fiddling with the pipes did something!
+
+This steam is going somewhere.
+
+Let's have a closer look...
+
+It's made of massive font... Let's leave it here.
+
+path to moutain
+
+path to fjord
+
+church entrance
+
+Path to harbour
+
+path to church
+
+small ship
+
+fishermens village
+
+sea
+
+wooden church
+
+old storehouse
+
+structure
+
+carved stone
+
+man-made stone
+
+pile of snow
+
+metal door
+
+crack
+
+steam
+
+Hey! What's the rush?
+
+Oh well.
+
+HAPPY NEW YEAR TO ALL OF YOU FROM THE SEVEN CITIES DEVELOPMENT TEAM!
+
+THE END
+
+WHO DARES WAKING ME FROM MY ETERNAL SLUMBER?
+
+Uh oh!
+
+I'm afraid that was me, Agsvald!
+
+DO YOU KNOW MY NAME?
+
+Well yes, you wrote it for me.
+
+Do you remember now?
+
+IF I HAD TO REMEMBER ALL THE PLACES WHERE I WROTE MY NAME!
+
+That's not a very dignified answer...
+
+I'VE ALWAYS FOUND LOKI MORE INSPIRATIONAL THAN ODIN.
+
+No kidding.
+
+DID YOU COME LOOKING AFTER YOUR SHIELDLESS GOD?
+
+Well now it doesn't seem that important anymore.
+
+HA! HA! HA!
+
+Easy there, Nur-Ab-Sal.
+
+NUR AB WHO?
+
+TONIGHT IS A VERY SPECIAL NIGHT!
+
+IT WILL BE THE LONGEST NIGHT OF THE YEAR.
+
+So?
+
+THIS MUST BE CELEBRATED, AS IT HAS ALWAYS BEEN.
+
+With flowers and dances?
+
+NO, WITH BEER AND DRUNKEN SINGING.
+
+I MUST GO NOW, THEY ARE ALL WAITING FOR ME.
+
+HO HO HO!
+
+I should go downstairs to do that.
+
+It's an ancient baptism font. I guess it had a different purpose in Viking times.
+
+It's right in front of that curved line on the floor.
+
+The bucket is empty. I'm no magician.
+
+It's a handwritten note pinned to the wall.
+
+It says : 'The key is behind the cross'.
+
+I don't see any cross.
+
+This one represents the resurrection of Jesus.
+
+It's worthless.
+
+This one represents Jesus being crucified.
+
+Hey! There's a small key taped behind the painting!
+
+I've already taken the key.
+
+This one represents a Roman soldier putting a crown of thorns on Jesus' head.
+
+This one represents Jesus healing the lepers.
+
+This one represents Joseph of Arimathea collecting the blood of Jesus in the Grail.
+
+hasTakenBucket
+
+hasTakenBroomStick
+
+isCabinetDoorOpen
+
+hasUnlockedCabinet
+
+A thick wooden door. How authentic.
+
+It's already open
+
+The door is locked.
+
+It's already closed
+
+It fits.
+
+these stairs lead to the balcony.
+
+I should go upstairs to do that.
+
+These stairs lead to the ground floor.
+
+hasTakenGum
+
+My parents made me sit countless hours on those church benches.
+
+I remember how rugged the wood felt.
+
+Yuck! There's a gum glued to it!
+
+It's one of those awful old 'gums' made of chewed bark.
+
+Oh well, now that I've touched it.
+
+I'm not starting a collection of old chewing gum, thanks.
+
+Gross.
+
+A rowing paddle. Not too surprising when everyone here is a fisherman.
+
+It seems in good shape.
+
+Why not.
+
+I used an old technique for efficient packing.
+
+It was invented by pirates in the Caribbeans.
+
+A medieval shield used as a decoration.
+
+That's weird. The shield seems to be attached to an axis.
+
+This stelle has drawings of fog horns on it.
+
+There's a hole carved into each drawing. They seem to be running deep.
+
+Wow!
+
+POOOOOOOO
+
+Agsvald's fog horns! Alright!
+
+pshhhhh...
+
+Umph. It doesn't sound like a proper melody?
+
+Some sea water mist!
+
+*Crrrrrrr*
+
+It's like they're moving along a wave! Perfect!
+
+They're just clunking but nothing good seems to be happening.
+
+The dragon is coming to life!
+
+Something is not quite triggering there.
+
+The stone is very hot, but... Not mist at all.
+
+Pretty disappointing.
+
+I have a hunch that's not just an art installment.
+
+Well, at least SOME of it seemed correct.
+
+I need to make this thing work!
+
+This dragon has an unusually long tongue.
+
+I can't pick it up entirely but it seems to be able to slide.
+
+Nothing happened.
+
+I don't see the mop.
+
+There's a small oil lamp resting on the basin.
+
+I was sent by church representatives, after all.
+
+There's only the stick, the rest is missing.
+
+This is a massive dragon head carved in wood.
+
+It still has tiny seashells here and there.
+
+I think it could have been at the front of a Viking longboat.
+
+It won't budge.
+
+I'm too far away.
+
+It seems like my fiddling with the pipes did something after all.
+
+Just the striking plate to the door's lock.
+
+A secret compartment just opened at the back of the cabinet!
+
+WOW! It contains two huge gems!
+
+I believe this church holds many secrets.
+
+I think there's nothing more here.
+
+note
+
+painting
+
+stairs
+
+bench
+
+stone
+
+dragon head
+
+font
+
+rowing paddle
+
+shield
+
+tongue
+
+door lock
+
+dragon's left eye
+
+dragon's right eye
+
+dragon's forehead
+
+Nissefest, here I am.
+
+Lines
+
+A star represents the soul. I've never seen that before.
+
+The drawing is lacking some details but that's definitely the one.
+
+Marcus confirmed my translation. Everything is OK.
+
+It says here:
+
+I'm certain that this relic is hidden in this crypt.
+
+...But where?
+
+Drawing
+
+The soul
+
+Note
+
+Saint's head
+
+Those are very condensed runes, but it's along the lines of:
+
+'Agsvald's ship sails away in the morning mist,'
+
+'All shields readied',
+
+'War horns playing his battle tune.'
+
+It looks suspiciously identical to the dragon head in the church.
+
+This rune is a letter but it also means 'Sun'.
+
+This rune is a letter but it also means 'Sea'.
+
+This rune is a letter but it also means 'Blood'.
+
+rune
+
+dragon
+
+inscription
+
+Talk about tantalizing!
+
+Climbing up a steep wall made of smooth ice? Sounds easy... and safe.
+
+It's not jousting, but almost.
+
+At least Marcus won't tell it's wasn't worth buying my ticket to Norway.
+
+It's way too short!
+
+Well, well, well.
+
+ It seems our friend Agsvald kept some secrets after all.
+
+Up and ready to sail!
+
+...Or to raid.
+
+cave exit
+
+carving
+
+contraption
+
+enormous precious stone
+

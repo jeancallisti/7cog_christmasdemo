@@ -1,0 +1,4020 @@
+// AGS TRANSLATION SOURCE FILE
+// Format is alternating lines with original game text and replacement
+// text. If you don't want to translate a line, just leave the following
+// line blank. Lines starting with '//' are comments - DO NOT translate
+// them. Special characters such as [ and %%s symbolise things within the
+// game, so should be left in an appropriate place in the message.
+// 
+// ** Translation settings are below
+// ** Leave them as "DEFAULT" to use the game settings
+// The normal font to use - DEFAULT or font number
+//#NormalFont=DEFAULT
+// The speech font to use - DEFAULT or font number
+//#SpeechFont=DEFAULT
+// Text direction - DEFAULT, LEFT or RIGHT
+//#TextDirection=DEFAULT
+//  
+// ** REMEMBER, WRITE YOUR TRANSLATION IN THE EMPTY LINES, DO
+// ** NOT CHANGE THE EXISTING TEXT.
+Well actually I did!
+Jag har faktiskt gjort det!
+Who ARE you?
+Vem ÄR du?
+How did YOU get in here?
+Hur kom DU in hit?
+I sell these fine leather jackets.
+Jag säljer de här fina läderjackorna.
+You thought you could get away that easily!
+Du trodde att du kunde komma undan med det så lätt!
+Wake up, pal. It's 1938! It belongs in a museum!
+Vakna kompis, det är 1938! Den hör hemma i ett museum.
+Do you think Jesus' toe is actually in this box?
+Tror du på riktigt att Jesus tå faktiskt är inuti den här lådan?
+The catacombs are outside monastry land.
+Katakombera ligger utanför klostrets marker.
+I was hired by the Vatican.
+Jag blev anlitad av Vatikanen.
+I am brother Bernard, of the monastery of Saint-Luc,
+Jag är broder Bernard från klostret Saint-Lux,
+and this OUR crypt!
+och det här är VÅR krypta!
+How DARE you trespass and steal our most precious property?
+Hur VÅGAR du bryta dig in och stjäla vår mest värdefulla ägodel?
+Give back the toe at once!
+Ge tillbaka den där tån genast!
+ENOUGH OF THAT NONSENSE!
+NOG AV DENNA NONSENS!
+I know all the secret passages!
+Jag kan alla hemliga gångar!
+Give me the box this instant or I lock you up in here!
+Ge mig lådan genast, annars kommer jag att låsa in dig här!
+OK, pal, no need to go all inquisitor on me.
+Okej kompis, du behöver inte köra hela inkvisitörsstilen på mig.
+Here you go.
+Varsågod.
+Umph.
+
+Look, we started on the wrong FOOT...
+Lyssna, vi startade med ett felSTEG
+Aren't you going to open it?
+Ska du inte öppna den?
+What do you REALLY think is inside?
+Vad tror du på RIKTIG finns där i?
+It's fake anyways.
+Den är ändå oäkta.
+That's not funny, thief.
+Det där är inte roligt, tjuv.
+I despise your casualness and your hypocrisy!
+Jag föraktar din lättja och ditt hyckleri!
+No one looks at the relic! Even me, its guardian.
+Ingen får se reliken! Inte ens jag, dess väktare.
+In 10 centuries, we have never had the audacity to open this box.
+Under 1000 år har ingen av oss haft fräckheten att öppna den här lådan.
+Besides, this relic is so holy that seeing it would probably...
+Plus, den här reliken är så helig att se den skulle förmodligen...
+BURN your sinner's eyes!
+BRÄNNA dina ögon, syndare!
+I know what's OUTSIDE. This world is rotting.
+Jag vet vad som finns UTANFÖR. Den här världen ruttnar.
+I can already hear the seven trumpets...
+Jag kan redan höra de sju trumpeterna...
+...OF THE APOCALYPSE!
+...SOM FÖREBÅDAR DOMEDAGEN!
+You wish! This reliquary has been hidden in the crypt for centuries.
+Du skulle må då! Den här relike har varit gömd i den här kryptan i århundranden.
+And all that time, we protected it from satanic creatures...
+Och under hela den tiden så vi skyddat den mot satans kreatur...
+...LIKE YOURSELF!
+...SOM DU
+BLASPHEMY!
+HÄDELSE!
+I WARNED YOU to respect the name of the Lord in my presence!
+JAG VARNADE DIG för att inte respektera Herrens namn i min närvaro!
+Easy there, pal.
+Lung nu, kompis.
+I've had enough of your sarcastic tone and your cursing!
+Jag har fått nog av din sarkastiska ton och ditt svärande!
+For ONCE in your miserable life you will lay eyes on the most precious relic!
+För EN gång skull i ditt misserabla liv ska du få skåda den mest heliga reliken!
+And then never again!
+Och sen aldrig mer!
+BEHOLD!
+SKÅDA!
+...
+...
+It's empty, you know.
+Den är tom, vet du.
+!?!
+!?!
+Let me see.
+Få se.
+It's-- It's empty!
+Den-- Den är tom!
+That can't be!
+Det kan inte stämma!
+Look, there are some unusual scratchings inside.
+Titta, det är några konstiga skrapmärken inuti.
+Wait a minute, these are not scratchings!
+Vänta lite, det där är inte skrapmärken!
+This is the runic alphabet!
+Det är runor!
+The letters seem to have been carved hastily with a sharp object.
+Runorna verkar ha ristats in under hast med ett skarpt objekt.
+Do you understand this pagan language? What does it say?
+Förstår du detta hedniska språk? Vad står det?
+I'm a bit rusty, the real specialist here would be Marcus.
+Jag är lite ringrostig, Marcus är den riktiga experten.
+Who?
+Vem?
+Never mind.
+Glöm det.
+I believe it says...
+Jag tror att det står...
+"Agsvald was here"
+"Agsvald var här"
+Wh-- Are you sure?
+Va--  Är du säker?
+Yikes!
+Jösses!
+Do you hear yourself?
+Kan du höra dig själv?
+Golly!
+Milda Hilda!
+Jiminy Cricket!
+Järnspikars!
+Oh for God's sake!
+Äh, för Guds skull!
+What did you say!?
+Vad sa du!?
+Erm, nothing serious.
+Eeh, inget seriöst.
+Zounds!
+Biljarder!
+Thats sounds extreme!
+Det låter extremt!
+Bejabbers!
+Jösses Amalia!
+Did you really say that?
+Sa du det där på riktigt?
+For God's sake!
+För Guds skull!
+These are strong words.
+Det där är starka ord.
+Ouch!
+Aj!
+Are you for real?
+Är du på riktigt?
+That hurt.
+Det där gjorde ont.
+I'm not lying, we can find an arrangement.
+Jag ljuger inte, vi kan hitta en överenskommeelse.
+People usually find me charming.
+Folk brukar tycka att jag är charmig.
+Name one more thing you hate about me.
+Säg en sak som du hatar med mig.
+Come on now, you're just being mean.
+Äh men sluta, nu är du bara elak.
+I doubt it. I do not consort with the spawns of Belzebub.
+Tveksamt. Jag förhandar inte med Belzebubs avkomma.
+I know a certain snake that was charming too. Repent!
+Jag vet en viss orm som också var charmig. Ångra dig!
+The thing I hate the most is blasphemy!
+Den sak jag hatar mest är hädelse!
+"Thou shalt not take the name of the Lord thy God in vain."
+"Du skall icke missbruka HERRENS, din Guds namn."
+Whenever I hear someone use God's name to curse, I could just--
+När jag hör någon använda Guds namn som en svordom, så vill jag bara--
+It is not I who judge you, it is the Almighty.
+Det är inte jag som kommer att dömma dig, det är den Alsmäktige.
+Strange as it sounds, I'm pretty sure.
+Hur konstigt det än låter, så är jag ganska säker.
+Agsvald sounds like a Viking name.
+Agsvald låter som ett vikinganamn.
+When did you last check on the relic?
+När var det senast som du kontrollerade reliken?
+You should have picked Runic over Latin.
+Du skulle ha läst runalfabetet istället för latin.
+That is a CATASTROPHY!
+Det här är en KATASTROF!
+We've been watching over the Holy remains for almost a millenium!
+Vi har vakat över de heliga kvarlevorna i nästan ett årtusende!
+You're telling me that all that time they had been taken away?
+Så du menar att under hela den tiden så är det någon som har tagit dem?
+And by some bearded pagan adventurer at that!
+Och någon hednisk äventyrare till råga på allt!
+Wait, there's more.
+Vänta, det fortsätter.
+"Come get the body parts of your whiny god in Nissefest, if you dare."
+"Kom, hämta eran gnälliga guds kvarlevor i Nissefest...om ni vågar."
+Our Lord is not whiny! How dare you!
+Våran Gud är inte gnällig! Hur vågar du!
+Hey, I'm just reading it as it is. Our friend Agsvald knows how to tease.
+Lugn, jag läser bara som det står. Vår vän Agsvald är bra på att retas.
+What is this Nissefest he's talking about?
+Vad är det här Nissefest som han pratar om?
+I think it used to be a Viking settlement in Norway, many centuries ago.
+Jag tror att det var en vikingaboplats i Norge, för många hundra år sedan.
+My son, the time has come for you to answer to a higher calling.
+Min son, tiden har kommit för dig att följa ett högre kall.
+You must be kidding me.
+Du måste skoja.
+You must bring back the relic, the salvation of your soul depends on it.
+Du måste hämta tillbaka reliken, din själs räddning beror på det.
+Yeah, yeah.
+Jaja...
+Plus, I would let you see the rare manuscripts of our monastry.
+Plus så kommer jag låta dig se de klostrets sällsynta manuskript.
+Say no more.
+Säg inget mer.
+monkDialogFinished
+
+I'm done with you.
+Jag är klar med dig.
+I've had enough.
+Jag har fått nog.
+Me and my relic, we're gone.
+Jag och min relik, vi drar nu.
+Wait!
+Vänta!
+What now.
+Vad.
+Can't you find the exit yourself?
+Kan du inte hitta ut själv?
+Don't insist, the reliquary stays closed.
+Insistera inte, relikskrinet förblir stängt.
+Hello! I'm an American archeologist.
+Hallå! Jag är en amerikansk arkeolog.
+Could I speak to someone in town?
+Kan jag prata med någon i byn?
+Maybe I can help you with your boat?
+Jag kanske kan hjälpa dig med din båt?
+What is it you need again?
+Vad var det du behövde nu igen?
+I'll let you work.
+Jag ska låta dig arbeta i fred.
+Oj, oj, oj.
+Oj, oj, oj.
+Sorry sir, I'm too busy, I cannot help you.
+Ursäkta herrn, jag är för upptagen, jag hinner inte hjälpa dig.
+It's the fishing season. Everyone's at sea from dusk till dawn.
+Det är fiskesäsong. Alla är till sjöss från gryning till skymning.
+Except for me. My boat is damaged and I must fix it urgently.
+Förutom jag. Min båt är trasig och jag måste skynda mig att laga den.
+I really don't have time to talk, good bye sir.
+Jag har verkligen inte tid att prata, hej då herrn.
+Ha! I don't think so.
+Ha! Jag skulle inte tro det.
+This old thing's engine has been patched so many times...
+Den här gamla motorn har lappats ihop så många gånger...
+...I'm probably the only person to know how to make it work.
+...jag är förmodligen den enda personen som vet hur man kan få den att fungera.
+It used to finish the Fjord run in 12 nautic miles, you know.
+Den brukade kunna klara av Fjordloppets 12 sjömil, vet du.
+Anyways I'm too busy to continue this little chat.
+Under alla förhållanden så är jag för upptagen för att fortsätta denna pratstund.
+But if I help you fix it will you answer my questions?
+Men om jag hjälper dig att laga den så kommer du svara på mina frågor?
+Listen min herr, I told you--
+Lyssna min herre, jag sa till dig--
+Hmm...
+Hmm...
+OK, listen.
+Ok, lyssna.
+Next to the church, there's an old storehouse where I keep some tools.
+Bredvid kyrkan finns ett gammalt förråd där jag har lite verktyg.
+And inside of it there's a hose. Bring it back to me and we'll see.
+Där inne finns en slang. Hämta den så kan vi se.
+In the meantime I'll be busy with min lille hammer.
+Och så länge så kommer jag hålla mig upptagen med lille hammer.
+hasReceivedFishermanMission
+
+Oj! I thought I was clear!
+Oj! Jag trodde det var självklart!
+Bring me the hose that's in the old storehouse, and I'll help you.
+Hämta slangen i det gamla förrådet så hjälper jag dig.
+Hurry up please, while I tighten a few bolts.
+Skynda dig är du snäll, medan jag drar åt några muttrar.
+If you don't mind.
+Om det inte är för mycket begärt.
+About the church...
+Alltså kyrkan...
+About that pile of ashes on the hill...
+Den där högen med aska på kullen... 
+Seen any vikings around  lately?
+Har du sett några vikingar på sistone?
+Bye bye.
+Hej då.
+Yes?
+Ja?
+Ha! Ha!
+Ha! Ha!
+Bye bye!
+Hej då.
+Does your church host a relic or two?
+Finns det en relik eller två i kyrkan?
+Quite authentic!
+Riktigt autentiskt!
+I've noticed those strange holes in the wall...
+Jag har lagt märke till några konstiga hål i väggen...
+Can you sing one of his songs?
+Kan du sjunga en av hans sånger?
+Would you sing another song?
+Kan du sjunga en till sång?
+How about another song?
+Vad sägs om en sång till?
+You have quite the sense of humor!
+Du har ett ganska bra sinne för humor!
+But it's a tiny church. No relics. Not even a crypt.
+Men det är en pytteliten kyrka. Inge reliker. Inte ens en krypta.
+Yes, it's extremely old. From the times of massive Christian conversions.
+Ja, den är extremt gammal. Från kristna masskonverteringstiden.
+I even believe it was built on top of the Viking common hall.
+Jag tror till och med att den är byggd på vikingarnas storhus.
+Peculiar, aren't they?
+Egendomliga, är de inte?
+As a kid, I used to imagine it was the holes of a flute.
+Som barn brukade jag fantisera om att det var flöjthål.
+I get it. A boring mass can make the mind wander.
+Jag fattar. En tråkig gudstjänst kan få tankarna att vandra.
+Not only that, but our priest enjoyed music a lot.
+Inte bara det, vår präst gillade verkligen musik.
+He had lots of songs to help us remember events and dates from the Bible.
+Han hade en massa sånger för att hjälpa oss att komma ihåg händelser och datum i bibeln.
+Do you mean... Songs he invented himself?
+Menar du...sånger han hade hittat på själv?
+Yes.
+Japp.
+Well, erm... That's a bit embarrassing.
+Okej, eh....det är lite pinsamt.
+Come on, I helped you with your engine.
+Kom igen, jag hjälpte dig med motorn.
+Wouldn't you prefer a drinking song?
+Skulle du inte föredra en snapsvisa?
+OK, here goes :
+Ok, här kommer den:
+'Adam has Abel, that's one son...',
+'Adam får Abel, det är en son då...',
+'Adam has Cain, that's two sons...'
+'Adam får Cain, det är son två...' 
+'Cain kills Abel, that's one son again...'
+'Cain dräper Abel, tillbaka till en son så'
+'Adam has Seth, that's two sons again...'
+'Adam får Seth, det blir två igen då...'
+I think I get the gist of it.
+Jag tror jag fattar andemeningen med den.
+That's a boring song but thanks to it I never forgot the genealogy of Adam.
+Den är lite tråkig men jag har aldrig glömt Adams stamtavla.
+I wish my dad knew how to sing.
+Jag önskar att min pappa kunde sjunga.
+How about this one:
+Den här då:
+'the hip bone connects to the leg bone,'
+'Höftbenet sitter ihop med lårbenet,'
+'The leg bone connects to the--'
+'Lårbenet sitter ihop med--'
+I already know that one.
+Jag kan redan den där.
+Yes, I think the priest adapted it from a famous song.
+Ja, men jag tror att prästen skrev om en känd sång.
+I don't know any more songs but that one:
+Jag kan inte fler sånger än den:
+'A door has a lock, the lock needs a key',
+'En dörr har en lås, låset behöver en nyckel',
+'Push it three times!'
+'Tryck på det tre gånger!'
+'The lock can also be a key',
+'Låset kan också vara en nyckel',
+'Then the lock opens another door',
+'Då kommer låset öppna en annan dörr',
+The tune is catchy.
+Melodin fastnar.
+Yes. The priest was singing to himself very often. I remember it to this day.
+Ja. Prästen sjöng för sig själv väldigt ofta. Jag kommer ihåg det än idag.
+hasRevealedDoorMechanism
+
+When did it burn?
+När brann det?
+I've seen some runes next to it.
+Jag såg några runor bredvid det.
+Nevermind
+Glöm det
+Very recently, actually.
+Väldigt nyligen, faktiskt.
+It belonged to our priest's family since forever.
+Det har funnits i prästens släkts ägor hur länge som helst.
+Do you mean they maintained it?
+Menar du att de skötte om det?
+Yes, with great care. God knows why.
+Ja, med stor noggrannhet. Gud vet varför.
+So, when the priest died it went derelict.
+Så när prästen dog så blev det övergivet.
+Yes, and then this mysterious fire.
+Ja, och sen den där mystiska elden.
+Somehow, the soil is always hot up there, even in winter.
+På något sätt så är jorden där uppe alltid varm, även på vintern.
+Could it have started the fire?
+Kan det ha startat elden?
+Possibly.
+Kanske.
+Oh yes it's extremely old.
+Och ja, den är extremt gammal.
+There used to be a Viking settlement up there. That furnace was the last remaining trace.
+Det brukade finnas en gammal vikingabosättning där uppe. Den där ugnen är det sista spåret efter den.
+Once, I saw the INSIDE of the furnace door.
+En gång, såg jag INSIDAN av ugnsdörren.
+It's beautiful: Ornamented and all.
+Den är vacker: Fullt med ornament och allt.
+Have you heard of a Viking named Agsvald?
+Har du hört talas om en viking som hette Agsvald?
+Do you have... A Vikings museum of some sort?
+Har ni...ett slags vikingamuseum?
+Nevermind.
+Glöm det.
+Oh yes he was the big shot around here in the early middle ages.
+Och ja, han var en storfräsare häromkring under den tidiga medeltiden.
+He kept going on raids to Great Britain, and even to France!
+Han höll på med vikingatåg till Storbrittanien, till och med till Frankrike!
+To France? Interesting.
+Till Frankrike? Intressant.
+The rumour says that he stashed a treasure somewhere here.
+Ryktet säger att han gömde undan en skatt häromkring någonstans.
+But guess what, no one ever found it.
+Men gissa vad, ingen har någonsin hittat den.
+Oh, no. The mountain is littered with Viking artifacts.
+Åh nej. Berget är fullt av vikingaartefakter.
+But we're just a small fishing village. I know the stories my grandma's grandma told her.
+Men vi är bara en liten fiskeby. Jag vet vilka historier min mormors mormor berättade för henne.
+So... No reliable source of information?
+Så... Inga säkra källor till information?
+Well, our priest and his family seemed to know many secrets about this Agsvald guy!
+Alltså, vår präst och hans familj verkade veta många hemligheter om den här Agsvaldtypen!
+That priest didn't have any children, sadly. His secrets died with him.
+Prästen hade inga barn, tyvärr. Hans hemligheter dog med honom.
+TESTING;
+
+DEMO;
+
+BETATEST;
+
+DEBUG;
+
+SAFEMODE;
+
+SuspendableWait::Set :  count should be 0
+
+Cannot create new tween because the Tween module is currently playing %d tween(s), which is the maximum. You can increase this max number on the Tween module script header.
+
+Cannot create Tween. Invalid index!
+
+ERROR: Too many timers/named globals used when accessing named global %s. Contact the game author and tell them to increase the value of ULTRAVARIABLES_MAX_GLOBALS from %d in the UltraVariables module header
+
+Sorry, cannot alias to global int 0
+
+Log.txt
+
+Could not create log file. Will not try again.
+
+%02d%02d%02d
+
+%s_%s :
+
+     %s
+
+** GLOBALS **
+
+'%s',%d,'%s'
+
+** TIMERS **
+
+'%s',%d
+
+%d
+
+%s (%d)
+
+SoundManagement::FindAudioTypeIndex : could not find index of audiotype '%d'
+
+SoundManagement::GetAudioClipCount : woops, womething's wrong with the macros
+
+SoundManagement::GetAudioClip : you tried to access AudioClip %d but there are only %d
+
+SoundManagement::GetAudioClip_ByName : no AudioClip is named %s
+
+null
+
+SoundManagement::GetName : did not find name of clip
+
+UNNAMED CLIP
+
+eAudioTypeAmbientSound
+
+eAudioTypeMusic
+
+eAudioTypeSound
+
+eAudioTypeDebugMaxChannels0
+
+SoundManagement::RegisterAudioTypes() : you forgot to name AudioType '%d'!
+
+SoundManagement::RegisterAudioTypes() : couned %d types, but manually set %d types.
+
+UNKNOWN AUDIO TYPE
+
+SoundManagement::RegisterAudioClip : not enough slots to store '%s'. Increase MAX_NAMED_CLIPS
+
+SoundManagement::CheckForgottenTypes : AudioClip '%s' has AudioType '%d' which didn't receive a name.
+
+SoundManagement::CheckForgottenClips : there is no way of performing this self-check in this version of AGS. You need AGS 3.4.0.x
+
+SoundManagement::CheckForgottenClips : you forgot to name %d clips. Do it in module SoundManagement.
+
+all clips need to be named
+
+SoundManagement::GetAudioChannelGroup_ByAudioType : didn't find AudioType %d (%s) in the channels groups
+
+SoundManagement::GetAudioChannel : There is no AudioChannel with index %d.
+
+== NAMED AUDIOTYPES DUMP ==
+
+%d : %s
+
+== END OF NAMED AUDIOTYPES ==
+
+==CHANNELS GROUPS DUMP==
+
+Group %d: AudioTypes
+
+%s '%s'
+
+    start=%d
+
+    lengt=%d
+
+    nbCh=%d
+
+    maxCh=%d
+
+==END CHANNELS GROUPS DUMP==
+
+Counting channels for AudioType '%s'(%d) using AudioClip '%s'.
+
+CountAudioChannels_Manually : could not play clip '%s'. This could be a low-level issue (hardware?). Leaving function.
+
+    The channel of AudioType '%s' was found in a channels group before, but I can't find which one.. :-(.
+
+    the channel of AudioType '%s' was already bound to channels group #%d.
+
+CountAudioChannels_Manually : WARNING AudioClip '%s' was played in a channel reserved by AudioType '%s' (channels group #%d). Did you register this AudioType twice or did you get mixed up with your test AudioClips?
+
+CountAudioChannels_Manually : I'll keep counting but I can't guarantee the integrity of the results.
+
+    This is the shared channel. Let's add this AudioType to the channels group's list of AudioTypes.
+
+    CountAudioChannels_Manually : This AudioType is already present in group %d. Skipping.
+
+Manually Counted %d AudioChannels. Created channels group #%d
+
+== START CHANNEL COUNT ==
+
+will be counting channels for AudioType %d (%s) using AudioClip '%s'.
+
+SoundManagement::CountAudioChannels_MaxChannelMore : Could not find a test clip with AudioType %d (%s).
+
+== END CHANNEL COUNT ==
+
+More channels info:
+
+    Found a total of %d channels.
+
+    %d of these channels are shared by all the AudioTypes that have MaxChannel = 0.
+
+    The channels split as follows:
+
+aTestClip
+
+aMusicSpain_short
+
+aMusic1
+
+aMusic2
+
+aMusic3
+
+aMusic4
+
+aMusic5
+
+aMusic6
+
+aSnow_tempest
+
+aAmbiant_cave1
+
+aAmbiant_cave2
+
+aIcecracks1
+
+aStep1
+
+aStep2
+
+aStep3
+
+aWhiplash
+
+aSound1
+
+aWoodenMechanism
+
+aSound3
+
+aSound4
+
+aSound5
+
+aSound6
+
+aSound7
+
+aTruck00
+
+aMachinegun00
+
+aCrickets00
+
+B 
+
+\\ 
+
+_ 
+
+%c 
+
+%d-
+
+%c
+
+.
+
+0
+
+1
+
+SERIOUS WARNING: Files '%s' and '%s' both exist in the game folder.
+
+[[This means a CRASH happened while a critical file was being saved.
+
+[[Please quit the game, keep only ONE of the two files (delete the one you don't need anymore), then start again.
+
+SafeFile::FindInstance : ERROR : neither '%s' nor '%s' exist.
+
+ERROR: Could not open '%s' for writing
+
+ERROR: Could not open '%s' for append
+
+ShitXML::findFreeNode - you need to increase 'MAXNODES'
+
+ShitXML::NewNode : requires a name
+
+ShitXML::SetText : txt cannot be null
+
+ShitXML::SetText : bad node '%d'
+
+ShitXML::SetParams : bad node '%d'
+
+ShitXML::GetParams : bad node '%d'
+
+ShitXML::GetText : bad node '%d'
+
+ShitXML::GetText_i : bad node '%d'
+
+ShitXML::GetName : bad node '%d'
+
+BROTHER
+
+ShitXML::AddChild : error. You tried to add children to node '%d' ('%s') but it has style OneLine
+
+<%s>
+
+</%s>
+
+<br>
+
+XML::WriteNode : unknown style for '%s': '%d'
+
+Error: ShitXML::Dump : empty XML node %d
+
+Error: ShitXML::Dump : Could not open '%s' for writing
+
+'%s'
+
+/
+
+001 badly formed xml. Reached end of file while expecting an opening tag.[Here: %s
+
+002 badly formed xml. Expected '<', found '%s'. Here: %s
+
+003 badly formed xml. Found a solo tag '<%s>' while looking for an opening tag. [Here: %s
+
+004 badly formed xml. Found a closing tag '<%s>' while looking for an opening tag. [Here: %s
+
+005 badly formed xml. Reached end of file while expecting a closing tag to <%s>.[Here: %s
+
+006 badly formed xml. Solo tag '<%s>' contains several words. It's forbidden. [Here: %s
+
+br
+
+[
+
+007 xml warning: parser doesn't know how to handle Solo tag '<%s>'.[Here: %s
+
+008 badly formed xml. Found some content in-between <%s> and <%s>: '%s'.[Here: %s
+
+010 badly formed xml. Expected </%s>. Around here: %s
+
+011 badly formed xml. Opening tag=<%s> but closing tag=<%s>.
+
+012 badly formed xml. There cannot be rogue text between a closing tag (<%s>) and the next tag. Here: %s
+
+ShitXML::Parse : ERROR : could not open '%s' for reading.
+
+]
+
+;
+
+=
+
+[%s]
+
+true
+
+on
+
+yes
+
+%s=%s
+
+%s=%d
+
+%s=%f
+
+O
+
+WARNING RadioButton::BindChoice : radio already bound!
+
+findFreeEntry : no more free entries. Increase 'MAXENTRIES'
+
+AddListBox: ERROR: too many advanced listboxes. Increase 'MAXADVLISTBOX'.
+
+GetEntry_FromIndex : ERROR: There is no entry '%d' in the list
+
+YpyjIHgMNWQ
+
+GetRowHeight_risky : ERROR: cannot use this function if text area is not visible
+
+GetRowHeight_risky : ERROR: cannot use this function if text area's ListBox is covered by another control
+
+0000000
+
+1111111
+
+WARNING: could not find height of text area rows. The cursor might be off, or maybe your font is taller than 20 pixels?
+
+'àéèêùûîïüç' - WARNING those characters MUST be explicitly translated in the translation file
+
+ -
+
+SoundDebugGui::SetGraphValue : bad slot : %d (should be in 0, %d)
+
+?
+
+UNUSED
+
+ERROR in 'SoundDebugGUI::SetGUI' : Please provide more controls on the GUI (counted %d,%d,%d)
+
+%d/%d
+
+updateing %d
+
+startOnGraphMs=%d, positonMs=%d, positoinPixels=%d
+
+Started recording %d (scale %d)
+
+I can't pull that.
+Jag inte dra den.
+I can't push that.
+Jag kan inte trycka på den.
+That just won't work.
+Det kommer helt enkelt inte funka.
+I don't know what to do.
+Jag vet inte vad jag ska göra.
+I see nothing special about it.
+Jag ser inget speciellt med den.
+Why would I want to pick that up?
+Varför skulle jag vilja plocka upp den där?
+I shouldn't start talking to things.
+Jag borde inte prata med saker.
+That won't work.
+Det kommer inte att fungera.
+I can't open that.
+Jag kan inte öppna den.
+I can't close that.
+Jag kan inte stänga den.
+I don't think that will work.
+Jag tror inte att det kommer att fungera.
+Nu-uh.
+Nä-he.
+No.
+Nej.
+Nope.
+Nope.
+That's silly.
+Det är löjligt.
+Why would I try that?
+Varför skulle jag vilja prova det?
+I'll have to think of something more useful.
+Jag måste komma på något mer användbart.
+No way.
+Inte en chans.
+I can't figure it out.
+Jag kan inte först det.
+I'd rather keep that to myself.
+Jag håller det helst för mig själv.
+I won't give that away.
+Jag skulle inte ge bort den där.
+Bad idea.
+Dålig idé.
+Let's keep that to myself.
+Låt mig behålla den för mig själv.
+ERROR : no sentence returned.
+
+I don't need that.
+Jag behöver inte den där.
+Unknown mode : %d
+
+It's too heavy to pull it
+Den är för tung att dra.
+It's too heavy to push it
+Den är för tung att flytta på.
+Let it be.
+Låt den vara.
+I can't pick up something that big!
+Jag kan inte plocka upp något så där stort!
+Violence is not a solution here.
+Våld är inte en lösning här.
+I don't just push people around.
+Jag går inte och runt puttar folk
+I don't randomly touch people.
+Jag tar inte på folk helt slumpmässigt.
+Yes, why don't I just carry everybody around on my back?
+Ja, varför bär jag inte omkring på alla på ryggen?
+You mean, open that person with a knife or something?
+Menar du, öppna den där personen med en kniv eller något?
+That doesn't make sense.
+Det finns ingen mening med att göra så.
+ERROR: Mirrors::AddMirrorChar : too many mirrors in this room. Increase MAX_MIRRORS_PER_ROOM
+
+ERROR: Mirrors::AddMirrorChar : you already used %s as a mirror reflection!
+
+ERROR: Mirrors::NewMirror : too many mirrors in your game. Increase MAX_MIRRORS
+
+ERROR: Mirrors::NewMirror : Bad scripting! you've declared the same mirror twice
+
+NewMirror: Incorrect opacity value: %f. Must be 0.0 to 1.0
+
+NewMirror: Could not find an unused mirror character. You must call 'AddMirrorChar' once more!
+
+Mirrors::SetOffset : could not find mirror. Did you call NewMirror first?
+
+Mirrors::SetOpacity : could not find mirror. Did you call NewMirror first?
+
+Bad scripting in 'SetSubstituteCharacter': that mirror has not been previously created. Call NewMirror first!
+
+Mirrors::EnableMirror : you tried to enable a mirror that wasn't registered before using NewMirror
+
+Mirrors::mirrorLoop : unexpected symetry type %d
+
+Mirrors::AssertSymmetryType : Unexpected symmetry type %d
+
+Mirrors::AssertSymmetryType : Composite symmetry types not implemented: %d
+
+%d %d %d
+
+a game by
+
+the Seven Cities of Gold team
+
+this featurette by
+
+Monsieur Ouxx
+
+Charalampos Papadopoulos
+
+Selmiak
+
+story by
+
+background art by
+
+Tolga Ocek
+
+sprite and animations by
+
+Monsieur Ouxx - ProgZmax - Selmiak
+
+Jag - Amelie - Trample Pie
+
+CaesarCub - Hans
+
+music by
+
+Drew CU
+
+Victor Parejo Medina
+
+Dualnames
+
+scripting by
+
+project coordination & research
+
+Beta testing
+
+Ricky Derocher
+
+Cassiebsg
+
+extra scripting by
+
+H. Diot
+
+Abstauber - Edmundito - SSH
+
+Khris - Ryan Timothy - Spyros
+
+Proskrito - Hedgefield - Ashen
+
+fonts by
+
+Rulaman
+
+Lucasfan
+
+website by
+
+Forums & hosting by
+
+cbm8bit
+
+social networks
+
+AGS engine by
+
+Chris Jones
+
+Ivan Mogilko - Sonneveld
+
+Morgan Willcock - Tobihan
+
+Gurok - Monkey0506
+
+Tzachs - rofl0r
+
+Icicles::NewIcicle : Too many icicles in this game. increase MAX_ICICLES
+
+SCROLLING LOCK INFORMATION[[edgeLeft=%d, edgeRight=%d[edgeTop=%d,edgeBottom=%d
+
+Speed values can't be 0 at the same time
+
+Fallingspeed already been set to zero.
+
+Windspeed already been set to zero.
+
+ParticleSystem Init failed as:\n
+
+Particle system type cannot be NO_CHANGE_PARTICLE in init.\n
+
+Wind direction cannot be NO_CHANGE_WIND in init.\n
+
+Sprite slot %d is not proper.\n
+
+\nPlease check your script.
+
+MIRROR1
+
+MIRROR2
+
+MIRROR3
+
+MIRROR4
+
+%d.
+
+This button is not part of the Tumbleweed verbs GUI
+
+Gehe zu %s
+
+Schau %s an
+
+Rede mit %s
+
+Gib !s an %s
+
+Gib %s
+
+Nimm %s
+
+Benutze !s mit %s
+
+Benutze %s
+
+Öffne %s
+
+Schließe %s
+
+Drücke %s
+
+Ziehe %s
+
+Ir a %s
+
+Mirar %s
+
+Hablar con %s
+
+Dar !s a %s
+
+Dar %s
+
+Coger %s
+
+Usar !s con %s
+
+Usar %s
+
+Abrir %s
+
+Cerrar %s
+
+Empujar %s
+
+Tirar de %s
+
+Aller vers %s
+
+Regarder %s
+
+Parler à %s
+
+Donner !s à %s
+
+Donner %s
+
+Prendre %s
+
+Utiliser !s sur %s
+
+Utiliser %s
+
+Ouvrir %s
+
+Fermer %s
+
+Pousser %s
+
+Tirer %s
+
+Vai a %s
+
+Esamina %s
+
+Parla con %s
+
+Dai !s a %s
+
+Dai %s
+
+Raccogli %s
+
+Usa !s con %s
+
+Usa %s
+
+Apri %s
+
+Ferma %s
+
+Premi %s
+
+Tira %s
+
+Ir para %s
+
+Olhar para %s
+
+Falar com %s
+
+Apanhar %s
+
+Usar !s com %s
+
+Fechar %s
+
+Empurrar %s
+
+Puxar %s
+
+Ga naar %s
+
+Bekijk %s
+
+Praat met %s
+
+Geef !s aan %s
+
+Geef %s
+
+Pak %s
+
+Gebruik !s met %s
+
+Gebruik %s
+
+Open %s
+
+Sluit %s
+
+Duw %s
+
+Trek %s
+
+Walk to %s
+
+Look at %s
+
+Talk to %s
+
+Give !s to %s
+
+Give %s
+
+Pick up %s
+
+Use !s with %s
+
+Use %s
+
+Close %s
+
+Push %s
+
+Pull %s
+
+!s
+
+%s
+
+>
+
+>n
+
+This button is not part of the Verbs GUI.
+
+Optionen
+
+Musik Lautstärke
+
+Sound Effekte
+
+Standard
+
+Speichern
+
+Laden
+
+Beenden
+
+Weiter
+
+Pause
+
+Leertaste für weiter
+
+Spielstand laden
+
+Abbruch
+
+Spielstand speichern
+
+Spiel verlassen
+
+Möchten Sie das Spiel beenden?
+
+Ja
+
+Nein
+
+Opciones
+
+Volumen de la música
+
+Efectos de sonido 
+
+Restablecer
+
+Guardar
+
+Cargar
+
+Salir
+
+Volver
+
+Pausa
+
+Pulsa Espacio para continuar
+
+Por favor, elige el juego a cargar
+
+Cancelar
+
+Por favor, introduce un nombre
+
+¿Salir del juego?
+
+¿Seguro que quieres salir?
+
+Si
+
+No
+
+Paramètres
+
+Volume de la musique
+
+Volume des sons
+
+Réinitialiser
+
+Sauver
+
+Charger
+
+Quitter
+
+Reprendre
+
+Appuyez sur la barre d'espacement pour reprendre
+
+Choisissez une partie à charger
+
+Annuler
+
+Saisissez un nom
+
+Voulez-vous vraiment quitter?
+
+Oui
+
+Opzioni
+
+Volume della Musica
+
+Effetti Sonori
+
+Risedersi
+
+Salva
+
+Carica
+
+Esci
+
+Continua
+
+Partita in Pausa
+
+Premi Spazio per Continuare
+
+Scegli una partita da caricare
+
+Cancella
+
+Inserisci un nome
+
+Uscire dal gioco
+
+Sei sicuro/a che vuoi uscire?
+
+Opções
+
+Volume Música
+
+Efeitos Sonoros
+
+Gravar
+
+Restaurar
+
+Desistir
+
+Continuar
+
+Prima Space para continuar
+
+Por favor escolha um jogo
+
+Por favor insira um nome
+
+De certeza que quer desistir?
+
+Opties
+
+Muziek Volume
+
+Geluidseffecten
+
+Standaard
+
+Opslaan
+
+Stop
+
+Ga door
+
+Pauze
+
+Druk op de Spatiebalk om door te gaan
+
+Kies a.u.b. een spel om te laden
+
+Annuleren
+
+Vul a.u.b. een naam in
+
+Sluit spel af
+
+Weet u zeker dat u wilt stoppen?
+
+Nee
+
+%dm
+
+%dh %dm
+
+%s;%04d/%02d/%02d %02d:%02d
+
+Missing module 'verbgui'
+
+I can't use that.
+Jag kan inte använda den.
+That won't do any good.
+Det skulle inte göra någon nytta
+Nice %s
+Fin %s
+It's %s
+Det är %s
+I can't push %s
+Jag kan inte putta %s
+I can't pull %s
+Jag kan inte dra %s
+It has already been closed.
+Den är redan stängd.
+Doing that with %s is not a good idea.
+Att göra det med %s är ingen bra idé.
+It is open.
+Den är öppen.
+%s would not like it.
+%s skulle inte gilla det.
+I don't want to pick %s up.
+Jag vill inte plocka upp %s.
+I have nothing to say.
+Jag har inget att säga.
+I don't want to talk to %s.
+Jag vill inte prata med %s
+I'd rather keep it.
+Jag behåller den hellre.
+I can't do that.
+Jag kan inte göra det.
+The door looks solid.
+Dörren ser solid ut.
+It is locked.
+Den är låst.
+I can't unlock it with that.
+Jag kan inte låsa upp den med det.
+I have to close it first.
+Jag måste stänga den först.
+Now it's unlocked.
+Nu är den olåst.
+The door is locked again.
+Dörren är låst igen.
+GUI_LANGUAGE
+sv
+de
+
+es
+
+fr
+
+en
+
+it
+
+Missing module 'OptionGui'
+
+Go to
+Gå till
+Look At
+Titta på
+Talk To
+Prata med
+Give
+Ge
+Pick Up
+Plocka upp
+Use
+Använd
+Open
+Öppna
+Close
+Stäng
+Push
+Tryck
+Pull
+Dra
+ERROR
+
+Gehe zu
+
+Schau
+
+Rede
+
+Gebe
+
+Nehme
+
+Nutze
+
+Öffne
+
+Schließe
+
+Drücke
+
+Ziehe
+
+Ir a
+
+Mirar
+
+Hablar
+
+Dar
+
+Coger
+
+Usar
+
+Abrir
+
+Cerrar
+
+Empujar
+
+Tirar
+
+Aller
+
+Regarder
+
+Parler
+
+Donner
+
+Prendre
+
+Utiliser
+
+Ouvrir
+
+Fermer
+
+Pousser
+
+Tirer
+
+Vai a
+
+Esamina
+
+Parla
+
+Dai
+
+Raccogli
+
+Usa
+
+Apri
+
+Ferma
+
+Premi
+
+Tira
+
+Ir para
+
+Olhar
+
+Falar
+
+Apanhar
+
+Fechar
+
+Empurrar
+
+Puxar
+
+Ga naar
+
+Bekijk
+
+Praat
+
+Geef
+
+Pak
+
+Gebruik
+
+Sluit
+
+Duw
+
+Trek
+
+ERROR2
+
+Unknown state
+
+Unknown language
+
+Did something change?
+
+NOT IMPLEMENTED (suit yourself)
+
+Not a valid theme number : %d
+
+a mistake has been made.
+
+Interactions style : GUI=
+
+9Verb
+
+Coin
+
+Simplified
+
+Error
+
+, tap=
+
+Desktop
+
+Tap
+
+Could not write to file '%s'
+
+bonuses are now enabled permanently. Delete this file to lock access to the bonuses again.
+
+OLDDEMO.ags
+
+BONUS.ini
+
+IndyTravelMap : you didn't define a vehicle sprite for the current region (player at %d, %d). Please use 'addVehicle' and position player properly.
+
+MACHINE:
+
+(null)
+
+STATE:
+
+FROM:
+
+INPUT:
+
+TO:
+
+CLONE:
+
+NEW:
+
+CLONE:%s
+
+NEW:%s
+
+MACHINE:%s
+
+STATE:%s
+
+FROM:%s
+
+INPUT:%s
+
+TO:%s
+
+DEBUG/TESTS
+
+GUI: Settings
+
+Fonts tests
+
+TextArea
+
+FoAcredits
+
+Mirrors 2
+
+character animation tests
+
+Test scrolling lock
+
+GUI interactions (look at, etc.) tests
+
+GUI Tumblew. dialogs test
+
+MENUS
+
+MS-DOS
+
+Disclaimer
+
+Main Menu
+
+Demo bonuses
+
+Regular credits
+
+DEMO
+
+01 Catacombs (no cutscene)
+
+01 Catacombs (with cutscene)
+
+01 Catacombs (Monk Cutscene)
+
+01b Tinted glass
+
+02 Norway outside
+
+02b Norway outside (night)
+
+02b norway outside (oven)
+
+Norway Hatch Close Up
+
+03 norway inside
+
+03 norway inside (end cutscene)
+
+04 norway ice cave
+
+05 europe map
+
+06 indys classroom
+
+end credits
+
+journal
+
+Programing mistake: you forgot to implement checkpoint '%d'.
+
+RunAlways:
+
+AutoRemove:
+
+Paused:
+
+bad scripting. You should not try to unpause during debug pause
+
+Misc
+
+showDisclaimer
+
+ERROR: in 'ToModernAudio' : Unexpected sound index
+
+If I want to use this door, I should OPEN it.
+Om jag vill använda dörren, så borde jag ÖPPNA den.
+It's an average door.
+Det är en normal dörr.
+I can't pick the door up!
+Jag kan inte plocka upp dörren!
+Sure, I should just start talking to doors.
+Absolut, jag borde börja prata med dörrar.
+The door works fine. If I want to use this door, I should OPEN it.
+Dörren fungerar fint, om jag vill använda den så borde jag ÖPPNA den.
+It's already open.
+Den är redan öppen.
+It's already closed.
+Den är redan stängd.
+Error: findDoorIndex: Couldn't find the requested door in room %d
+
+Error in 'Doors' module : bad door id : (id=%d, but should be between 0 and %d
+
+Fatal error: too many rooms to handle doors
+
+Fatal error: too many doors declared
+
+It's already properly closed.
+Den är redan ordentligt stängd.
+It's an oil can I took from the janitor's closet.
+Det är en oljeburk som jag tog från vaktmästarens garderob.
+I'd rather not, I might spill the oil.
+Jag skulle helst slippa, jag kan spilla ut oljan.
+Why would my cabinet key open this oil can?
+Varför skulle min skåpnyckel finnas i den här oljeburken?
+...And risk having my papers ruined?
+...Och riskera att förstöra mina papper?
+It's the key to my office cabinet.
+Det är nyckeln till mitt kontorsskåp.
+...And have the key all slimy? No, thanks!
+...Och slemma ner nyckeln? Nej tack!
+Let's take a look at that telegram.
+Låt mig titta på det där telegrammet.
+There's no envelope. Nothing to open.
+Det är inget kuvert. Inget att öppna.
+No way, that would ruin the telegram.
+Inte en chans, det skulle förstöra telegrammet.
+That's my wallet.
+Det är min plånbok.
+There's nothing of interest in it.
+Det finns inget intressant i den.
+Why would I spill oil all over my papers?
+Varför skulle jag vilja spilla olja över alla mina papper?
+Apparently it's some sophisticated metal compass.
+Uppenbarligen är det någon slags sofistikerad metallkompass.
+It's from the the early Ottoman Empire, at the end of the middle ages.
+Det är från det tidiga Osmanska riket, i slutet av medeltiden. 
+It was used by muslim artists and decorators.
+Den användes av muslimska konstnären och dekoratörer.
+They were ornamenting everything with geometric shapes in that era.
+De smyckade ut allt med geometriska former under den tiden.
+That device helped designing them.
+Det verktyget hjälpte dem att designa dem.
+Yes, that's defnitely the artifact the tag is about.
+Ja, det är definitivt föremålet som etiketten handlar om.
+eDialog_LookedAtCompassTag
+
+It's a strange metal artifact. I can't date it, and I don't know what it's for.
+Det är ett konstigt metallföremål. Jag kan inte datera den, och jag vet inte vad den är till för.
+Thanks to the tag, I know what this artifact is.
+Tack vare etiketten så vet jag vad det är för föremål.
+There's no point in disassembling it.
+Det finns ingen mening med att plocka isär den.
+Hey! It's the description tag of that ancient metal device.
+Hej! Det är beskrivningen för det där förhistoriska metallinstrumentet.
+Irene probably left the tag in my drawer to make sure it wouldn't be lost.
+Irene lämnade antagligen beskrivningen i min låda för att vara säker på att den inte skulle komma bort.
+It's one of those tags we use to classify our artifacts.
+Det är en av de där etiketterna vi använder för att klassificera våra föremål.
+Here is what it says:
+Det här är vad som står:
+It's the description tag of one of the many artifacts we have in Barnett college.
+Det är en etikett som beskriver ett av de många föremål som vi har i Barnett college.
+I don't know what artifact it describes.
+Jag vet inte vilket föremål den beskriver.
+I'm not waving that around.
+Jag kommer inte att svinga runt den där.
+eDialog_IndyConfusedHammers
+
+It's a ceremonial hammer... But I don't know if it's a copy.
+Det är en ceremonihammare...Men jag vet inte om det är en kopia.
+It's a ceremonial hammer. That's the real one.
+Det är en ceremonihammare. Det är den äkta.
+I looks really very much like the real one.
+Det ser verkligen ut som det riktiga.
+It's a tire repair kit.
+Det är ett däcklagningskit
+A short, sturdy stick.
+En kort, stabil stav.
+It fits. I got myself a nice shovel.
+Den passar. Nu har jag en fin spade.
+It's an empty bucket.
+Det är en tom hink.
+Luckily, the salted water doesn't seem to be freezing.
+Som tur är verkar inte saltvattnet att frysa.
+It's all rusty but it could do the job if it had a handle.
+Den är rostig men den borde funka om den hade ett handtag.
+It fits!
+Den passar!
+Let me adjust the nail... Voila!
+Låt mig justera spiken... Voila!
+It's not the right size at all.
+Det är inte rätt storlek överhuvudtaget.
+It can't even sharpen the wood to make it fit.
+Den kan inte ens vässa trät för att få det att passa.
+eDialog_isOilLampBurning
+
+There, now it's lit.
+Sådär, nu är den tänd.
+The lamp is already lit.
+Lampan är redan tänd.
+It was more of a censer apparently, but now it's used as a plain oil lamp.
+Den var mer uppenbarligen avsedd för rökelse, men nu används den som en vanlig oljelampa.
+It has a gentle little flame coming out of it, as expected.
+Det kommer ut en liten låga, som förväntat.
+There's oil inside but it's not lit.
+Det är olja inuti, men den är inte tänd.
+I don't want to put oil all over it.
+Jag vill inte hälla olja över den.
+There's only oil inside, I don't want to spill it.
+Det är bara olja inuti, jag vill inte spilla ut den.
+Talk to me, o genie of the lamp.
+Tala till mig, oh ande i lampan.
+[ACHIEVEMENT[[Friend of the Djinns.[[Post a screenshot on Twitter #RelicOfTheViking[[
+
+Careful not to hurt your fingers if you try to burn ropes.
+Akta så att du inte bränner dig på fingrarna om du försöker bränna rep.
+I don't want to burn that.
+Jag vill inte bränna upp det där.
+There's a tiny amount of fuel inside, I don't want to spill it.
+Det är en liten mängd bränsle inuti, jag vill inte spilla ut det.
+This is a long paddling oar.
+Det här är en lång åra.
+I have no idea how it fits in my pants.
+Jag har ingen aning hur den får plats i mina byxor.
+Unusally big and thick!
+Ovanlig stor och tjock!
+Those Norwegians are not fooling around.
+De där norrmännen skämtar inte.
+It's a small, simple golden key. It looks worn off.
+Det är en liten, enkel guldnyckel. Det ser sliten ut.
+It's a shovel.
+Det är en spade.
+It's an old plastic hose without much value.
+Det är en gammal plastslang utan mycket värde.
+Unbelievable! It's a MASSIVE ruby!
+Otroligt! Det är en ENORM rubin!
+It's an enormous sapphire. I can't believe my eyes.
+Det är en enorm safir. Jag tror inte mina ögon.
+They'll never believe me, back at the geology department.
+De kommer aldrig tro mig hemma på geologiavdelningen.
+Could not read parameter at position '%d'
+
+\"
+
+%d%d%d:%d%d
+
+Console history saved to file '%s'.
+
+Could not open file '%s'.
+
+TODO
+
+type 'exit' to close the console, or press Ctrl+C in debug mode
+
+quit
+
+Quiting...
+
+change_room
+
+usage : change_room room x y
+
+set_gi
+
+change_name
+
+walk_view
+
+display
+
+usage : display This is a message
+
+room_script
+
+Room script %d executed
+
+dump
+
+close
+
+change_npc_room
+
+Character %d (%s) moved to room %d at %d,  %d
+
+object_visible
+
+Error: Invalid Object specified: object %s
+
+false
+
+object_view
+
+Error: Invalid Object ID entered (%s)
+
+Error: Invalid View entered (%d)
+
+Object %d View set to %d
+
+object_animate
+
+Please enter a Loop
+
+Please enter a Delay
+
+object_move
+
+Invalid speed supplied: %d
+
+Object %d moved to (%d,%d) at speed %d
+
+walkable_enabled
+
+Error: No Walkable Area ID supplied
+
+Error: Invalid parameter supplied: %s
+
+char_properties
+
+AnimationSpeed %d, Baseline %d, IgnoreLighting %d
+
+IgnoreWalkbehinds %d,Transparency %d
+
+char_invquan
+
+Character %d has item %d in a quantity of %d
+
+char_setplayer
+
+New player is %s, old player is %s
+
+char_getplayer
+
+Player is '%s'.
+
+char_addinv
+
+Added item %d to %s
+
+char_loseinv
+
+Lost item %d from %s
+
+region_enabled
+
+Error: Enter a Region ID
+
+get_property
+
+hotspot
+
+character
+
+object
+
+Invalid parameter supplied: %s.
+
+%s %d property '%s' is %d
+
+get_textproperty
+
+%s %d property '%s' is '%s'
+
+room_property
+
+Please enter a Property name
+
+Room %d property '%s' is %d
+
+room_textproperty
+
+Room %d property '%s' is '%s'
+
+system
+
+Screen %d x %d
+
+Colour Depth %d and gamma %d
+
+AGS Engine version %s
+
+Direct3d
+
+DirectDraw
+
+Windowed
+
+Fullscreen
+
+dumpvars
+
+The values can be seen in the log file.
+
+set
+
+stored.
+
+Invalid parameter.
+
+get
+
+sets
+
+gets
+
+list_scripts
+
+*.oux
+
+No script found.
+
+%s   
+
+LIST OF ALL SCRIPTS
+
+[[Run 'call <scriptname>' to run it.
+
+call
+
+Please enter a script name
+
+Running script '%s'
+
+There is no script file '%s'
+
+End of '%s'
+
+xmlparse
+
+Please enter an xml file name
+
+Parsing xml file '%s'
+
+Error: There is no file named '%s'
+
+root
+
+Finished parsing '%s'. Now dumping.
+
+output.xml
+
+Finished dumping xml tree to '%s'. Now deleting tree.
+
+Deleted xml tree from memory. 
+
+upload
+
+usage: upload server port filename
+
+Please enter the name of the file to upload
+
+Please enter the target server for uploading
+
+Please enter the port for uploading
+
+Uploading file '%s' to server '%s':%s
+
+Error: not a valid port number '%s'
+
+this is a bug report test 00000
+
+Content-Length: %d\r\n\r\n
+
+?p=bugs
+
+POST %s HTTP/1.1\r\n
+
+Host: khris.agser.me\r\n
+
+Content-Type: application/x-www-form-urlencoded\r\n
+
+\r\n
+
+Finished uploading '%s'
+
+command not available. This version of the program does not have the upload plugin.
+
+exit
+
+help
+
+ALL COMMANDS:[%s
+
+Unknown command '%s'
+
+Game is paused. Player pressed key '%d' (char %c)
+
+Player clicked MouseButton %d in mode %d
+
+Interaction available
+
+No Interaction
+
+Player clicked InvItem %d (%s), %s
+
+Button
+
+Inventory
+
+Label
+
+ListBox
+
+Slider
+
+TextBox
+
+Player clicked GUI %d, Control %d (%s)
+
+Player clicked GUI %d, no Control
+
+Player clicked Character %d (%s)
+
+Player clicked Hotspot %d (%s)
+
+Player clicked Object %d (%s)
+
+Player clicked nothing at (%d,%d)
+
+Item %d added
+
+Item %d removed
+
+Player gets %d points
+
+(Old score: %d, current score %d)
+
+Player left room %d
+
+Player entered room %d
+
+Game restored from slot %d
+
+Dialog %d started
+
+Game saved to slot %d
+
+Not implemented
+
+Welcome to the AGS console ^_^[ 
+
+Cursor mode change to %d
+
+Run an external script
+
+Display variables window
+
+Help
+
+Scroll console up
+
+Scroll console down
+
+Show betatesters interface (pauses game)
+
+Click in the text area to start typing.
+
+OK
+
+Click on OK to discard this message.
+
+TextArea: WrapLine : ERROR: listbox cannot be null
+
+Starting line. word='%s', x_in_word='%d', column_in_word='%d'
+
+Dumpword: word_with_c='%s'
+
+full capacity
+
+!wordFits
+
+eol
+
+eof
+
+loop broken: word='%s', column_in_word[0]='%d'
+
+word='%s', length='%d', column_in_word[%d]='%d', x_in_word[%d]='%d'
+
+pos=%d
+
+???????????????????
+
+PLEASE NOTE: the maker of this [game used a font that does not [allow special characters.[[  All the special characters you [type in will be replaced with their [equivalent from the standard [ASCII set.[[  We recommend you contact the [maker of this game and request [from them that they start using [256-characters fonts, that's [more respectful of international [users.[[  You will see this warning only [once.
+
+???
+
+????
+
+This text area was not set up[to enable scrolling and it has[reached its maximum number[of lines.[Click on OK to go back to typing.
+
+on_key_press :ERROR: could not compute row height
+
+Forbidden character: please[do not type '%c' into this text[area.[[Note: That was set up by the[maker of the game, that's not[a restriction of the module.
+
+Forbidden character: please do not type \[ just after \\
+
+Text Area 0.92 module by Monsieur Ouxx.[[For AGS by Chris Jones[[Inspired by Text Area 0.0.1.1 by monkey_05_06
+
+TextAreas::SetFocus ERROR: cannot give focus to a text area if ListBox is not visible
+
+(column %d:line %d)
+
+findFreeTextArea : ERROR : no more available text areas. You must increase 'eTextArea_MaxAreas'
+
+ERROR: Text Areas : The listbox cannot be less than 20 px wide and %d high.
+
+|
+
+Cut
+
+Copy
+
+Paste
+
+ERROR: Text Areas: Scrollbar 'up' button cannot be displayed lower than the 'down' button. Please adjust your GUI first.
+
+Scroll up
+
+Scroll down
+
+Grab and drag to scroll
+
+About
+
+Bug::Find : ERROR : couldn't find bug with ID '%d' in the list
+
+Enter here bug description.
+
+Bug::NewBug : you need to increase 'MAXBUGS'
+
+Bug::SetText : wrong bug ID: '%d'
+
+Saving...
+
+Saved.
+
+bad_translation
+
+blocking_bug
+
+graphical_glitch
+
+missing_interaction
+
+unknown_type
+
+BugType_I : ERROR: unknown bug type '%s'
+
+bugslist
+
+bug
+
+id
+
+type
+
+author
+
+revision
+
+uid
+
+text
+
+line
+
+<br/>
+
+bugslist.xml
+
+Saved bugs list to '%s'.
+
+Please do as advised in the message you've just read.
+
+doc
+
+bt
+
+[T]
+
+[B]
+
+[G]
+
+[I]
+
+%s id=%d
+
+t_null
+
+bug_null
+
+text_null
+
+trunc_null
+
+\\%s (%d) %s
+
+Bug Tracker for AGS [by Monsieur Ouxx
+
+forbidden during a cutscene
+
+top: not implemented yet
+
+bottom: not implemented yet
+
+bad tester name (or could not save file)
+
+(%d,%d), %d
+
+<>
+
+Scroll Down
+
+Scroll Up
+
+Show or hide
+
+Show console
+
+New game-blocking bug
+
+New graphical glitch
+
+New missing interaction
+
+New bad translation
+
+Top of the list
+
+Bottom of the list
+
+Sort by ID
+
+Sort by type
+
+Save bugs to XML file
+
+Delete this bug
+
+%s CHANNEL1
+
+%s CHANNEL2
+
+Ambient\[%d of %d] dedicated to ambient sounds is playing the wrong clip on '%s'![[It means it got overwritten by another AudioClip.Play somewhere else.[[It might mean that you're playing too many sounds at a too high priority.[[Try no more than 2 ambient sounds at the same time.
+
+Ambient\[%d of %d] dedicated to ambient sounds is playing the wrong clip![[It means it got overwritten by another AudioClip.Play somewhere else.[[It might mean that you're playing too many sounds at a too high priority.[[Try no more than 2 ambient sounds at the same time.
+
+%s [More details: expected '%s', found '%s'.
+
+ERROR: too many ambient sounds, not enough free slots
+
+%s[ambients\[%d]  CHANNEL1=%s  CHANNEL2=%s
+
+%s[ambients\[%d]=%s
+
+ERROR in FindSlot: could not find audio channel playing AudioClip '%s'
+
+Already playing %d ambients. No more allowed, BIATCH!
+
+ERROR: Cannot play sound. It seems like a low-level issue (DirectSound?)
+
+AudioClip '%s' is not currently being played
+
+Audioclip::SetAmbientVolume : You tried to adjust the Ambient volume AudioClip '%s' which is not currently being played
+
+Sending %s to %d
+
+scrnshot.bmp
+
+Stop_Ambient_All()
+
+aSound3.Stop_Ambient()
+
+aSound3.Play_Ambient();
+
+There's no shame in being a Disney attorney! Bye bye!
+
+This button enanles Tap interface
+
+This Button enables Computer Interface
+
+This button enables 9 Verb Interface
+
+This button enables Verb Coin 
+
+This button mutes music
+
+This button mutes voices
+
+This button mutes sound effects
+
+Talk to
+
+Look at - unhandled
+
+Open - unhandled
+
+Close - unhandled
+
+Use - unhandled
+
+Push - unhandled
+
+Pull - unhandled
+
+Pick up - unhandled
+
+Give to - iPruningShears or unhandled
+
+I'm using the shears.
+
+Give to : Unhandled
+
+Use inv - iPruningShears or unhandled
+
+Unhandled
+
+It must belong at an officer.
+Det måste tillhöra en officer.
+Indy wears the Nazi suit
+Indy har på sig en nazistuniform
+LastLineOfDialogNotSaidYet
+
+The dialog is finished!
+
+This line of dialog will be said no matter
+
+the soul
+
+the heart
+
+the verb
+
+Wrong value for 'side'.
+
+UNKNOWN (visit catacombs first)
+
+Catacombs Puzzle : bad modifier : %d
+
+%SIDENAME%
+
+zero
+
+one
+
+two
+
+three
+
+four
+
+five
+
+six
+
+St. Luke
+
+St. John
+
+St. Thomas
+
+Error in generating Saint's name
+
+The verb has %s, the soul has %s. The last one has %s.
+
+And they saw that %SIDENAME% needed one more to please the Lord.
+
+Let them add one to %SIDENAME%, said He.
+
+The truth will be revealed to them if %SIDENAME% has one more.
+
+'Forget this folly and remove one from %SIDENAME%.', He said to them.
+
+The humility commands you to remove one from %SIDENAME%.
+
+He looked and said: 'You chose that number for %SIDENAME%? That is one too many'.
+
+Wrong name  %s
+
+Wrong room object ID
+
+switch00
+
+switch01
+
+switch02
+
+switch03
+
+switch04
+
+Missing entity logic for %s
+
+steam00
+
+steam01
+
+steam02
+
+steam03
+
+steam04
+
+leak00
+
+steam05
+
+steam06
+
+steam07
+
+steam08
+
+steam09
+
+steam10
+
+steam11
+
+steam12
+
+Unknow entity type %d
+
+Entity not initialized : %d
+
+Not a valid state change for a switch
+
+Unknown type
+
+Not a switch state : %d
+
+Missing interaction with switch %d in the room (%s)
+
+Some sort of... spinning valve?
+Någon slags..vridventil? 
+Someone kept themselves busy upgrading Agsvald's toys.
+Någon har hållit sig själva sysselsatta med att uppgradera Agsvalds leksaker.
+I'd put my money on the priest and his family.
+Jag skulle sätta mina pengar på prästen och hans familj.
+This pipe got damaged. It has a small crack.
+Röret är trasigt. Det har en liten spricka.
+I can't use the gum, it's way too hot right now.
+Jag kan inte använda tuggummit, det är alldeles för varmt just nu.
+I'm just glad Henry Jones senior can't see how I fixed this plumbing.
+Jag är bara glad att Henry Jones senior inte kan se hur jag lagade rören.
+Bad use of this function
+
+shieldLeft
+
+shieldMiddle
+
+shieldRight
+
+eyeLeft
+
+eyeMiddle
+
+eyeRight
+
+hasVisitedIceCave
+
+basin
+
+Wrong object name: %s
+
+unknown entity type
+
+Invalid state for that type of entity : %d
+
+Wrong state
+
+Not authorized. Should have been blocked earlier by the interaction.
+
+There's a cavity in there. It's empty.
+Det är ett hålrum här inne. Det är tomt.
+I'll be taking that back.
+Jag tar tillbaka den där.
+There's already something in the cavity.
+Det är redan något i hålet.
+The gem fits perfectly.
+Juvelen passar perfekt.
+New Button
+
+Congrats for finishing this demo!
+
+You now have access to the following extra features :
+
+This is the demo that was made in 2010 and definitely kick-started the project!
+
+Finish this demo first!
+
+intro credits by:
+
+RYAN TIMOTHY
+
+Interface
+
+Sounds
+
+Display
+
+Controls
+
+Jukebox
+
+Game Resume
+
+9 verb
+
+Verb Coin
+
+Enable Swastikas
+
+Nothing
+
+Load
+
+Cancel
+
+Options
+
+Default
+
+Save
+
+Quit
+
+Resume
+
+Music Volume
+
+Sound Effects Volume
+
+v1.0
+
+Ambient sounds volume
+
+Game Paused
+
+Press <SPACE> to continue
+
+Quit Game
+
+Are you sure you want to quit?
+
+Yes
+
+DISCLAIMER
+
+Proceed
+
+Quit game
+
+Indiana Jones and the relic of the Viking is a [freeware fan-made work of fiction based on charac-[ters now owned by The Walt Disney Company.[ [Our team of contributors are making this game [without receiving any kind of pay and we're not [affiliated with The Walt Disney Company, LucasArts [Entertainment Company, LLC or Paramount Pictures.[ [This is a 100% fan effort and no monetary profit[of any kind is or has been gained by the authors[of this game. This game is not to be sold by anyone.[ [No copyright infringement is intended.[ 
+
+...and don't pester me with this message next time
+
+The game is currently PAUSED. Press SPACE to continue.
+
+Comment out #TESTING in the script to disable this debug UI.
+
+Directly go there
+
+Please pick a checkpoint from the list below and click on the button.
+
+Also, no sound, please!
+
+2
+
+3
+
+New Label
+
+Text
+
+Seven Cities of Gold text editor
+
+aaa%%bbb
+
+Id
+
+T
+
+coolTip
+
+X
+
+\[
+
+Timers
+
+Named var
+
+Other var
+
+UltraVariables
+
+Tester, please enter your name
+
+You will be asked for this only once. Please enter [something short, without special characters. It [will appear in your bug reports.
+
+Go
+
+Verb
+
+Simple
+
+IMPORTANT MESSAGE
+
+You are now using the game files on Sync.com[[Do not add or remove any files in the AGS project on Dropbox. These files are now "dead" and anything you put there will be destroyed.
+
+Previous
+
+Next page
+
+Exit
+
+Page1
+
+Page2
+
+C:\7COG>
+
+C:\>cd 7COG
+
+INDY.EXE
+
+Loading...
+
+You have unlocked the bonuses![Wait for this credits sequence to end.
+
+IndySuit2
+
+IndyClothes
+
+Marcus
+
+Narrator
+
+Reserved for Sound effects
+
+New character
+
+Spain truck
+
+nazi
+nazist
+Monk
+Munk
+Agsvald
+
+Can with food
+Konservburk med mat
+Key Tool
+Nyckelverktyg
+Pruning Shears
+Beskärningssax
+Opened Can
+Öppnad burk
+Unlit Torch
+Släckt fackla
+Lit Torch
+Tänd fackla
+Tar
+Tjära
+Paddles
+Paddlar
+long oar
+Lång åra
+Donkey Tooth
+Åsnetand
+Dead fly
+Död fluga
+Nazi Research Book
+Nazist forskningsbok
+Gold Watch
+Guldklocka
+Sugar Cube
+Sockerbit
+Shovel
+Spade
+Cabinet Key
+Skåpnyckel.
+chewed gum
+tuggat tuggummi
+bucket
+hink
+bucket of sea water
+hink med havsvatten
+broom stick
+kvastskaft
+shovel head
+spadhuvud
+oil lamp
+oljelampa
+lighter
+tändare
+old hose
+gammal slang
+large sapphire
+stor safir
+large yellow sapphire
+stor gul safir
+large ruby
+stor rubin
+Oil Can
+Oljelampa
+Office Key
+Kontorsnyckel
+Telegram
+Telegram
+Tire Repair Kit
+Däcklagnings-kit
+Wallet
+Plånbok
+metal device
+Metallinstrument
+small tag
+Liten etikett
+genuine hammer
+Äkta hammare
+copy of hammer
+Falsk hammare
+Nazi Uniform
+Nazistuniform
+Salvado's journal
+Salvados journal
+Relic
+Relik
+Sorry, not now.
+Ledsen, inte nu.
+Restore
+Återställ
+Select a game to restore:
+Välj spel att återställa:
+Type a name to save as:
+Skriv in ett namn att spara som:
+Replace
+Ersätt
+The save directory is full. You must replace an existing game:
+Sparmappen är full. Du måste ersätta ett gammalt spel:
+Replace:
+Ersätt:
+With:
+Med:
+Play
+Spela
+You are carrying nothing.
+Du bär inte på något.
+Talking to yourself is a sign of madness!
+Att tala med sig själv är ett tecken på galenskap!
+You rub your hands up and down your clothes.
+Du gnider dina händer upp och ner på dina kläder.
+I'm looking good today!
+Jag ser bra ut idag!
+Hotspot 4
+
+Hotspot 5
+
+Hotspot 6
+
+Hotspot 7
+
+Hotspot 8
+
+Hotspot 9
+
+Hotspot 10
+
+Hotspot 11
+
+Hotspot 12
+
+Hotspot 13
+
+Hotspot 14
+
+Hotspot 15
+
+Hotspot 16
+
+Hotspot 17
+
+Hotspot 18
+
+Hotspot 19
+
+Hotspot 20
+
+Hotspot 21
+
+Hotspot 22
+
+Hotspot 23
+
+Hotspot 24
+
+Hotspot 25
+
+Hotspot 26
+
+Hotspot 27
+
+Hotspot 28
+
+Hotspot 29
+
+Hotspot 30
+
+Hotspot 31
+
+Hotspot 32
+
+Hotspot 33
+
+Hotspot 34
+
+Hotspot 35
+
+Hotspot 36
+
+Hotspot 37
+
+Hotspot 38
+
+Hotspot 39
+
+Hotspot 40
+
+Hotspot 41
+
+Hotspot 42
+
+Hotspot 43
+
+Hotspot 44
+
+Hotspot 45
+
+Hotspot 46
+
+Hotspot 47
+
+Hotspot 48
+
+Hotspot 49
+
+INDIANA JONES AND THE RELIC OF THE VIKING
+
+By the Seven cities of gold team
+
+THIS FEATURETTE BY
+
+Monsieur Ouxx[Charalampos Papadopoulos[Selmiak
+
+STORY BY
+
+BACKGROUND ART BY
+
+Monsieur Ouxx[Selmiak[Tolga Ocek
+
+SPRITE AND ANIMATIONS BY
+
+Monsieur Ouxx[ProgZmax[Selmiak[Jag
+
+Amelie[Trample Pie[CaesarCub[Hans
+
+MUSIC BY
+
+Drew CU[Victor Parejo Medina[Dualnames
+
+SCRIPTING BY
+
+Monsieur Ouxx[Charalampos Papadopoulos
+
+EXTRA SCRIPTING BY
+
+H. Diot[Abstauber[Edmundito[SSH
+
+Khris[Ryan Timothy[Spyros[Proskrito
+
+Hedgefield[Ashen
+
+BETA TESTING BY
+
+Cassiebsg[Ricky Derocher[Selmiak
+
+FONTS BY
+
+Rulaman[Lucasfan[Monsieur Ouxx
+
+PROJECT COORDINATION & RESEARCH
+
+WEBSITE BY
+
+Monsieur Ouxx[Selmiak
+
+FORUMS AND HOSTING BY
+
+Selmiak[Ricky Derocher[cbm8bit
+
+SOCIAL NETWORKS
+
+Charalampos Papadopoulos[Monsieur Ouxx
+
+AGS ENGINE BY
+
+Chris Jones[Ivan Mogilko[Sonneveld[Morgan Willcock
+
+Tobihan[Gurok[Monkey0506[Tzachs
+
+rofl0r
+
+SPECIAL THANKS TO
+
+Ron Gilbert[Hal Barwood[Chris Jones[Ivan Mogilko
+
+Click to go back[to main menu!
+
+No hotspot
+
+Click Screen!
+
+Hotspot 2
+
+Hotspot 3
+
+Hotspot 1
+
+I should probably put in a word for a new one.
+Jag borde försöka få en ny.
+I have better things to do than rehearsing my course.
+Jag har bättre saker för mig än att öva på min föreläsning.
+This isn't some secret passage leading to a crazed genius who creates evil mutant tentacles.
+Det här är inte någon hemlig passage som leder till ett galet geni som skapar onda mutanttentakler.
+I read that in 'Detective Illustrated' at the barber's.
+Jag läste det i 'Allt om detektiver' hos frisören.
+I'm done for today.
+Jag är klar för idag.
+It's flat, and it has drawers. It's a desk.
+Den är plan och den har lådor. Det är ett skrivbord.
+I don't think there is anything else in it.
+Jag tror inte det är något mer i det.
+I don't think there is anything in that drawer that can help.
+Jag tror inte det finns något i den lådan som kan vara till hjälp.
+Wait! There is a small tag. I don't recall putting it in here.
+Vänta! Det är en liten etikett. Jag kommer inte ihåg att jag har lagt den där.
+I'll take it.
+Jag tar den.
+I have more urgent matters to attend to, right now.
+Jag har mer pressande saker att ta itu med just nu.
+I don't want to pull that.
+Jag vill inte dra i den.
+That wouldn't work.
+Det skulle inte fungera.
+I have nothing to add to the billboard.
+Jag har ingenting att sätta upp på anslagstavlan.
+It can't be opened.
+Den kan inte öppnas.
+It can't be closed.
+Den kan inte stängas.
+It's a billboard.
+Det är en anslagstavla.
+FOR SALE: 1938 Packard. Call Frank.
+SÄLJES: 1938 Packard. Ring Björken.
+Debate this Monday Night - The Holy Grail: Myth or Reality?
+Debatt på måndagkväll - Den heliga gralen: Myt eller verklighet?
+I think I know the answer to that question...
+Jag tror jag vet svaret på den frågan...
+This space is for rent. Contact R. Derocher.
+Denna yta hyres ut. Kontakta R. Derocher.
+WANTED: Gas for a chainsaw. Call Dave.
+ÖNSKAS: Bensin till en motorsåg. Ring Dave.
+Vote Gracie Allen for President.
+Rösta på Gracie Allen för president.
+Meeting of Barnett Shakespeare Society this Tuesday in the auditorium.
+Möte för Barnett Shakespeare sällskapet på tisdag i hörsalen. 
+FOR SALE: Collection of Buck Rogers comic books. Call Earl.
+SÄLJES: Samling med Buck Rogers serieböcker. Ring Earl.
+WANTED: Lab Assistant. Good pay. No questions asked. Call Doctor Fred.
+SÖKES: Labassistent. Bra lön. Inga frågor. Ring Doktor Fred. 
+Movie Saturday night: Robin Hood starring Errol Flynn.
+Film på lördagkväll: Robin Hood med Errol Flynn.
+It's too heavy to lift.
+Den är för tung att lyfta.
+A billboard that talks? Now that's a novel concept.
+En anslagstavla som talar? Det var nytt.
+I have a feeling that won't work.
+Jag har en känsla av att det inte skulle fungera.
+Let's see if there is anything interesting back there.
+Låt mig se om det är något intressant där bakom.
+Nope. What did I expect to find in an empty classroom?
+Nope. Vad hade jag förväntat mig att hitta i ett tomt klassrum?
+eDialog_StudentsPuzzleFullyResolved
+
+Professor!
+Proffesorn!
+Where are you going?
+Var är du på väg?
+Are you even listening to us?
+Lyssnar du ens på oss?
+We need an answer!
+Vi behöver ett svar!
+Yes, yes, of course I'm listening. I'm not leaving before we find a solution together.
+Ja, ja, självklart lyssnar jag. Jag drar inte förrän vi hittar en lösning tillsammans.
+Someone left that artifact on my desk before the class.
+Någon lämnade det föremålet på mitt skrivbord innan lektionen.
+Probably Irene, my secretary.
+Antagligen Irene, min sekreterare.
+I suppose a colleague of mine thought it would be of interest for me.
+Jag antar att en kollega tänkte att det skulle intressera mig.
+FOR SALE: A math hand book. Will sell for $50,[ or trade for new slide rule.
+SÄLJES: En mattehandbok. Säljer för $50, [ eller byter mot en ny räknesticka. 
+It's the telegraph from Marcus. It says to meet him in Arizona.
+Det är ett telegram från Marcus. Det står "Möt mig i Arizona".
+It's the key to my office.
+Det är nyckeln till mitt kontor.
+Chalk Board
+Svarta tavlan
+Indy's Desk
+Indys skrivbord
+Billboard
+Anslagstavla
+The back of the room
+Slutet av rummet
+Door
+Dörr
+... This stone artifact was discovered in my class dig.
+...Det här stenföremålet upptäcktes i utgrävningen som min klass utförde
+Several other Aborigine artifacts were discovered in the dig.
+Ett antal andra aborginska föremål upptäcktes i utgrävningen.
+Now the dig wasn't a major dig and the artifacts we discovered were not major finds...
+Det var inte någon stor utgrävning och föremålen var inte några stora fynd...
+But each piece of history that archeology can uncover is important in the large scale of things...
+Men varje bit historia som arkelogin kan avslöja är viktig i det stora hela...
+Every clue to man's past is a vital piece of knowledge.
+Varje ledtråd till människans historia är en viktig kunskap.
+  %s
+
+[  
+
+Current flags are: [%s
+
+This screen is meant for testing fonts in several languages.
+
+Please note that it only tests TTF fonts (that support UTF-8 characters).
+
+(In other words: it only tests native multilingual fonts)
+
+The bits of text that you will see were entered 'as-is' in AGS' script editor.
+
+AGS' script editor does support UTF-8 encoding. The question is : does this font too?
+
+FRENCH TESTS
+
+Current font: '%d'
+
+Can you see all special characters in the following sentence?
+
+please update script to latest textarea version
+
+lol
+
+the mirrors module has been disabled in this demo. You need to recreate cMirror1, cMirror2, cMirror3 if you need to use it. Then you need to uncomment 'Mirrors2.AddMirrorChar(cMirror1);' in mirrors_2.0.asc
+
+Press 'i' for scroll lock info.
+
+unhandled
+
+Give to : unhandled
+
+Object
+
+Unknown checkpoint: %d
+
+Hey yo, Mr. White!
+Hallå, herr White!
+Imma make some badass pixel-art.
+Imma skapar riktigt badass pixel-konst.
+Let's start cooking, BITCH.
+Låt oss börja, BITCH.
+I can't walk out, they're blocking the door. And they seem pretty decided.
+Jag kan inte gå ut, de blockerar dörren. Och de verkar riktigt bestämda.
+I'll just take it.
+Jag tar det bara.
+I can't give to that.
+Jag kan inte ge till det.
+As much fun as it would be to push the desk and give myself a back spasm, I think I'll pass.
+Hur roligt det än skulle vara att putta skrivbordet och ge mig själv ryggkramp, så tror jag att jag hoppar över det.
+desk
+skrivbord
+door
+dörr
+There is already a WaitNoBlock going on.
+Det är redan en WaitNoBlock igång.
+Ugh...
+Ugh...
+All in an day's work for an archeologist.
+Så ser en arkeologs dag ut.
+Now I better find that relic.
+Nu är det bäst att jag hittar den där reliken.
+*CLICK*
+*KLICK*
+STOP RIGHT THERE, THIEF!
+STANNA DÄR, TJUV!
+Norway, here I come!
+Norge, här kommer jag!
+*tap*
+*knack*
+*rattle* *rattle* *rattle*
+*skrammel* *skrammel* *skrammel*
+*RATTLE*
+*SKRAMMEL*
+*tap* *TAP* *TAP*
+*knack* *KNACK* *KNACK*
+Oof!
+Auch!
+*WOOSH*
+*WOOSH*
+Yagh!
+Yagh!
+*BANG*
+*BANG*
+Tinted glass
+Frostat glas
+Reliquary
+Relikskrin
+That's an impressive pile of bones.
+Det där är en imponerande hög med ben.
+A tinted glass? Underground?
+Frostat glas? Under marken?
+It's open now.
+Det är öppet nu.
+That was too close for my comfort.
+Det var obekvämt nära.
+I'm not going back there before I find the relic.
+Jag går inte tillbaka förrän jag har hittat reliken.
+Enter the elusive reliquary.
+Gå in i det gäckande relikrummet.
+Let's snatch this thing before I get into any more trouble.
+Låt mig grabba den där innan jag hamnar i mer trubbel.
+Reliquaries usually contain bogus body parts.
+Relikskrin innehåller oftast falska kroppsdelar.
+I wonder what this one actually contains?
+I undrar vad den här egentligen innehåller?
+Those look pretty steady.
+De där ser ganska stadiga ut.
+I don't think they're hiding anything.
+Jag tror inte att de gömmer någonting.
+I hope that mine won't end up there.
+Jag hoppas att inte min slutar här.
+I don't see anything special there.
+Jag ser ingenting speciellt där.
+I don't think it can be pushed or moved.
+Jag tror inte att den kan bli flyttad på.
+It's just painted on.
+Det är bara påmålat.
+I've seen this symbol before.
+Jag har sett den här symbolen förut.
+But where?
+Men var?
+Pile of bones
+Hög med ben
+Passageway
+Gång
+Loose skull
+Lös skalle
+Timbering
+Virke
+Skulls
+Skallar
+Stalls
+Bås
+Symbol
+Symbol
+This is a thingie
+Det här är en mockajäng.
+His name is written around his head.
+Hans namn är skrivet runt hans huvud.
+It appears to be %s.
+Det verkar vara %s
+He's the one whose words I should follow.
+Hans är orden som jag borde följa.
+DEBUG: you need to visit the catacombs room at least once.
+DEBUG: du måste besöka katakombrummet minst en gång.
+The scroll says:
+Pergamentrullen lyder:
+Head
+Huvud
+Scroll
+Pergamentrulle
+I hope the trip was worth it.
+Jag hoppas att resan var värt det.
+The door is unlocked.
+Dörren är olåst.
+That makes no sense.
+Det är ologiskt.
+A large pile of half-frozen snow has cluttered the old iron door.
+En stor hög med halvfrusen snö är nu ivägen för den gamla järndörren. 
+No, there is no time for snowballing.
+Nej, det här är inte tid för snöbollskastning.
+Usually I pay some kids to shovel the snow off my sidewalk.
+Jag brukar oftast betala några ungar att skotta min trottoar.
+Phew!
+Pust!
+I can get snow anywhere, but I don't think I need fresh water.
+Jag kan få tag i snö varsomhelst, men jag tror inte att jag behöver färskvatten.
+Can you imagine how much salt water I'd need to melt that much snow?
+Kan du föreställa dig hur mycket saltvatten jag skulle behöva för att smälta så där mycket snö?
+That wouldn't work: The snow is slightly frozen and the oar is far from sharp.
+Det skulle inte fungera: Snön är lite fryst och åran är långt ifrån vass.
+eDialog_DoorState
+
+It seems to have some ornament on the inside. Strange!
+
+The angle's not right, I don't see anything. I'd need to open it.
+
+There. It's still awfully rusty but at least it's not welded shut.
+
+eDialog_hasDoorBeenOiled
+
+Hey, this oar is probably over a thousand years old. I won't use it as a lever!
+
+It would surely break it.
+
+This door is completely gripped! It won't move at all.
+
+eDialog_DoorCounter
+
+Hmmm, it's getting better. Let's do it again.
+
+I think it's time for a final pull instead.
+
+It's very rusty, it got stuck half-way. I might loosen it with some efforts.
+
+Almost there. One of the hinges is crumbling away though.
+
+It won't open further. I need to continue making it move in either direction.
+
+OK, one final push should do it!
+
+*CLUNK!*
+
+*CRACK!*
+
+I'm just glad it didn't fall on my feet.
+
+eDialog_IceCrackOpened
+
+I should try to get rid of that ice.
+
+I see someone rummaging inside, but whoever it is they don't notice me.
+
+AHOY! ANYONE ON BOARD?
+
+Hva er det?
+
+hasHelpedFisherman
+
+Look, I found the hose you were asking for.
+
+Wonderful! Let me try my little experiment.
+
+*CLANG!*
+
+*BONK!*
+
+It works!
+
+Thank you mister!
+
+Now, tell me. How can I help you?
+
+Tusen takk again for helping me! I'm confident I can sail away tomorrow at dawn.
+
+Shaking the boat will only make them hostile. Why not just call?
+
+The boat is surely open already, but there's someone inside.
+
+Why not just call?
+
+There are a few houses and buildings but I wonder where is everyone.
+
+The sea seems pretty still.
+
+The bucket is already full.
+
+It's one of those medieval Scandinavian churches, entirely made of wood.
+
+It's exceptionally well preserved.
+
+Even though it's technically christian, I'm certain Vikings were still around when it was built.
+
+Found it!
+
+There's a TON of junk in there, but it's too dark.
+
+A lighter is not bright enough to search through it.
+
+There's a lot of useless junk in there.
+
+That wasn't easy.
+
+I also found a shovel head. Not brand new but still good.
+
+I don't think I'll find anything useful anymore in there.
+
+Those old storehouses can be found everywhere.
+
+Scandinavians would preserve salted meet and other goods in them.
+
+I'd say it was a furnace or an oven. It's OLD.
+
+But it looks like it burnt very recently.
+
+There are just some remains of this so called building.
+
+I don't want to destroy this completely!
+
+No doubt, there used to be some Vikings nearby.
+
+Why should I wandering around with that stone at my back?
+
+If I didn't know better, I'd say this stone looks like... An ancient pipe?
+
+I pops straight out of the ice wall... And back again into the ground, to God knows where.
+
+It's a huge stone literally popping out of the mountain.
+
+There's something going on behind that wall.
+
+My fiddling with the pipes did something!
+
+This steam is going somewhere.
+
+Let's have a closer look...
+
+It's made of massive font... Let's leave it here.
+
+path to moutain
+
+path to fjord
+
+church entrance
+
+Path to harbour
+
+path to church
+
+small ship
+
+fishermens village
+
+sea
+
+wooden church
+
+old storehouse
+
+structure
+
+carved stone
+
+man-made stone
+
+pile of snow
+
+metal door
+
+crack
+
+steam
+
+Hey! What's the rush?
+
+Oh well.
+
+HAPPY NEW YEAR TO ALL OF YOU FROM THE SEVEN CITIES DEVELOPMENT TEAM!
+
+THE END
+
+WHO DARES WAKING ME FROM MY ETERNAL SLUMBER?
+
+Uh oh!
+
+I'm afraid that was me, Agsvald!
+
+DO YOU KNOW MY NAME?
+
+Well yes, you wrote it for me.
+
+Do you remember now?
+
+IF I HAD TO REMEMBER ALL THE PLACES WHERE I WROTE MY NAME!
+
+That's not a very dignified answer...
+
+I'VE ALWAYS FOUND LOKI MORE INSPIRATIONAL THAN ODIN.
+
+No kidding.
+
+DID YOU COME LOOKING AFTER YOUR SHIELDLESS GOD?
+
+Well now it doesn't seem that important anymore.
+
+HA! HA! HA!
+
+Easy there, Nur-Ab-Sal.
+
+NUR AB WHO?
+
+TONIGHT IS A VERY SPECIAL NIGHT!
+
+IT WILL BE THE LONGEST NIGHT OF THE YEAR.
+
+So?
+
+THIS MUST BE CELEBRATED, AS IT HAS ALWAYS BEEN.
+
+With flowers and dances?
+
+NO, WITH BEER AND DRUNKEN SINGING.
+
+I MUST GO NOW, THEY ARE ALL WAITING FOR ME.
+
+HO HO HO!
+
+I should go downstairs to do that.
+
+It's an ancient baptism font. I guess it had a different purpose in Viking times.
+
+It's right in front of that curved line on the floor.
+
+The bucket is empty. I'm no magician.
+
+It's a handwritten note pinned to the wall.
+
+It says : 'The key is behind the cross'.
+
+I don't see any cross.
+
+This one represents the resurrection of Jesus.
+
+It's worthless.
+
+This one represents Jesus being crucified.
+
+Hey! There's a small key taped behind the painting!
+
+I've already taken the key.
+
+This one represents a Roman soldier putting a crown of thorns on Jesus' head.
+
+This one represents Jesus healing the lepers.
+
+This one represents Joseph of Arimathea collecting the blood of Jesus in the Grail.
+
+hasTakenBucket
+
+hasTakenBroomStick
+
+isCabinetDoorOpen
+
+hasUnlockedCabinet
+
+A thick wooden door. How authentic.
+
+It's already open
+
+The door is locked.
+
+It's already closed
+
+It fits.
+
+these stairs lead to the balcony.
+
+I should go upstairs to do that.
+
+These stairs lead to the ground floor.
+
+hasTakenGum
+
+My parents made me sit countless hours on those church benches.
+
+I remember how rugged the wood felt.
+
+Yuck! There's a gum glued to it!
+
+It's one of those awful old 'gums' made of chewed bark.
+
+Oh well, now that I've touched it.
+
+I'm not starting a collection of old chewing gum, thanks.
+
+Gross.
+
+A rowing paddle. Not too surprising when everyone here is a fisherman.
+
+It seems in good shape.
+
+Why not.
+
+I used an old technique for efficient packing.
+
+It was invented by pirates in the Caribbeans.
+
+A medieval shield used as a decoration.
+
+That's weird. The shield seems to be attached to an axis.
+
+This stelle has drawings of fog horns on it.
+
+There's a hole carved into each drawing. They seem to be running deep.
+
+Wow!
+
+POOOOOOOO
+
+Agsvald's fog horns! Alright!
+
+pshhhhh...
+
+Umph. It doesn't sound like a proper melody?
+
+Some sea water mist!
+
+*Crrrrrrr*
+
+It's like they're moving along a wave! Perfect!
+
+They're just clunking but nothing good seems to be happening.
+
+The dragon is coming to life!
+
+Something is not quite triggering there.
+
+The stone is very hot, but... Not mist at all.
+
+Pretty disappointing.
+
+I have a hunch that's not just an art installment.
+
+Well, at least SOME of it seemed correct.
+
+I need to make this thing work!
+
+This dragon has an unusually long tongue.
+
+I can't pick it up entirely but it seems to be able to slide.
+
+Nothing happened.
+
+I don't see the mop.
+
+There's a small oil lamp resting on the basin.
+
+I was sent by church representatives, after all.
+
+There's only the stick, the rest is missing.
+
+This is a massive dragon head carved in wood.
+
+It still has tiny seashells here and there.
+
+I think it could have been at the front of a Viking longboat.
+
+It won't budge.
+
+I'm too far away.
+
+It seems like my fiddling with the pipes did something after all.
+
+Just the striking plate to the door's lock.
+
+A secret compartment just opened at the back of the cabinet!
+
+WOW! It contains two huge gems!
+
+I believe this church holds many secrets.
+
+I think there's nothing more here.
+
+note
+
+painting
+
+stairs
+
+bench
+
+stone
+
+dragon head
+
+font
+
+rowing paddle
+
+shield
+
+tongue
+
+door lock
+
+dragon's left eye
+
+dragon's right eye
+
+dragon's forehead
+
+Nissefest, here I am.
+
+Lines
+
+A star represents the soul. I've never seen that before.
+
+The drawing is lacking some details but that's definitely the one.
+
+Marcus confirmed my translation. Everything is OK.
+
+It says here:
+
+I'm certain that this relic is hidden in this crypt.
+
+...But where?
+
+Drawing
+
+The soul
+
+Note
+
+Saint's head
+
+Those are very condensed runes, but it's along the lines of:
+
+'Agsvald's ship sails away in the morning mist,'
+
+'All shields readied',
+
+'War horns playing his battle tune.'
+
+It looks suspiciously identical to the dragon head in the church.
+
+This rune is a letter but it also means 'Sun'.
+
+This rune is a letter but it also means 'Sea'.
+
+This rune is a letter but it also means 'Blood'.
+
+rune
+
+dragon
+
+inscription
+
+Talk about tantalizing!
+
+Climbing up a steep wall made of smooth ice? Sounds easy... and safe.
+
+It's not jousting, but almost.
+
+At least Marcus won't tell it's wasn't worth buying my ticket to Norway.
+
+It's way too short!
+
+Well, well, well.
+
+ It seems our friend Agsvald kept some secrets after all.
+
+Up and ready to sail!
+
+...Or to raid.
+
+cave exit
+
+carving
+
+contraption
+
+enormous precious stone
+
+The catacombs are outside monastery land.
+
+Now, maybe we can talk?
+
+Aren't you curious about what's REALLY inside?
+
+If you knew me better you'd trust me.
+
+Stamp collections are less idiotic than relics.
+
+So, you like relics... And beer, apparently.
+
+VER:1.1DATA:Are you trying to be funny, thief?
+
+VER:1.1DATA:Well, you know...
+
+VER:1.1DATA:Since the box supposedly contains a toe or whatnot...
+
+VER:1.1DATA:Aren't you curious about what's REALLY inside?
+
+VER:1.1DATA:No one looks at the relic! Even me, its guardian!
+
+VER:1.1DATA:If you knew me better you'd trust me.
+
+VER:1.1DATA:I hate EVERYTHING about you.
+
+VER:1.1DATA:Oh come on, now...
+
+VER:1.1DATA:WHAT DID YOU SAY?!?
+
+VER:1.1DATA:The nerve of--
+
+VER:1.1DATA:Stamp collections are less idiotic than relics.
+
+VER:1.1DATA:EXCUSE ME?!?
+
+VER:1.1DATA:How dare you--
+
+VER:1.1DATA:So, you like relics... And beer, apparently.
+
+VER:1.1DATA:I BEG YOUR PARDON?!?
+
+VER:1.1DATA:I don't even know what to--
+
+Everyone LOVES the way I look.
+
+Everyone LOVES the way I dress.
+
+Everyone LOVES the way I talk.
+
+Everyone LOVES the way I use my smarts.
+
+VER:1.1DATA:Everyone LOVES the way I look.
+
+VER:1.1DATA:Your hat is covered in cobwebs and your face is all bruised!
+
+VER:1.1DATA:Fair enough.
+
+VER:1.1DATA:Everyone LOVES the way I dress.
+
+VER:1.1DATA:Button up that shirt, will you, punk?
+
+VER:1.1DATA:Everyone LOVES the way I talk.
+
+VER:1.1DATA:With all your cursing?
+
+VER:1.1DATA:Dammit! I only--
+
+VER:1.1DATA:...
+
+VER:1.1DATA:But I've heard worse.
+
+VER:1.1DATA:The one thing I hate is BLASPHEMY.
+
+VER:1.1DATA:'Taking the name of the Lord thy God in vain.'?
+
+VER:1.1DATA:Hearing God's name used as a curse makes me so furious I could just--
+
+VER:1.1DATA:But why am I even talking with you?
+
+VER:1.1DATA:Everyone LOVES the way I use my smarts.
+
+VER:1.1DATA:Don't make me laugh. You can't even leave this room.
+
+VER:1.1DATA:Oh, I see what you're doing.
+
+VER:1.1DATA:You think that if I lose my temper I might open the box.
+
+VER:1.1DATA:Well, joke's on you because...
+
+VER:1.1DATA:I'M NOT THE ONE WHO WILL ROT IN HELL!
+
+VER:1.1DATA:I'M NOT THE DEPRAVED SINNER IN THIS ROOM!
+
+VER:1.1DATA:UNLIKE YOU, I KNOW WHAT VIRTUE IS!
+
+currentMonkCursingDialog
+
+VER:1.1DATA:ERROR unexpected value for currCursing : %d
+
+VER:1.1DATA:Only the truth hurts.
+
+$APPDATADIR$/Log.txt
+
+Tolga ?ek
+
+sv
+
+gui_language
+sv
+Unrecognized translation language : %s
+
+English
+
+French (Fran?s)
+
+German (Deutsch)
+
+Italian (Italiano)
+
+Swedish (Svenska)
+
+Portuguese (Portugu?
+
+Please provide the name of the translation file for eLanguage with value %d
+
+?fne %s
+
+Schlie? %s
+
+Parler ?s
+
+Donner !s ?s
+
+Musik Lautst?e
+
+Param?es
+
+R?itialiser
+
+Choisissez une partie ?harger
+
+Op?s
+
+In module Tumbleweed : Unable to change the translation to '%s'
+
+?fne
+
+Schlie?
+
+In Translations::SetTranslatedSprites : Language not implemented for sprites : %d
+
+In module Translations : Unable to change the translation to '%s'
+
+Lang
+
+DATA:
+
+Please run the game without a translation. Select 'Default Language' in Winsetup.exe\nCurrently you're using '%s'.
+
+VER:1.1DATA:He looked and said: 'You choose that number for %SIDENAME%? That is one too many'.
+
+New game
+
+Load game
+
+Bonuses
+
+v1.1
+
+Indiana Jones and the relic of the Viking is a [freeware fan-made work of fiction based on cha-[racters now owned by The Walt Disney Company.[ [Our team of contributors are making this game [without receiving any kind of pay and we're not [affiliated with The Walt Disney Company, LucasArts [Entertainment Company, LLC or Paramount Pictures.[ [This is a 100% fan effort and no monetary profit[of any kind is or has been gained by the authors[of this game. This game is not to be sold by anyone.[ [No copyright infringement is intended.[ 
+
+Italiano
+
+Deutsch
+
+Fran?s
+
+Svensk
+
+Portugu?
+
+Debug interface
+
+PARIS, 1938
+
+Monsieur Ouxx[Selmiak[Tolga ?ek
+
+REMOVED FROM THE DEMO
+
+mouse : %d
+
+Tolga Öcek
+
+French (Français)
+
+Swedish (Svensk)
+
+Portuguese (Português)
+
+Français
+
+Svenska
+
+Português
+
+Language label
+
+Monsieur Ouxx[Selmiak[Tolga Öcek
+
+Current language : %s
+

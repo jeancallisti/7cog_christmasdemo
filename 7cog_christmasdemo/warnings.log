@@ -1,0 +1,2 @@
+Script : (room:8)[R 19] Wait() was used in Player Enters Screen - use Enters Screen After Fadein instead
+Script : (room:5)[R 226] Wait() was used in Player Enters Screen - use Enters Screen After Fadein instead

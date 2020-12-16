@@ -1,0 +1,4166 @@
+// AGS TRANSLATION SOURCE FILE
+// Format is alternating lines with original game text and replacement
+// text. If you don't want to translate a line, just leave the following
+// line blank. Lines starting with '//' are comments - DO NOT translate
+// them. Special characters such as [ and %%s symbolise things within the
+// game, so should be left in an appropriate place in the message.
+// 
+// ** Translation settings are below
+// ** Leave them as "DEFAULT" to use the game settings
+// The normal font to use - DEFAULT or font number
+//#NormalFont=DEFAULT
+// The speech font to use - DEFAULT or font number
+//#SpeechFont=DEFAULT
+// Text direction - DEFAULT, LEFT or RIGHT
+//#TextDirection=DEFAULT
+//  
+// ** REMEMBER, WRITE YOUR TRANSLATION IN THE EMPTY LINES, DO
+// ** NOT CHANGE THE EXISTING TEXT.
+Well actually I did!
+Beh in realt‡ l'ho fatto!
+Who ARE you?
+Chi SEI tu?
+How did YOU get in here?
+Come hai FATTO a entrare?
+I sell these fine leather jackets.
+Vendo queste belle giacche di pelle.
+You thought you could get away that easily!
+Pensavi davvero di potertela cavare cosÏ facilmente!
+Wake up, pal. It's 1938! It belongs in a museum!
+Sveglia, amico. » il 1938! Dovrebbe stare in un museo!
+Do you think Jesus' toe is actually in this box?
+Credi davvero che nel cofanetto ci sia l'alluce di Ges˘?
+The catacombs are outside monastry land.
+Le catacombe sono al di fuori del terreno del monastero.
+I was hired by the Vatican.
+Sono stato ingaggiato dal Vaticano.
+I am brother Bernard, of the monastery of Saint-Luc,
+Sono Fratello Bernard, del monastero di Saint-Luc,
+and this OUR crypt!
+e questa Ë la NOSTRA cripta!
+How DARE you trespass and steal our most precious property?
+Come OSI mettere le mani sulla nostra reliquia pi˘ preziosa?
+Give back the toe at once!
+Ridammi subito l'alluce!
+ENOUGH OF THAT NONSENSE!
+BASTA CON QUESTE SCIOCCHEZZE!
+I know all the secret passages!
+Conosco tutti i passaggi segreti!
+Give me the box this instant or I lock you up in here!
+Dammi subito il cofanetto o ti chiudo dentro!
+OK, pal, no need to go all inquisitor on me.
+OK amico, non serve fare l'inquisitore con me.
+Here you go.
+Ecco qua.
+Umph.
+Umph.
+Look, we started on the wrong FOOT...
+Forse abbiamo iniziato con il PIEDE sbagliato...
+Aren't you going to open it?
+Non lo apri?
+What do you REALLY think is inside?
+Cosa pensi ci sia dentro DAVVERO?
+It's fake anyways.
+E comunque Ë un falso.
+That's not funny, thief.
+Non Ë divertente, ladro.
+I despise your casualness and your hypocrisy!
+Disprezzo tanta superficialit‡ e ipocrisia!
+No one looks at the relic! Even me, its guardian.
+Nessuno puÚ guardare la reliquia! Nemmeno io, il suo guardiano.
+In 10 centuries, we have never had the audacity to open this box.
+In dieci secoli, non abbiamo mai avuto l'audacia di aprire il cofanetto.
+Besides, this relic is so holy that seeing it would probably...
+Inoltre, questa reliquia Ë cosÏ sacra che anche solo vederla potrebbe...
+BURN your sinner's eyes!
+BRUCIARE i tuoi occhi di peccatore!
+I know what's OUTSIDE. This world is rotting.
+So cosa c'Ë l‡ FUORI. Questo mondo Ë marcio.
+I can already hear the seven trumpets...
+Sto gi‡ sentendo le sette trombe...
+...OF THE APOCALYPSE!
+...DELL'APOCALISSE!
+You wish! This reliquary has been hidden in the crypt for centuries.
+Ti piacerebbe! La reliquia Ë rimasta nascosta in questa cripta per secoli.
+And all that time, we protected it from satanic creatures...
+E in tutto questo tempo l'abbiamo protetta dalle creature sataniche...
+...LIKE YOURSELF!
+...COME TE!
+BLASPHEMY!
+QUESTA » BLASFEMIA!
+I WARNED YOU to respect the name of the Lord in my presence!
+TI AVEVO DETTO di rispettare il nome del Signore in mia presenza!
+Easy there, pal.
+Ehi amico, vacci piano.
+I've had enough of your sarcastic tone and your cursing!
+Ne ho abbastanza del tuo sarcasmo e delle tue bestemmie!
+For ONCE in your miserable life you will lay eyes on the most precious relic!
+Per UNA VOLTA nella tua miserabile esistenza poserai gli occhi sulla reliquia pi˘ preziosa!
+And then never again!
+Ora e mai pi˘!
+BEHOLD!
+STUPISCI!
+...
+...
+It's empty, you know.
+Ehm... » vuota.
+!?!
+!?!
+Let me see.
+Fammi vedere.
+It's-- It's empty!
+»-- » vuota!
+That can't be!
+Non puÚ essere!
+Look, there are some unusual scratchings inside.
+Guarda, ci sono degli strani graffi all'interno.
+Wait a minute, these are not scratchings!
+Aspetta un attimo, quelli non sono graffi!
+This is the runic alphabet!
+» alfabeto runico!
+The letters seem to have been carved hastily with a sharp object.
+Le lettere sembrano incise in fretta e furia con un oggetto appuntito.
+Do you understand this pagan language? What does it say?
+Capisci questa lingua pagana? Cosa dice?
+I'm a bit rusty, the real specialist here would be Marcus.
+Sono un po' arrugginito, il vero esperto qui sarebbe Marcus.
+Who?
+Chi?
+Never mind.
+Lascia stare.
+I believe it says...
+Credo che dica...
+"Agsvald was here"
+"Agsvald Ë stato qui"
+Wh-- Are you sure?
+Cos-- Sei sicuro?
+Yikes!
+Wow!
+Do you hear yourself?
+Ma ti senti quando parli?
+Golly!
+Perbacco!
+Jiminy Cricket!
+Diamine!
+Oh for God's sake!
+Oh per l'amor di Dio!
+What did you say!?
+Cos'hai detto!?
+Erm, nothing serious.
+Ehm, niente.
+Zounds!
+Accipicchia!
+Thats sounds extreme!
+Parole veramente dure!
+Bejabbers!
+Cavoletti!
+Did you really say that?
+Lo hai detto davvero?
+For God's sake!
+Cristo Santo!
+These are strong words.
+Queste sono parole forti.
+Ouch!
+Ouch!
+Are you for real?
+Sei serio?
+That hurt.
+Questa mi ha fatto male.
+I'm not lying, we can find an arrangement.
+Non sto mentendo, possiamo trovare un accordo.
+People usually find me charming.
+La gente di solito mi trova affascinante.
+Name one more thing you hate about me.
+Dimmi un'altra cosa che odi di me.
+Come on now, you're just being mean.
+Oh andiamo, mi vuoi proprio offendere.
+I doubt it. I do not consort with the spawns of Belzebub.
+Ne dubito. Non voglio avere nulla a che fare con la progenie di Belzeb˘.
+I know a certain snake that was charming too. Repent!
+Anche un famoso serpente era affascinante. Pentiti!
+The thing I hate the most is blasphemy!
+La cosa che odio di pi˘ Ë la blasfemia!
+"Thou shalt not take the name of the Lord thy God in vain."
+"Non pronunzierai invano il nome del Signore, tuo Dio, perchÈ il Signore non lascer‡ impunito chi pronuncia il suo nome invano."
+Whenever I hear someone use God's name to curse, I could just--
+Ogni volta che sento il nome di Dio in un'imprecazione, potrei addirittura--
+It is not I who judge you, it is the Almighty.
+Non sarÚ io a giudicarti, sar‡ l'Onnipotente.
+Strange as it sounds, I'm pretty sure.
+Per quanto sembri strano, ne sono piuttosto sicuro.
+Agsvald sounds like a Viking name.
+Agsvald sembra un nome vichingo.
+When did you last check on the relic?
+Quando hai controllato la reliquia l'ultima volta?
+You should have picked Runic over Latin.
+Avresti dovuto scegliere il Runico invece del Latino.
+That is a CATASTROPHY!
+Ma questa Ë una CATASTROFE!
+We've been watching over the Holy remains for almost a millenium!
+Abbiamo custodito la Sacra Reliquia per quasi un millennio!
+You're telling me that all that time they had been taken away?
+Mi stai dicendo che per tutto questo tempo non Ë stata qui?
+And by some bearded pagan adventurer at that!
+E che l'ha presa un barbuto predone pagano!
+Wait, there's more.
+Aspetta, c'Ë dell'altro.
+"Come get the body parts of your whiny god in Nissefest, if you dare."
+"Venite a prendere i resti del vostro piagnucoloso dio a Nissefest, se avete il coraggio."
+Our Lord is not whiny! How dare you!
+Nostro Signore non Ë piagnucoloso! Come osi!
+Hey, I'm just reading it as it is. Our friend Agsvald knows how to tease.
+Ehi, sto solo leggendo quello che c'Ë scritto. Agsvald sapeva come provocare.
+What is this Nissefest he's talking about?
+Cos'Ë questa Nissefest di cui parla?
+I think it used to be a Viking settlement in Norway, many centuries ago.
+Se non ricordo male fu un antico insediamento vichingo in Norvegia, molti secoli fa.
+My son, the time has come for you to answer to a higher calling.
+Figlio mio, Ë giunto il tempo di rispondere alla chiamata del Signore.
+You must be kidding me.
+Spero tu stia scherzando.
+You must bring back the relic, the salvation of your soul depends on it.
+Devi ritrovare la reliquia, la salvezza della tua anima dipende da questo.
+Yeah, yeah.
+SÏ, certo, come no.
+Plus, I would let you see the rare manuscripts of our monastry.
+Inoltre, ti lascerÚ consultare i rari manoscritti del nostro monastero.
+Say no more.
+Non aggiungere altro.
+monkDialogFinished
+
+I'm done with you.
+Con te ho finito.
+I've had enough.
+Ne ho abbastanza.
+Me and my relic, we're gone.
+Io e la reliquia ce ne andiamo.
+Wait!
+Aspetta!
+What now.
+Cosa vuoi ancora?
+Can't you find the exit yourself?
+Non riesci a trovare l'uscita?
+Don't insist, the reliquary stays closed.
+Non insistere, il reliquiario rimane chiuso.
+Hello! I'm an American archeologist.
+Salve! Sono un archeologo americano.
+Could I speak to someone in town?
+Posso parlare con qualcuno in citt‡?
+Maybe I can help you with your boat?
+Posso darti una mano con la barca?
+What is it you need again?
+Che cosa ti serve?
+I'll let you work.
+Ti lascio lavorare.
+Oj, oj, oj.
+Oj, oj, oj.
+Sorry sir, I'm too busy, I cannot help you.
+Mi spiace, sono troppo occupato, non posso aiutarla.
+It's the fishing season. Everyone's at sea from dusk till dawn.
+» stagione di pesca, sono tutti in mare dal tramonto all'alba.
+Except for me. My boat is damaged and I must fix it urgently.
+Tutti tranne me. La mia barca Ë rotta e devo sistemarla prima possibile.
+I really don't have time to talk, good bye sir.
+Non ho proprio tempo per parlare. Buona giornata.
+Ha! I don't think so.
+Ha! Non credo proprio.
+This old thing's engine has been patched so many times...
+Questo vecchio motore Ë stato riparato cosÏ tante volte...
+...I'm probably the only person to know how to make it work.
+...Che credo di essere l'unico che sa come farlo funzionare.
+It used to finish the Fjord run in 12 nautic miles, you know.
+Pensi che riusciva a fare il giro del fiordo in 12 miglia nautiche.
+Anyways I'm too busy to continue this little chat.
+Comunque sono troppo occupato per continuare a chiacchierare.
+But if I help you fix it will you answer my questions?
+Se ti aiuto a sistemarlo risponderai alle mie domande?
+Listen min herr, I told you--
+Senta min herr, le ho detto--
+Hmm...
+Hmm...
+OK, listen.
+OK, mi ascolti bene.
+Next to the church, there's an old storehouse where I keep some tools.
+Accanto alla chiesa c'Ë un vecchio magazzino dove tengo gli attrezzi.
+And inside of it there's a hose. Bring it back to me and we'll see.
+L‡ dentro c'Ë un tubo di gomma. Me lo porti e vediamo cosa posso fare.
+In the meantime I'll be busy with min lille hammer.
+Nel frattempo sarÚ qui a divertirmi con min lille hammer.
+hasReceivedFishermanMission
+
+Oj! I thought I was clear!
+Oj! Credevo di essere stato chiaro!
+Bring me the hose that's in the old storehouse, and I'll help you.
+Mi trovi il tubo nel magazzino e le darÚ una mano.
+Hurry up please, while I tighten a few bolts.
+Cerchi di sbrigarsi, mentre stringo questi bulloni.
+If you don't mind.
+Se non le dispiace.
+About the church...
+Riguardo alla chiesa...
+About that pile of ashes on the hill...
+Riguardo a quel cumulo di ceneri sulla collina...
+Seen any vikings around lately?
+Visto qualche vichingo da queste parti, di recente?
+Bye bye.
+Arrivederci.
+Yes?
+SÏ?
+Ha! Ha!
+Ha! Ha!
+Bye bye!
+Alla prossima!
+Does your church host a relic or two?
+Ci sono reliquie nella vostra chiesa?
+Quite authentic!
+Sembra autentica!
+I've noticed those strange holes in the wall...
+Ho notato degli strani fori nel muro...
+Can you sing one of his songs?
+Sapresti cantare una delle sue canzoni?
+Would you sing another song?
+Potresti cantare un'altra canzone?
+How about another song?
+Che ne dici di un'altra canzone?
+You have quite the sense of humor!
+Hai un certo senso dell'umorismo!
+But it's a tiny church. No relics. Not even a crypt.
+» solo una piccola chiesa. Nessuna reliquia. Nemmeno una cripta.
+Yes, it's extremely old. From the times of massive Christian conversions.
+SÏ, Ë molto antica. Risale ai tempi della grande conversione al Cristianesimo.
+I even believe it was built on top of the Viking common hall.
+Credo che sia stata costruita sulle rovine di un'antica sala comune vichinga.
+Peculiar, aren't they?
+Strani, vero?
+As a kid, I used to imagine it was the holes of a flute.
+Da piccolo credevo fossero i fori di un flauto.
+I get it. A boring mass can make the mind wander.
+Capisco, la mente vaga lontano durante le messe noiose.
+Not only that, but our priest enjoyed music a lot.
+Non solo, il nostro prete era un amante della musica.
+He had lots of songs to help us remember events and dates from the Bible.
+Conosceva un sacco di canzoni per aiutarci a ricordare gli eventi della Bibbia.
+Do you mean... Songs he invented himself?
+Intendi... canzoni inventate da lui?
+Yes.
+SÏ.
+Well, erm... That's a bit embarrassing.
+Beh, ehm... » abbastanza imbarazzante.
+Come on, I helped you with your engine.
+Coraggio, ti ho aiutato a riparare il motore.
+Wouldn't you prefer a drinking song?
+Non preferiresti una canzone da bar?
+OK, here goes :
+Ok allora:
+'Adam has Abel, that's one son...',
+'Adamo ha Abele, un figlio...',
+'Adam has Cain, that's two sons...'
+'Adamo ha Caino, due figli...'
+'Cain kills Abel, that's one son again...'
+'Caino uccide Abele, rimane un figlio...'
+'Adam has Seth, that's two sons again...'
+'Adamo ha Seth, di nuovo due figli...'
+I think I get the gist of it.
+Credo di aver capito il senso.
+That's a boring song but thanks to it I never forgot the genealogy of Adam.
+» una canzone noiosa, ma grazie a essa non dimenticherÚ mai la genealogia di Adamo.
+I wish my dad knew how to sing.
+Se solo mio padre sapesse cantare.
+How about this one:
+Senti questa:
+'the hip bone connects to the leg bone,'
+'L'osso della testa Ë unito all'osso della costola,'
+'The leg bone connects to the--'
+'L'osso della costola Ë unito all'osso--'
+I already know that one.
+Questa la conosco gi‡.
+Yes, I think the priest adapted it from a famous song.
+Gi‡, credo che il prete l'avesse adattata da una canzone famosa.
+I don't know any more songs but that one:
+Non conosco altre canzoni a parte questa:
+'A door has a lock, the lock needs a key',
+'La porta ha una serratura, la serratura ha una chiave.'
+'Push it three times!'
+'Premila tre volte!'
+'The lock can also be a key',
+'Anche la serratura puÚ essere una chiave',
+'Then the lock opens another door',
+'E aprir‡ un'altra porta',
+The tune is catchy.
+Ti rimane in testa.
+Yes. The priest was singing to himself very often. I remember it to this day.
+SÏ, il prete la canticchiava spesso. La ricordo bene tutt'oggi.
+hasRevealedDoorMechanism
+
+When did it burn?
+Quando Ë bruciato?
+I've seen some runes next to it.
+Ho visto delle rune l‡ vicino.
+Nevermind
+Non importa.
+Very recently, actually.
+Di recente, a dire il vero.
+It belonged to our priest's family since forever.
+La fornace apparteneva alla famiglia del nostro prete dall'alba dei tempi.
+Do you mean they maintained it?
+Veniva restaurata spesso?
+Yes, with great care. God knows why.
+SÏ, e con grande cura! Chiss‡ perchÈ.
+So, when the priest died it went derelict.
+Quindi, alla morte del prete, Ë stata abbandonata.
+Yes, and then this mysterious fire.
+SÏ, finchÈ non Ë arsa misteriosamente.
+Somehow, the soil is always hot up there, even in winter.
+Il terreno Ë sempre caldo lass˘, persino in inverno.
+Could it have started the fire?
+Che sia questa la causa del fuoco?
+Possibly.
+PuÚ darsi.
+Oh yes it's extremely old.
+Oh sÏ, Ë molto vecchia.
+There used to be a Viking settlement up there. That furnace was the last remaining trace.
+Un tempo c'era un antico insediamento vichingo l‡ sopra, quella fornace ne era l'ultima traccia.
+Once, I saw the INSIDE of the furnace door.
+Una volta riuscii a guardare DENTRO il portello della fornace.
+It's beautiful: Ornamented and all.
+Aveva delle splendide decorazioni.
+Have you heard of a Viking named Agsvald?
+Conosci un vichingo di nome Agsvald?
+Do you have... A Vikings museum of some sort?
+Per caso avete un... Museo vichingo da queste parti?
+Nevermind.
+Non importa.
+Oh yes he was the big shot around here in the early middle ages.
+Oh, sÏ. Era un pezzo grosso da queste parti durante il Medioevo.
+He kept going on raids to Great Britain, and even to France!
+Condusse molte incursioni in Gran Bretagna e persino in Francia!
+To France? Interesting.
+In Francia? Interessante.
+The rumour says that he stashed a treasure somewhere here.
+C'Ë chi dice che avesse nascosto un tesoro da queste parti.
+But guess what, no one ever found it.
+Ma nessuno lo ha mai trovato.
+Oh, no. The mountain is littered with Viking artifacts.
+Oh, no. La montagna pullula di artefatti vichinghi.
+But we're just a small fishing village. I know the stories my grandma's grandma told her.
+Ma questo non Ë che un piccolo villaggio di pescatori. Conosco solo i racconti che ci tramandiamo da generazioni.
+So... No reliable source of information?
+Quindi... nessuna fonte attendibile di informazioni?
+Well, our priest and his family seemed to know many secrets about this Agsvald guy!
+Beh, sembra che il nostro prete e la sua famiglia sapessero molte storie su questo Agsvald!
+That priest didn't have any children, sadly. His secrets died with him.
+Ma sfortunatamente non ebbe alcun figlio e i suoi segreti morirono con lui.
+TESTING;
+
+DEMO;
+
+BETATEST;
+
+DEBUG;
+
+SAFEMODE;
+
+SuspendableWait::Set :  count should be 0
+
+Cannot create new tween because the Tween module is currently playing %d tween(s), which is the maximum. You can increase this max number on the Tween module script header.
+
+Cannot create Tween. Invalid index!
+
+ERROR: Too many timers/named globals used when accessing named global %s. Contact the game author and tell them to increase the value of ULTRAVARIABLES_MAX_GLOBALS from %d in the UltraVariables module header
+
+Sorry, cannot alias to global int 0
+
+Log.txt
+
+Could not create log file. Will not try again.
+
+%02d%02d%02d
+
+%s_%s :
+
+     %s
+
+** GLOBALS **
+
+'%s',%d,'%s'
+
+** TIMERS **
+
+'%s',%d
+
+%d
+
+%s (%d)
+
+SoundManagement::FindAudioTypeIndex : could not find index of audiotype '%d'
+
+SoundManagement::GetAudioClipCount : woops, womething's wrong with the macros
+
+SoundManagement::GetAudioClip : you tried to access AudioClip %d but there are only %d
+
+SoundManagement::GetAudioClip_ByName : no AudioClip is named %s
+
+null
+
+SoundManagement::GetName : did not find name of clip
+
+UNNAMED CLIP
+
+eAudioTypeAmbientSound
+
+eAudioTypeMusic
+
+eAudioTypeSound
+
+eAudioTypeDebugMaxChannels0
+
+SoundManagement::RegisterAudioTypes() : you forgot to name AudioType '%d'!
+
+SoundManagement::RegisterAudioTypes() : couned %d types, but manually set %d types.
+
+UNKNOWN AUDIO TYPE
+
+SoundManagement::RegisterAudioClip : not enough slots to store '%s'. Increase MAX_NAMED_CLIPS
+
+SoundManagement::CheckForgottenTypes : AudioClip '%s' has AudioType '%d' which didn't receive a name.
+
+SoundManagement::CheckForgottenClips : there is no way of performing this self-check in this version of AGS. You need AGS 3.4.0.x
+
+SoundManagement::CheckForgottenClips : you forgot to name %d clips. Do it in module SoundManagement.
+
+all clips need to be named
+
+SoundManagement::GetAudioChannelGroup_ByAudioType : didn't find AudioType %d (%s) in the channels groups
+
+SoundManagement::GetAudioChannel : There is no AudioChannel with index %d.
+
+== NAMED AUDIOTYPES DUMP ==
+
+%d : %s
+
+== END OF NAMED AUDIOTYPES ==
+
+==CHANNELS GROUPS DUMP==
+
+Group %d: AudioTypes
+
+%s '%s'
+
+    start=%d
+
+    lengt=%d
+
+    nbCh=%d
+
+    maxCh=%d
+
+==END CHANNELS GROUPS DUMP==
+
+Counting channels for AudioType '%s'(%d) using AudioClip '%s'.
+
+CountAudioChannels_Manually : could not play clip '%s'. This could be a low-level issue (hardware?). Leaving function.
+
+    The channel of AudioType '%s' was found in a channels group before, but I can't find which one.. :-(.
+
+    the channel of AudioType '%s' was already bound to channels group #%d.
+
+CountAudioChannels_Manually : WARNING AudioClip '%s' was played in a channel reserved by AudioType '%s' (channels group #%d). Did you register this AudioType twice or did you get mixed up with your test AudioClips?
+
+CountAudioChannels_Manually : I'll keep counting but I can't guarantee the integrity of the results.
+
+    This is the shared channel. Let's add this AudioType to the channels group's list of AudioTypes.
+
+    CountAudioChannels_Manually : This AudioType is already present in group %d. Skipping.
+
+Manually Counted %d AudioChannels. Created channels group #%d
+
+== START CHANNEL COUNT ==
+
+will be counting channels for AudioType %d (%s) using AudioClip '%s'.
+
+SoundManagement::CountAudioChannels_MaxChannelMore : Could not find a test clip with AudioType %d (%s).
+
+== END CHANNEL COUNT ==
+
+More channels info:
+
+    Found a total of %d channels.
+
+    %d of these channels are shared by all the AudioTypes that have MaxChannel = 0.
+
+    The channels split as follows:
+
+aTestClip
+
+aMusicSpain_short
+
+aMusic1
+
+aMusic2
+
+aMusic3
+
+aMusic4
+
+aMusic5
+
+aMusic6
+
+aSnow_tempest
+
+aAmbiant_cave1
+
+aAmbiant_cave2
+
+aIcecracks1
+
+aStep1
+
+aStep2
+
+aStep3
+
+aWhiplash
+
+aSound1
+
+aWoodenMechanism
+
+aSound3
+
+aSound4
+
+aSound5
+
+aSound6
+
+aSound7
+
+aTruck00
+
+aMachinegun00
+
+aCrickets00
+
+B 
+
+\\ 
+
+_ 
+
+%c 
+
+%d-
+
+%c
+
+.
+
+0
+
+1
+
+SERIOUS WARNING: Files '%s' and '%s' both exist in the game folder.
+
+[[This means a CRASH happened while a critical file was being saved.
+
+[[Please quit the game, keep only ONE of the two files (delete the one you don't need anymore), then start again.
+
+SafeFile::FindInstance : ERROR : neither '%s' nor '%s' exist.
+
+ERROR: Could not open '%s' for writing
+
+ERROR: Could not open '%s' for append
+
+ShitXML::findFreeNode - you need to increase 'MAXNODES'
+
+ShitXML::NewNode : requires a name
+
+ShitXML::SetText : txt cannot be null
+
+ShitXML::SetText : bad node '%d'
+
+ShitXML::SetParams : bad node '%d'
+
+ShitXML::GetParams : bad node '%d'
+
+ShitXML::GetText : bad node '%d'
+
+ShitXML::GetText_i : bad node '%d'
+
+ShitXML::GetName : bad node '%d'
+
+BROTHER
+
+ShitXML::AddChild : error. You tried to add children to node '%d' ('%s') but it has style OneLine
+
+<%s>
+
+</%s>
+
+<br>
+
+XML::WriteNode : unknown style for '%s': '%d'
+
+Error: ShitXML::Dump : empty XML node %d
+
+Error: ShitXML::Dump : Could not open '%s' for writing
+
+'%s'
+
+/
+
+001 badly formed xml. Reached end of file while expecting an opening tag.[Here: %s
+
+002 badly formed xml. Expected '<', found '%s'. Here: %s
+
+003 badly formed xml. Found a solo tag '<%s>' while looking for an opening tag. [Here: %s
+
+004 badly formed xml. Found a closing tag '<%s>' while looking for an opening tag. [Here: %s
+
+005 badly formed xml. Reached end of file while expecting a closing tag to <%s>.[Here: %s
+
+006 badly formed xml. Solo tag '<%s>' contains several words. It's forbidden. [Here: %s
+
+br
+
+[
+
+007 xml warning: parser doesn't know how to handle Solo tag '<%s>'.[Here: %s
+
+008 badly formed xml. Found some content in-between <%s> and <%s>: '%s'.[Here: %s
+
+010 badly formed xml. Expected </%s>. Around here: %s
+
+011 badly formed xml. Opening tag=<%s> but closing tag=<%s>.
+
+012 badly formed xml. There cannot be rogue text between a closing tag (<%s>) and the next tag. Here: %s
+
+ShitXML::Parse : ERROR : could not open '%s' for reading.
+
+]
+
+;
+
+=
+
+[%s]
+
+true
+
+on
+
+yes
+
+%s=%s
+
+%s=%d
+
+%s=%f
+
+O
+
+WARNING RadioButton::BindChoice : radio already bound!
+
+findFreeEntry : no more free entries. Increase 'MAXENTRIES'
+
+AddListBox: ERROR: too many advanced listboxes. Increase 'MAXADVLISTBOX'.
+
+GetEntry_FromIndex : ERROR: There is no entry '%d' in the list
+
+YpyjIHgMNWQ
+
+GetRowHeight_risky : ERROR: cannot use this function if text area is not visible
+
+GetRowHeight_risky : ERROR: cannot use this function if text area's ListBox is covered by another control
+
+0000000
+
+1111111
+
+WARNING: could not find height of text area rows. The cursor might be off, or maybe your font is taller than 20 pixels?
+
+SoundDebugGui::SetGraphValue : bad slot : %d (should be in 0, %d)
+
+?
+
+UNUSED
+
+ERROR in 'SoundDebugGUI::SetGUI' : Please provide more controls on the GUI (counted %d,%d,%d)
+
+%d/%d
+
+updateing %d
+
+startOnGraphMs=%d, positonMs=%d, positoinPixels=%d
+
+Started recording %d (scale %d)
+
+I can't pull that.
+Non posso tirarlo.
+I can't push that.
+Non posso premerlo.
+That just won't work.
+Non funzionerebbe.
+I don't know what to do.
+Non so cosa fare.
+I see nothing special about it.
+Non ci vedo niente di speciale.
+Why would I want to pick that up?
+PerchÈ dovrei prenderlo?
+I shouldn't start talking to things.
+Non dovrei parlare con gli oggetti.
+That won't work.
+Non funzionerebbe.
+I can't open that.
+Non posso aprirlo.
+I can't close that.
+Non posso chiuderlo.
+I don't think that will work.
+Non credo che funzionerebbe.
+Nu-uh.
+Nu-uh.
+No.
+No.
+Nope.
+Nope.
+That's silly.
+Sarebbe stupido.
+Why would I try that?
+PerchÈ dovrei?
+I'll have to think of something more useful.
+Dovrei pensare a qualcosa di pi˘ utile.
+No way.
+Proprio no.
+I can't figure it out.
+Non riesco a capire.
+I'd rather keep that to myself.
+Preferirei tenermelo per me.
+I won't give that away.
+Non intendo privarmene.
+Bad idea.
+Pessima idea.
+Let's keep that to myself.
+Preferisco tenerlo per me.
+ERROR : no sentence returned.
+
+I don't need that.
+Non ne ho bisogno.
+Unknown mode : %d
+
+It's too heavy to pull it
+» troppo pesante per tirarlo
+It's too heavy to push it
+» troppo pesante per premerlo
+Let it be.
+Lascia stare.
+I can't pick up something that big!
+Non posso prendere qualcosa di cosÏ grosso!
+Violence is not a solution here.
+La violenza non Ë una soluzione.
+I don't just push people around.
+Non intendo spingere le persone.
+I don't randomly touch people.
+Non voglio toccare le persone senza motivo.
+Yes, why don't I just carry everybody around on my back?
+Gi‡, perchÈ non prendere in braccio le persone?
+You mean, open that person with a knife or something?
+Aspetta, vuoi aprire quella persona con un coltello o cosa?
+That doesn't make sense.
+Non ha alcun senso.
+ERROR: Mirrors::AddMirrorChar : too many mirrors in this room. Increase MAX_MIRRORS_PER_ROOM
+
+ERROR: Mirrors::AddMirrorChar : you already used %s as a mirror reflection!
+
+ERROR: Mirrors::NewMirror : too many mirrors in your game. Increase MAX_MIRRORS
+
+ERROR: Mirrors::NewMirror : Bad scripting! you've declared the same mirror twice
+
+NewMirror: Incorrect opacity value: %f. Must be 0.0 to 1.0
+
+NewMirror: Could not find an unused mirror character. You must call 'AddMirrorChar' once more!
+
+Mirrors::SetOffset : could not find mirror. Did you call NewMirror first?
+
+Mirrors::SetOpacity : could not find mirror. Did you call NewMirror first?
+
+Bad scripting in 'SetSubstituteCharacter': that mirror has not been previously created. Call NewMirror first!
+
+Mirrors::EnableMirror : you tried to enable a mirror that wasn't registered before using NewMirror
+
+Mirrors::mirrorLoop : unexpected symetry type %d
+
+Mirrors::AssertSymmetryType : Unexpected symmetry type %d
+
+Mirrors::AssertSymmetryType : Composite symmetry types not implemented: %d
+
+%d %d %d
+
+a game by
+un gioco di
+the Seven Cities of Gold team
+
+this featurette by
+realizzato da
+Monsieur Ouxx
+
+Charalampos Papadopoulos
+
+Selmiak
+
+story by
+storia di
+background art by
+sfondi di
+Tolga Ocek
+
+sprite and animations by
+sprite e animazioni di
+Monsieur Ouxx - ProgZmax - Selmiak
+
+Jag - Amelie - Trample Pie
+
+CaesarCub - Hans
+
+music by
+musica di
+Drew CU
+
+Victor Parejo Medina
+
+Dualnames
+
+scripting by
+scripting di
+project coordination & research
+coordinazione & ricerca
+Beta testing
+
+Ricky Derocher
+
+Cassiebsg
+
+extra scripting by
+scripting aggiuntivo di
+H. Diot
+
+Abstauber - Edmundito - SSH
+
+Khris - Ryan Timothy - Spyros
+
+Proskrito - Hedgefield - Ashen
+
+fonts by
+caratteri di
+Rulaman
+
+Lucasfan
+
+website by
+sito web di
+Forums & hosting by
+
+cbm8bit
+
+social networks
+
+AGS engine by
+
+Chris Jones
+
+Ivan Mogilko - Sonneveld
+
+Morgan Willcock - Tobihan
+
+Gurok - Monkey0506
+
+Tzachs - rofl0r
+
+Icicles::NewIcicle : Too many icicles in this game. increase MAX_ICICLES
+
+SCROLLING LOCK INFORMATION[[edgeLeft=%d, edgeRight=%d[edgeTop=%d,edgeBottom=%d
+
+Speed values can't be 0 at the same time
+
+Fallingspeed already been set to zero.
+
+Windspeed already been set to zero.
+
+ParticleSystem Init failed as:\n
+
+Particle system type cannot be NO_CHANGE_PARTICLE in init.\n
+
+Wind direction cannot be NO_CHANGE_WIND in init.\n
+
+Sprite slot %d is not proper.\n
+
+\nPlease check your script.
+
+MIRROR1
+
+MIRROR2
+
+MIRROR3
+
+MIRROR4
+
+%d.
+
+GUI_LANGUAGE
+it
+de
+
+es
+
+fr
+
+en
+
+it
+
+Please don't forget to add a language code (en, it, ...) under GUI_LANGUAGE in your .TRS file. Also keep in mind that there are limitations in Debug. You need to recompile the translation AND build the EXE for changes to take effect.
+
+Unrecognized translation language : %s
+
+This button is not part of the Tumbleweed verbs GUI
+
+Gehe zu %s
+
+Schau %s an
+
+Rede mit %s
+
+Gib !s an %s
+
+Gib %s
+
+Nimm %s
+
+Benutze !s mit %s
+
+Benutze %s
+
+÷ffne %s
+
+Schlieﬂe %s
+
+Dr¸cke %s
+
+Ziehe %s
+
+Ir a %s
+
+Mirar %s
+
+Hablar con %s
+
+Dar !s a %s
+
+Dar %s
+
+Coger %s
+
+Usar !s con %s
+
+Usar %s
+
+Abrir %s
+
+Cerrar %s
+
+Empujar %s
+
+Tirar de %s
+
+Aller vers %s
+
+Regarder %s
+
+Parler ‡ %s
+
+Donner !s ‡ %s
+
+Donner %s
+
+Prendre %s
+
+Utiliser !s sur %s
+
+Utiliser %s
+
+Ouvrir %s
+
+Fermer %s
+
+Pousser %s
+
+Tirer %s
+
+Vai verso %s
+
+Esamina %s
+
+Parla con %s
+
+Dai !s a %s
+
+Dai %s
+
+Raccogli %s
+
+Usa !s con %s
+
+Usa %s
+
+Apri %s
+
+Ferma %s
+
+Premi %s
+
+Tira %s
+
+Ir para %s
+
+Olhar para %s
+
+Falar com %s
+
+Apanhar %s
+
+Usar !s com %s
+
+Fechar %s
+
+Empurrar %s
+
+Puxar %s
+
+Ga naar %s
+
+Bekijk %s
+
+Praat met %s
+
+Geef !s aan %s
+
+Geef %s
+
+Pak %s
+
+Gebruik !s met %s
+
+Gebruik %s
+
+Open %s
+
+Sluit %s
+
+Duw %s
+
+Trek %s
+
+Walk to %s
+
+Look at %s
+
+Talk to %s
+
+Give !s to %s
+
+Give %s
+
+Pick up %s
+
+Use !s with %s
+
+Use %s
+
+Close %s
+
+Push %s
+
+Pull %s
+
+!s
+
+%s
+
+>
+
+>n
+
+This button is not part of the Verbs GUI.
+
+Optionen
+
+Musik Lautst‰rke
+
+Sound Effekte
+
+Standard
+
+Speichern
+
+Laden
+
+Beenden
+
+Weiter
+
+Pause
+
+Leertaste f¸r weiter
+
+Spielstand laden
+
+Abbruch
+
+Spielstand speichern
+
+Spiel verlassen
+
+Mˆchten Sie das Spiel beenden?
+
+Ja
+
+Nein
+
+Opciones
+
+Volumen de la m˙sica
+
+Efectos de sonido 
+
+Restablecer
+
+Guardar
+
+Cargar
+
+Salir
+
+Volver
+
+Pausa
+
+Pulsa Espacio para continuar
+
+Por favor, elige el juego a cargar
+
+Cancelar
+
+Por favor, introduce un nombre
+
+øSalir del juego?
+
+øSeguro que quieres salir?
+
+Si
+
+No
+
+ParamËtres
+
+Volume de la musique
+
+Volume des sons
+
+RÈinitialiser
+
+Sauver
+
+Charger
+
+Quitter
+
+Reprendre
+
+Appuyez sur la barre d'espacement pour reprendre
+
+Choisissez une partie ‡ charger
+
+Annuler
+
+Saisissez un nom
+
+Voulez-vous vraiment quitter?
+
+Oui
+
+Opzioni
+
+Volume della Musica
+
+Effetti Sonori
+
+Risedersi
+
+Salva
+
+Carica
+
+Esci
+
+Continua
+
+Partita in Pausa
+
+Premi Spazio per Continuare
+
+Scegli una partita da caricare
+
+Cancella
+
+Inserisci un nome
+
+Uscire dal gioco
+
+Sei sicuro/a che vuoi uscire?
+
+OpÁıes
+
+Volume M˙sica
+
+Efeitos Sonoros
+
+Gravar
+
+Restaurar
+
+Desistir
+
+Continuar
+
+Prima Space para continuar
+
+Por favor escolha um jogo
+
+Por favor insira um nome
+
+De certeza que quer desistir?
+
+Opties
+
+Muziek Volume
+
+Geluidseffecten
+
+Standaard
+
+Opslaan
+
+Stop
+
+Ga door
+
+Pauze
+
+Druk op de Spatiebalk om door te gaan
+
+Kies a.u.b. een spel om te laden
+
+Annuleren
+
+Vul a.u.b. een naam in
+
+Sluit spel af
+
+Weet u zeker dat u wilt stoppen?
+
+Nee
+
+%dm
+
+%dh %dm
+
+%s;%04d/%02d/%02d %02d:%02d
+
+Missing module 'verbgui'
+
+I can't use that.
+Non posso usarlo.
+That won't do any good.
+Non servirebbe a niente.
+Nice %s.
+Bel %s.
+It's %s.
+» %s.
+I can't push %s.
+Non posso premere %s.
+I can't pull %s.
+Non posso tirare %s
+It has already been closed.
+» gi‡ chiuso.
+Doing that with %s is not a good idea.
+Farlo con %s non Ë una buona idea.
+It is open.
+» aperto.
+%s would not like it.
+%s non apprezzerebbe.
+I don't want to pick %s up.
+Non voglio prendere %s
+I have nothing to say.
+Non ho niente da dire.
+I don't want to talk to %s.
+Non voglio parlare con %s
+I'd rather keep it.
+Preferirei tenerlo.
+I can't do that.
+Non posso farlo.
+The door looks solid.
+La porta sembra solida.
+It is locked.
+» chiuso.
+I can't unlock it with that.
+Non posso sbloccarlo con questo.
+I have to close it first.
+Devo prima chiuderlo.
+Now it's unlocked.
+Adesso Ë sbloccato.
+The door is locked again.
+La porta Ë chiusa di nuovo.
+Missing module 'OptionGui'
+
+Go to
+
+Look At
+
+Talk To
+
+Give
+
+Pick Up
+
+Use
+
+Open
+
+Close
+
+Push
+
+Pull
+
+ERROR
+
+Gehe zu
+
+Schau
+
+Rede
+
+Gebe
+
+Nehme
+
+Nutze
+
+÷ffne
+
+Schlieﬂe
+
+Dr¸cke
+
+Ziehe
+
+Ir a
+
+Mirar
+
+Hablar
+
+Dar
+
+Coger
+
+Usar
+
+Abrir
+
+Cerrar
+
+Empujar
+
+Tirar
+
+Aller
+
+Regarder
+
+Parler
+
+Donner
+
+Prendre
+
+Utiliser
+
+Ouvrir
+
+Fermer
+
+Pousser
+
+Tirer
+
+Vai a
+
+Esamina
+
+Parla
+
+Dai
+
+Raccogli
+
+Usa
+
+Apri
+
+Ferma
+
+Premi
+
+Tira
+
+Ir para
+
+Olhar
+
+Falar
+
+Apanhar
+
+Fechar
+
+Empurrar
+
+Puxar
+
+Ga naar
+
+Bekijk
+
+Praat
+
+Geef
+
+Pak
+
+Gebruik
+
+Sluit
+
+Duw
+
+Trek
+
+ERROR2
+
+Unknown state
+
+Unknown language
+
+Did something change?
+
+NOT IMPLEMENTED (suit yourself)
+
+Not a valid theme number : %d
+
+a mistake has been made.
+
+Changing the sprites TO English is not supported. Start the game directly in English please.
+
+In Translations::SetTranslatedSprites : Language not implemented for sprites : %d
+
+Switching to English not supported yet.
+
+French (Franùais)
+
+German (Deutsch)
+
+Please provide the name of the translation file for eLanguage with value %d
+
+In module Translations : Unable to change the translation to '%s'
+
+Interactions style : GUI=
+
+9Verb
+
+Coin
+
+Simplified
+
+Error
+
+, tap=
+
+Desktop
+
+Tap
+
+Could not write to file '%s'
+
+bonuses are now enabled permanently. Delete this file to lock access to the bonuses again.
+
+OLDDEMO.ags
+
+BONUS.ini
+
+IndyTravelMap : you didn't define a vehicle sprite for the current region (player at %d, %d). Please use 'addVehicle' and position player properly.
+
+MACHINE:
+
+(null)
+
+STATE:
+
+FROM:
+
+INPUT:
+
+TO:
+
+CLONE:
+
+NEW:
+
+CLONE:%s
+
+NEW:%s
+
+MACHINE:%s
+
+STATE:%s
+
+FROM:%s
+
+INPUT:%s
+
+TO:%s
+
+DEBUG/TESTS
+
+GUI: Settings
+
+Fonts tests
+
+TextArea
+
+FoAcredits
+
+Mirrors 2
+
+character animation tests
+
+Test scrolling lock
+
+GUI interactions (look at, etc.) tests
+
+GUI Tumblew. dialogs test
+
+MENUS
+
+MS-DOS
+
+Disclaimer
+
+Main Menu
+
+Demo bonuses
+
+Regular credits
+
+DEMO
+
+01 Catacombs (no cutscene)
+
+01 Catacombs (with cutscene)
+
+01 Catacombs (Monk Cutscene)
+
+01b Tinted glass
+
+02 Norway outside
+
+02b Norway outside (night)
+
+02b norway outside (oven)
+
+Norway Hatch Close Up
+
+03 norway inside
+
+03 norway inside (end cutscene)
+
+04 norway ice cave
+
+05 europe map
+
+06 indys classroom
+
+end credits
+
+journal
+
+Programing mistake: you forgot to implement checkpoint '%d'.
+
+RunAlways:
+
+AutoRemove:
+
+Paused:
+
+bad scripting. You should not try to unpause during debug pause
+
+Misc
+
+showDisclaimer
+
+ERROR: in 'ToModernAudio' : Unexpected sound index
+
+If I want to use this door, I should OPEN it.
+Se voglio usare questa porta, dovrei APRIRLA.
+It's an average door.
+» una comunissima porta.
+I can't pick the door up!
+Non posso afferrare la porta!
+Sure, I should just start talking to doors.
+Certo, dovrei proprio iniziare a parlare con le porte.
+The door works fine. If I want to use this door, I should OPEN it.
+La porta funziona bene. Per usarla, dovrei APRIRLA.
+It's already open.
+» gi‡ aperta.
+It's already closed.
+» gi‡ chiusa.
+Error: findDoorIndex: Couldn't find the requested door in room %d
+
+Error in 'Doors' module : bad door id : (id=%d, but should be between 0 and %d
+
+Fatal error: too many rooms to handle doors
+
+Fatal error: too many doors declared
+
+It's already properly closed.
+» gi‡ chiusa a dovere.
+It's an oil can I took from the janitor's closet.
+» una lattina d'olio che ho preso dall'armadietto dell'inserviente.
+I'd rather not, I might spill the oil.
+Meglio di no, potrei rovesciare l'olio.
+Why would my cabinet key open this oil can?
+E perchË la mia chiave dovrebbe aprire questa latta d'olio?
+...And risk having my papers ruined?
+...E rischiare di rovinare i miei documenti?
+It's the key to my office cabinet.
+» la chiave dell'armadietto nel mio ufficio.
+...And have the key all slimy? No, thanks!
+...E sporcare d'olio la chiave? No grazie!
+Let's take a look at that telegram.
+Diamo un occhiata a quel telegramma.
+There's no envelope. Nothing to open.
+Non c'Ë una busta, niente da aprire.
+No way, that would ruin the telegram.
+Rovinerebbe il telegramma.
+That's my wallet.
+» il mio portafogli.
+There's nothing of interest in it.
+Non c'Ë niente di interessante.
+Why would I spill oil all over my papers?
+PerchÈ dovrei rovesciare l'olio sui miei documenti?
+Apparently it's some sophisticated metal compass.
+Sembrerebbe una sofisticata bussola di metallo.
+It's from the the early Ottoman Empire, at the end of the middle ages.
+Risale al primo impero Ottomano, alla fine del medioevo.
+It was used by muslim artists and decorators.
+Era usato da artisti e decoratori musulmani.
+They were ornamenting everything with geometric shapes in that era.
+Erano soliti ornare qualsiasi cosa con forme geometriche, all'epoca.
+That device helped designing them.
+Questo attrezzo serviva a disegnarle.
+Yes, that's defnitely the artifact the tag is about.
+Si tratta senz'altro di quel preciso artefatto.
+eDialog_LookedAtCompassTag
+
+It's a strange metal artifact. I can't date it, and I don't know what it's for.
+» uno strano artefatto di metallo. Non so a quando risalga nÈ a cosa servisse.
+Thanks to the tag, I know what this artifact is.
+Grazie all'etichetta, adesso so di cosa si tratta.
+There's no point in disassembling it.
+Non mi serve smontarlo.
+Hey! It's the description tag of that ancient metal device.
+Ehi, Ë l'etichetta descrittiva di un antico attrezzo in metallo.
+Irene probably left the tag in my drawer to make sure it wouldn't be lost.
+Probabilmente Irene ha lasciato l'etichetta nel mio cassetto per evitare che la perdessi.
+It's one of those tags we use to classify our artifacts.
+» una delle etichette che usiamo per catalogare gli artefatti.
+Here is what it says:
+Ecco cosa c'Ë scritto:
+It's the description tag of one of the many artifacts we have in Barnett college.
+» l'etichetta descrittiva degli artefatti che conserviamo qua nel College.
+I don't know what artifact it describes.
+Non so a quale artefatto si riferisca
+I'm not waving that around.
+Non intendo sventolarlo in giro.
+eDialog_IndyConfusedHammers
+
+It's a ceremonial hammer... But I don't know if it's a copy.
+» un martello cerimoniale, ma non so se si tratti di una copia.
+It's a ceremonial hammer. That's the real one.
+» un martello cerimoniale, quello originale.
+I looks really very much like the real one.
+» molto simile a quello originale.
+It's a tire repair kit.
+» un kit di riparazione per pneumatici.
+A short, sturdy stick.
+Un bastone corto e rigido.
+It fits. I got myself a nice shovel.
+Perfetto, ecco una bella pala.
+It's an empty bucket.
+» un secchio vuoto.
+Luckily, the salted water doesn't seem to be freezing.
+Fortunatamente l'acqua salata non sembra congelarsi.
+It's all rusty but it could do the job if it had a handle.
+» arrugginita ma potrebbe comunque servirmi se avesse un manico.
+It fits!
+Ci entra!
+Let me adjust the nail... Voila!
+Ecco che la sistemo... Voil‡!
+It's not the right size at all.
+Non Ë della dimensione giusta.
+It can't even sharpen the wood to make it fit.
+Non riesco ad appuntire il legno per farcelo entrare.
+eDialog_isOilLampBurning
+
+There, now it's lit.
+Ecco, adesso Ë accesa.
+The lamp is already lit.
+La lampada Ë gi‡ accesa.
+It was more of a censer apparently, but now it's used as a plain oil lamp.
+Era un incensiere originariamente, adesso Ë semplicemente una lampada.
+It has a gentle little flame coming out of it, as expected.
+C'Ë una tenue fiammella che ne fuoriesce, come mi aspettavo.
+There's oil inside but it's not lit.
+C'Ë dell'olio dentro, ma non Ë accesa.
+I don't want to put oil all over it.
+Non voglio versarci sopra l'olio.
+There's only oil inside, I don't want to spill it.
+C'Ë solo dell'olio dentro, non intendo versarlo.
+Talk to me, o genie of the lamp.
+Parlami, o genio della lampada.
+[ACHIEVEMENT[[Friend of the Djinns.[[Post a screenshot on Twitter #RelicOfTheViking[[
+[ACHIEVEMENT[[Amico dei Djinns.[[Posta uno screenshot su Twitter #RelicOfTheViking[[
+Careful not to hurt your fingers if you try to burn ropes.
+Attento a non farti male, quando bruci le corde.
+I don't want to burn that.
+Non intendo bruciarlo.
+There's a tiny amount of fuel inside, I don't want to spill it.
+C'Ë rimasta un po' di benzina dentro, non intendo versarla.
+This is a long paddling oar.
+» un lungo remo.
+I have no idea how it fits in my pants.
+Non ho idea di come ci sia entrato.
+Unusally big and thick!
+» grossa e spessa!
+Those Norwegians are not fooling around.
+Questi norvegesi non scherzano.
+It's a small, simple golden key. It looks worn off.
+» una piccola e semplice chiave dorata, sembra consumata.
+It's a shovel.
+» una pala.
+It's an old plastic hose without much value.
+» un vecchio tubo di plastica di poco valore.
+Unbelievable! It's a MASSIVE ruby!
+Incredibile! » un rubino GIGANTESCO!
+It's an enormous sapphire. I can't believe my eyes.
+» un enorme zaffiro. Non riesco a credere ai miei occhi.
+They'll never believe me, back at the geology department.
+Al dipartimento di geologia non mi crederanno mai.
+Could not read parameter at position '%d'
+
+\"
+
+%d%d%d:%d%d
+
+Console history saved to file '%s'.
+
+Could not open file '%s'.
+
+TODO
+
+type 'exit' to close the console, or press Ctrl+C in debug mode
+
+quit
+
+Quiting...
+
+change_room
+
+usage : change_room room x y
+
+set_gi
+
+change_name
+
+walk_view
+
+display
+
+usage : display This is a message
+
+room_script
+
+Room script %d executed
+
+dump
+
+close
+
+change_npc_room
+
+Character %d (%s) moved to room %d at %d,  %d
+
+object_visible
+
+Error: Invalid Object specified: object %s
+
+false
+
+object_view
+
+Error: Invalid Object ID entered (%s)
+
+Error: Invalid View entered (%d)
+
+Object %d View set to %d
+
+object_animate
+
+Please enter a Loop
+
+Please enter a Delay
+
+object_move
+
+Invalid speed supplied: %d
+
+Object %d moved to (%d,%d) at speed %d
+
+walkable_enabled
+
+Error: No Walkable Area ID supplied
+
+Error: Invalid parameter supplied: %s
+
+char_properties
+
+AnimationSpeed %d, Baseline %d, IgnoreLighting %d
+
+IgnoreWalkbehinds %d,Transparency %d
+
+char_invquan
+
+Character %d has item %d in a quantity of %d
+
+char_setplayer
+
+New player is %s, old player is %s
+
+char_getplayer
+
+Player is '%s'.
+
+char_addinv
+
+Added item %d to %s
+
+char_loseinv
+
+Lost item %d from %s
+
+region_enabled
+
+Error: Enter a Region ID
+
+get_property
+
+hotspot
+
+character
+
+object
+
+Invalid parameter supplied: %s.
+
+%s %d property '%s' is %d
+
+get_textproperty
+
+%s %d property '%s' is '%s'
+
+room_property
+
+Please enter a Property name
+
+Room %d property '%s' is %d
+
+room_textproperty
+
+Room %d property '%s' is '%s'
+
+system
+
+Screen %d x %d
+
+Colour Depth %d and gamma %d
+
+AGS Engine version %s
+
+Direct3d
+
+DirectDraw
+
+Windowed
+
+Fullscreen
+
+dumpvars
+
+The values can be seen in the log file.
+
+set
+
+stored.
+
+Invalid parameter.
+
+get
+
+sets
+
+gets
+
+list_scripts
+
+*.oux
+
+No script found.
+
+%s   
+
+LIST OF ALL SCRIPTS
+
+[[Run 'call <scriptname>' to run it.
+
+call
+
+Please enter a script name
+
+Running script '%s'
+
+There is no script file '%s'
+
+End of '%s'
+
+xmlparse
+
+Please enter an xml file name
+
+Parsing xml file '%s'
+
+Error: There is no file named '%s'
+
+root
+
+Finished parsing '%s'. Now dumping.
+
+output.xml
+
+Finished dumping xml tree to '%s'. Now deleting tree.
+
+Deleted xml tree from memory. 
+
+upload
+
+usage: upload server port filename
+
+Please enter the name of the file to upload
+
+Please enter the target server for uploading
+
+Please enter the port for uploading
+
+Uploading file '%s' to server '%s':%s
+
+Error: not a valid port number '%s'
+
+this is a bug report test 00000
+
+Content-Length: %d\r\n\r\n
+
+?p=bugs
+
+POST %s HTTP/1.1\r\n
+
+Host: khris.agser.me\r\n
+
+Content-Type: application/x-www-form-urlencoded\r\n
+
+\r\n
+
+Finished uploading '%s'
+
+command not available. This version of the program does not have the upload plugin.
+
+exit
+
+help
+
+ALL COMMANDS:[%s
+
+Unknown command '%s'
+
+Game is paused. Player pressed key '%d' (char %c)
+
+Player clicked MouseButton %d in mode %d
+
+Interaction available
+
+No Interaction
+
+Player clicked InvItem %d (%s), %s
+
+Button
+
+Inventory
+
+Label
+
+ListBox
+
+Slider
+
+TextBox
+
+Player clicked GUI %d, Control %d (%s)
+
+Player clicked GUI %d, no Control
+
+Player clicked Character %d (%s)
+
+Player clicked Hotspot %d (%s)
+
+Player clicked Object %d (%s)
+
+Player clicked nothing at (%d,%d)
+
+Item %d added
+
+Item %d removed
+
+Player gets %d points
+
+(Old score: %d, current score %d)
+
+Player left room %d
+
+Player entered room %d
+
+Game restored from slot %d
+
+Dialog %d started
+
+Game saved to slot %d
+
+Not implemented
+
+Welcome to the AGS console ^_^[ 
+
+Cursor mode change to %d
+
+Run an external script
+
+Display variables window
+
+Help
+
+Scroll console up
+
+Scroll console down
+
+Show betatesters interface (pauses game)
+
+Click in the text area to start typing.
+
+OK
+
+Click on OK to discard this message.
+
+TextArea: WrapLine : ERROR: listbox cannot be null
+
+Starting line. word='%s', x_in_word='%d', column_in_word='%d'
+
+Dumpword: word_with_c='%s'
+
+full capacity
+
+!wordFits
+
+eol
+
+eof
+
+loop broken: word='%s', column_in_word[0]='%d'
+
+word='%s', length='%d', column_in_word[%d]='%d', x_in_word[%d]='%d'
+
+pos=%d
+
+???????????????????
+
+PLEASE NOTE: the maker of this [game used a font that does not [allow special characters.[[  All the special characters you [type in will be replaced with their [equivalent from the standard [ASCII set.[[  We recommend you contact the [maker of this game and request [from them that they start using [256-characters fonts, that's [more respectful of international [users.[[  You will see this warning only [once.
+
+???
+
+????
+
+This text area was not set up[to enable scrolling and it has[reached its maximum number[of lines.[Click on OK to go back to typing.
+
+on_key_press :ERROR: could not compute row height
+
+Forbidden character: please[do not type '%c' into this text[area.[[Note: That was set up by the[maker of the game, that's not[a restriction of the module.
+
+Forbidden character: please do not type \[ just after \\
+
+Text Area 0.92 module by Monsieur Ouxx.[[For AGS by Chris Jones[[Inspired by Text Area 0.0.1.1 by monkey_05_06
+
+TextAreas::SetFocus ERROR: cannot give focus to a text area if ListBox is not visible
+
+(column %d:line %d)
+
+findFreeTextArea : ERROR : no more available text areas. You must increase 'eTextArea_MaxAreas'
+
+ERROR: Text Areas : The listbox cannot be less than 20 px wide and %d high.
+
+|
+
+Cut
+
+Copy
+
+Paste
+
+ERROR: Text Areas: Scrollbar 'up' button cannot be displayed lower than the 'down' button. Please adjust your GUI first.
+
+Scroll up
+
+Scroll down
+
+Grab and drag to scroll
+
+About
+
+Bug::Find : ERROR : couldn't find bug with ID '%d' in the list
+
+Enter here bug description.
+
+Bug::NewBug : you need to increase 'MAXBUGS'
+
+Bug::SetText : wrong bug ID: '%d'
+
+Saving...
+
+Saved.
+
+bad_translation
+
+blocking_bug
+
+graphical_glitch
+
+missing_interaction
+
+unknown_type
+
+BugType_I : ERROR: unknown bug type '%s'
+
+bugslist
+
+bug
+
+id
+
+type
+
+author
+
+revision
+
+uid
+
+text
+
+line
+
+<br/>
+
+bugslist.xml
+
+Saved bugs list to '%s'.
+
+Please do as advised in the message you've just read.
+
+doc
+
+bt
+
+[T]
+
+[B]
+
+[G]
+
+[I]
+
+%s id=%d
+
+t_null
+
+bug_null
+
+text_null
+
+trunc_null
+
+\\%s (%d) %s
+
+Bug Tracker for AGS [by Monsieur Ouxx
+
+forbidden during a cutscene
+
+top: not implemented yet
+
+bottom: not implemented yet
+
+bad tester name (or could not save file)
+
+(%d,%d), %d
+
+<>
+
+Scroll Down
+
+Scroll Up
+
+Show or hide
+
+Show console
+
+New game-blocking bug
+
+New graphical glitch
+
+New missing interaction
+
+New bad translation
+
+Top of the list
+
+Bottom of the list
+
+Sort by ID
+
+Sort by type
+
+Save bugs to XML file
+
+Delete this bug
+
+%s CHANNEL1
+
+%s CHANNEL2
+
+Ambient\[%d of %d] dedicated to ambient sounds is playing the wrong clip on '%s'![[It means it got overwritten by another AudioClip.Play somewhere else.[[It might mean that you're playing too many sounds at a too high priority.[[Try no more than 2 ambient sounds at the same time.
+
+Ambient\[%d of %d] dedicated to ambient sounds is playing the wrong clip![[It means it got overwritten by another AudioClip.Play somewhere else.[[It might mean that you're playing too many sounds at a too high priority.[[Try no more than 2 ambient sounds at the same time.
+
+%s [More details: expected '%s', found '%s'.
+
+ERROR: too many ambient sounds, not enough free slots
+
+%s[ambients\[%d]  CHANNEL1=%s  CHANNEL2=%s
+
+%s[ambients\[%d]=%s
+
+ERROR in FindSlot: could not find audio channel playing AudioClip '%s'
+
+Already playing %d ambients. No more allowed, BIATCH!
+
+ERROR: Cannot play sound. It seems like a low-level issue (DirectSound?)
+
+AudioClip '%s' is not currently being played
+
+Audioclip::SetAmbientVolume : You tried to adjust the Ambient volume AudioClip '%s' which is not currently being played
+
+Sending %s to %d
+
+scrnshot.bmp
+
+Stop_Ambient_All()
+
+aSound3.Stop_Ambient()
+
+aSound3.Play_Ambient();
+
+There's no shame in being a Disney attorney! Bye bye!
+
+This button enanles Tap interface
+
+This Button enables Computer Interface
+
+This button enables 9 Verb Interface
+
+This button enables Verb Coin 
+
+This button mutes music
+
+This button mutes voices
+
+This button mutes sound effects
+
+Talk to
+
+Look at - unhandled
+
+Open - unhandled
+
+Close - unhandled
+
+Use - unhandled
+
+Push - unhandled
+
+Pull - unhandled
+
+Pick up - unhandled
+
+Give to - iPruningShears or unhandled
+
+I'm using the shears.
+
+Give to : Unhandled
+
+Use inv - iPruningShears or unhandled
+
+Unhandled
+
+It must belong at an officer.
+Deve appartenere a un ufficiale.
+Indy wears the Nazi suit
+Indy indossa l'uniforme nazista
+LastLineOfDialogNotSaidYet
+
+The dialog is finished!
+
+This line of dialog will be said no matter
+
+the soul
+l'anima
+the heart
+il cuore
+the verb
+il verbo
+Wrong value for 'side'.
+
+UNKNOWN (visit catacombs first)
+
+Catacombs Puzzle : bad modifier : %d
+
+%SIDENAME%
+
+zero
+zero
+one
+uno
+two
+due
+three
+tre
+four
+quattro
+five
+cinque
+six
+sei
+St. Luke
+St. Luke
+St. John
+St. John
+St. Thomas
+St. Thomas
+Error in generating Saint's name
+
+The verb has %s, the soul has %s. The last one has %s.
+Il verbo ne ha %s. L'anima ha ne %s. L'ultimo ne ha %s.
+And they saw that %SIDENAME% needed one more to please the Lord.
+E videro che %SIDENAME% necessitava di uno in pi˘ per volere di Dio.
+Let them add one to %SIDENAME%, said He.
+Aggiungetene uno a %SIDENAME%, Egli disse.
+The truth will be revealed to them if %SIDENAME% has one more.
+La verit‡ verr‡ rivelata solo qualora %SIDENAME% ne abbia uno in pi˘.
+'Forget this folly and remove one from %SIDENAME%.', He said to them.
+'Dimentica questa follia e aggiungi uno a %SIDENAME%.', Egli disse.
+The humility commands you to remove one from %SIDENAME%.
+L'umilt‡ richiede di togliere uno da %SIDENAME%.
+He looked and said: 'You chose that number for %SIDENAME%? That is one too many'.
+Egli guardÚ e disse: 'Hai scelto quel numero per %SIDENAME%? Ce n'Ë uno di troppo'.
+Wrong name  %s
+
+Wrong room object ID
+
+switch00
+
+switch01
+
+switch02
+
+switch03
+
+switch04
+
+Missing entity logic for %s
+
+steam00
+
+steam01
+
+steam02
+
+steam03
+
+steam04
+
+leak00
+
+steam05
+
+steam06
+
+steam07
+
+steam08
+
+steam09
+
+steam10
+
+steam11
+
+steam12
+
+Unknow entity type %d
+
+Entity not initialized : %d
+
+Not a valid state change for a switch
+
+Unknown type
+
+Not a switch state : %d
+
+Missing interaction with switch %d in the room (%s)
+
+Some sort of... spinning valve?
+» una sorta di... valvola rotante?
+Someone kept themselves busy upgrading Agsvald's toys.
+Qualcuno si Ë dato da fare ad aggiornare i giocattoli di Agsvald.
+I'd put my money on the priest and his family.
+Scommetto che Ë stata la famiglia del prete.
+This pipe got damaged. It has a small crack.
+Il tubo Ë stato danneggiato, c'Ë una piccola fessura.
+I can't use the gum, it's way too hot right now.
+Non posso usare la gomma, Ë troppo caldo adesso.
+I'm just glad Henry Jones senior can't see how I fixed this plumbing.
+Sono grato che Henry Jones Senior non possa vedere come ho riparato questa tubatura.
+Bad use of this function
+
+shieldLeft
+
+shieldMiddle
+
+shieldRight
+
+eyeLeft
+
+eyeMiddle
+
+eyeRight
+
+hasVisitedIceCave
+
+basin
+bacino
+Wrong object name: %s
+
+unknown entity type
+
+Invalid state for that type of entity : %d
+
+Wrong state
+
+Not authorized. Should have been blocked earlier by the interaction.
+
+There's a cavity in there. It's empty.
+C'Ë una cavit‡ lÏ, Ë vuota.
+I'll be taking that back.
+Me lo riprendo.
+There's already something in the cavity.
+C'Ë gi‡ qualcosa nella cavit‡.
+The gem fits perfectly.
+La gemma si incastra alla perfezione.
+New Button
+
+Congrats for finishing this demo!
+Complimenti per aver completato la demo!
+You now have access to the following extra features :
+Hai sbloccato l'accesso ai seguenti contenuti extra:
+This is the demo that was made in 2010 and definitely kick-started the project!
+Questa Ë la demo realizzata nel 2010 da cui l'intero progetto ha avuto inizio!
+Finish this demo first!
+Completa prima la demo!
+intro credits by:
+Titoli inziali di:
+RYAN TIMOTHY
+RYAN TIMOTHY
+Interface
+Interfaccia
+Sounds
+Suoni
+Display
+Display
+Controls
+Controlli
+Jukebox
+Jukebox
+Game Resume
+Riprendi il gioco
+9 verb
+
+Verb Coin
+
+Enable Swastikas
+Abilita Svastiche
+Nothing
+Niente
+Load
+Carica
+Cancel
+Annulla
+Options
+Opzioni
+Default
+
+Save
+Salva
+Quit
+Esci
+Resume
+Riprendi
+Music Volume
+Volume Musica
+Sound Effects Volume
+Volume Effetti
+v1.0
+
+Ambient sounds volume
+Suoni Ambientali
+Game Paused
+Gioco in Pausa
+Press <SPACE> to continue
+Premi <SPAZIO> per continuare
+Quit Game
+Esci dal gioco
+Are you sure you want to quit?
+Sei sicuro di voler uscire?
+Yes
+SÏ
+DISCLAIMER
+
+Proceed
+Procedi
+Quit game
+Esci dal gioco
+Indiana Jones and the relic of the Viking is a [freeware fan-made work of fiction based on cha-[racters now owned by The Walt Disney Company.[ [Our team of contributors are making this game [without receiving any kind of pay and we're not [affiliated with The Walt Disney Company, LucasArts [Entertainment Company, LLC or Paramount Pictures.[ [This is a 100% fan effort and no monetary profit[of any kind is or has been gained by the authors[of this game. This game is not to be sold by anyone.[ [No copyright infringement is intended.[ 
+Indiana Jones e la reliquia del Vichingo Ë un [lavoro di finzione gratuito e fan-made basato sui personaggi che adesso appartengono [alla The Walt Disney Company.[ [Il nostro team lavora su questo progetto [senza percepire alcun tipo di pagamento e non siamo [affiliati con la The Walt Disney Company, Lucasarts [Entertainment Company, LLC o Paramount Pictures.[Questo Ë interamente il frutto del lavoro di fan senza profitto monetario o di altro tipo da parte degli autori. [Questo gioco non puÚ essere venduto.[Nessuna infrazione di copyright Ë stata effettuata.[
+...and don't pester me with this message next time
+...e non scocciarmi al prossimo avvio!
+English
+
+Italiano
+
+Deutsch
+
+FranÁais
+
+The game is currently PAUSED. Press SPACE to continue.
+Il gioco Ë in PAUSA. Premi SPAZIO per continuare
+Comment out #TESTING in the script to disable this debug UI.
+
+Directly go there
+Vai lÏ direttamente
+Please pick a checkpoint from the list below and click on the button.
+Scegli un punto di salvataggio dalla lista sottostante.
+Also, no sound, please!
+Inoltre, basta suoni, grazie!
+2
+
+3
+
+New Label
+
+Text
+
+Seven Cities of Gold text editor
+
+aaa%%bbb
+
+Id
+
+T
+
+coolTip
+
+X
+
+\[
+
+Timers
+
+Named var
+
+Other var
+
+UltraVariables
+
+Tester, please enter your name
+
+You will be asked for this only once. Please enter [something short, without special characters. It [will appear in your bug reports.
+
+Go
+
+Verb
+
+Simple
+
+IMPORTANT MESSAGE
+
+You are now using the game files on Sync.com[[Do not add or remove any files in the AGS project on Dropbox. These files are now "dead" and anything you put there will be destroyed.
+
+Previous
+Precedente
+Next page
+Pagina seguente
+Exit
+Esci
+Page1
+Pagina 1
+Page2
+Pagina 2
+C:\7COG>
+
+C:\>cd 7COG
+
+INDY.EXE
+
+Loading...
+Caricamento...
+You have unlocked the bonuses![Wait for this credits sequence to end.
+Hai sbloccato i bonus![Attendi la fine dei titoli di coda.
+IndySuit2
+
+IndyClothes
+
+Marcus
+Marcus
+Narrator
+Narratore
+Reserved for Sound effects
+
+New character
+
+Spain truck
+camion spagnolo
+nazi
+nazi
+Monk
+monaco
+Agsvald
+Agsvald
+Can with food
+lattina di cibo
+Key Tool
+Chiave
+Pruning Shears
+cesoie
+Opened Can
+lattina aperta
+Unlit Torch
+torcia Spenta
+Lit Torch
+torcia Accesa
+Tar
+catrame
+Paddles
+remi
+long oar
+lungo Remo
+Donkey Tooth
+dente di asino
+Dead fly
+mosca morta
+Nazi Research Book
+libro di Ricerche Naziste
+Gold Watch
+orologio d'oro
+Sugar Cube
+cubetto di zucchero
+Shovel
+pala
+Cabinet Key
+chiave dell'armadietto
+chewed gum
+la gomma masticata
+bucket
+il secchio
+bucket of sea water
+il secchio di acqua di mare
+broom stick
+il bastone della scopa
+shovel head
+la testa della pala
+oil lamp
+la lampada a olio
+lighter
+l'accendino
+old hose
+il vecchio tubo
+large sapphire
+il grande zaffiro
+large yellow sapphire
+il grande zaffiro giallo
+large ruby
+il grande rubino
+Oil Can
+Lattina d'olio
+Office Key
+Chiave dell'ufficio
+Telegram
+Telegramma
+Tire Repair Kit
+Kit di riparazione per pneumatici
+Wallet
+Portafogli
+metal device
+attrezzo di metallo
+small tag
+piccola etichetta
+genuine hammer
+martello reale
+copy of hammer
+copia del martello
+Nazi Uniform
+Uniforme nazista
+Salvado's journal
+Diario di Salvado
+Relic
+Reliquia
+Sorry, not now.
+Spiacente, non adesso.
+Restore
+Carica
+Select a game to restore:
+Seleziona il gioco da caricare:
+Type a name to save as:
+Digita un nome per il salvataggio:
+Replace
+Sostituisci
+The save directory is full. You must replace an existing game:
+La cartella di salvataggio Ë piena, devi sostituire un salvataggio:
+Replace:
+Rimpiazza:
+With:
+Con:
+Play
+Gioco
+You are carrying nothing.
+Non hai niente nell'inventario.
+Talking to yourself is a sign of madness!
+Parlare con te stesso Ë segno di pazzia!
+You rub your hands up and down your clothes.
+Strofini le mani sui tuoi vestiti.
+I'm looking good today!
+Oggi sono uno splendore!
+Hotspot 4
+
+Hotspot 5
+
+Hotspot 6
+
+Hotspot 7
+
+Hotspot 8
+
+Hotspot 9
+
+Hotspot 10
+
+Hotspot 11
+
+Hotspot 12
+
+Hotspot 13
+
+Hotspot 14
+
+Hotspot 15
+
+Hotspot 16
+
+Hotspot 17
+
+Hotspot 18
+
+Hotspot 19
+
+Hotspot 20
+
+Hotspot 21
+
+Hotspot 22
+
+Hotspot 23
+
+Hotspot 24
+
+Hotspot 25
+
+Hotspot 26
+
+Hotspot 27
+
+Hotspot 28
+
+Hotspot 29
+
+Hotspot 30
+
+Hotspot 31
+
+Hotspot 32
+
+Hotspot 33
+
+Hotspot 34
+
+Hotspot 35
+
+Hotspot 36
+
+Hotspot 37
+
+Hotspot 38
+
+Hotspot 39
+
+Hotspot 40
+
+Hotspot 41
+
+Hotspot 42
+
+Hotspot 43
+
+Hotspot 44
+
+Hotspot 45
+
+Hotspot 46
+
+Hotspot 47
+
+Hotspot 48
+
+Hotspot 49
+
+INDIANA JONES AND THE RELIC OF THE VIKING
+INDIANA JONES E LA RELIQUIA DEL VICHINGO
+By the Seven cities of gold team
+Sviluppato da: Seven cities of gold team
+THIS FEATURETTE BY
+INTRODUZIONE DI
+Monsieur Ouxx[Charalampos Papadopoulos[Selmiak
+Monsieur Ouxx[Charalampos Papadopoulos[Selmiak
+STORY BY
+STORIA DI
+BACKGROUND ART BY
+SFONDI DI
+Monsieur Ouxx[Selmiak[Tolga Ocek
+Monsieur Ouxx[Selmiak[Tolga Ocek
+SPRITE AND ANIMATIONS BY
+SPRITE E ANIMAZIONI DI
+Monsieur Ouxx[ProgZmax[Selmiak[Jag
+Monsieur Ouxx[ProgZmax[Selmiak[Jag
+Amelie[Trample Pie[CaesarCub[Hans
+Amelie[Trample Pie[CaesarCub[Hans
+MUSIC BY
+MUSICA DI
+Drew CU[Victor Parejo Medina[Dualnames
+Drew CU[Victor Parejo Medina[Dualnames
+SCRIPTING BY
+SCRIPTING DI
+Monsieur Ouxx[Charalampos Papadopoulos
+Monsieur Ouxx[Charalampos Papadopoulos
+EXTRA SCRIPTING BY
+EXTRA SCRIPTING DI
+H. Diot[Abstauber[Edmundito[SSH
+H. Diot[Abstauber[Edmundito[SSH
+Khris[Ryan Timothy[Spyros[Proskrito
+Khris[Ryan Timothy[Spyros[Proskrito
+Hedgefield[Ashen
+Hedgefield[Ashen
+BETA TESTING BY
+BETA TESTING DI
+Cassiebsg[Ricky Derocher[Selmiak
+Cassiebsg[Ricky Derocher[Selmiak
+FONTS BY
+FONTS DI
+Rulaman[Lucasfan[Monsieur Ouxx
+Rulaman[Lucasfan[Monsieur Ouxx
+PROJECT COORDINATION & RESEARCH
+COORDINAMENTO & RICERCA
+WEBSITE BY
+SITO WEB DI
+Monsieur Ouxx[Selmiak
+Monsieur Ouxx[Selmiak
+FORUMS AND HOSTING BY
+FORUMS E HOSTING DI
+Selmiak[Ricky Derocher[cbm8bit
+Selmiak[Ricky Derocher[cbm8bit
+SOCIAL NETWORKS
+SOCIAL NETWORKS
+Charalampos Papadopoulos[Monsieur Ouxx
+Charalampos Papadopoulos[Monsieur Ouxx
+AGS ENGINE BY
+AGS ENGINE DI
+Chris Jones[Ivan Mogilko[Sonneveld[Morgan Willcock
+Chris Jones[Ivan Mogilko[Sonneveld[Morgan Willcock
+Tobihan[Gurok[Monkey0506[Tzachs
+Tobihan[Gurok[Monkey0506[Tzachs
+rofl0r
+rofl0r
+SPECIAL THANKS TO
+RINGRAZIAMENTI A
+Ron Gilbert[Hal Barwood[Chris Jones[Ivan Mogilko
+Ron Gilbert[Hal Barwood[Chris Jones[Ivan Mogilko
+Click to go back[to main menu!
+Click per ritornare[al menu principale!
+No hotspot
+
+Click Screen!
+
+Hotspot 2
+
+Hotspot 3
+
+Hotspot 1
+
+I should probably put in a word for a new one.
+Probabilmente dovrei dire qualcosa.
+I have better things to do than rehearsing my course.
+Ho cose migliori da fare.
+This isn't some secret passage leading to a crazed genius who creates evil mutant tentacles.
+Questo non Ë un passaggio segreto che conduce a un genio del male che crea tentacoli malvagi.
+I read that in 'Detective Illustrated' at the barber's.
+L'ho letto sul "Detective Illustrates" dal parrucchiere.
+I'm done for today.
+Ho finito per oggi.
+It's flat, and it has drawers. It's a desk.
+» piatto e ha dei cassetti. » una scrivania.
+I don't think there is anything else in it.
+Non credo che ci sia altro.
+I don't think there is anything in that drawer that can help.
+Non credo che ci sia niente di utile nella scrivania.
+Wait! There is a small tag. I don't recall putting it in here.
+Aspetta! C'Ë una piccola etichetta! Non mi ricordo di avercela messa.
+I'll take it.
+La Prendo.
+I have more urgent matters to attend to, right now.
+Ho problemi pi˘ urgenti di cui preoccuparmi, al momento.
+I don't want to pull that.
+Non intendo premerlo.
+That wouldn't work.
+Non funzionerebbe.
+I have nothing to add to the billboard.
+Non ho niente da aggiungere al tabellone.
+It can't be opened.
+Non puÚ essere aperto.
+It can't be closed.
+Non puÚ essere chiuso.
+It's a billboard.
+» un tabellone.
+FOR SALE: 1938 Packard. Call Frank.
+IN VENDITA: Packard del 1938. Telefonare a Frank.
+Debate this Monday Night - The Holy Grail: Myth or Reality?
+Questo lunedÏ Dibattito: Il Santo Graal - Mito o Realt‡?
+I think I know the answer to that question...
+Conosco la risposta a questa domanda...
+This space is for rent. Contact R. Derocher.
+Questo spazio Ë affittabile. Contattare R. Derocher.
+WANTED: Gas for a chainsaw. Call Dave.
+CERCO: Carburante per motoseghe. Chiamare Dave.
+Vote Gracie Allen for President.
+Vota Gracie Allen per la presidenza.
+Meeting of Barnett Shakespeare Society this Tuesday in the auditorium.
+Meeting della Barnett Shakespeare Society lunedÏ nell'auditorium.
+FOR SALE: Collection of Buck Rogers comic books. Call Earl.
+IN VENDITA: Collezione di fumetti di Buck Rogers. Chiamare Earl.
+WANTED: Lab Assistant. Good pay. No questions asked. Call Doctor Fred.
+CERCO: Assistente di laboratorio. Buona paga. Nessuna domanda. Contattare il Doctor Fred.
+Movie Saturday night: Robin Hood starring Errol Flynn.
+Film del sabato sera: Robin Hood con Errol Flynn.
+It's too heavy to lift.
+» troppo pesante.
+A billboard that talks? Now that's a novel concept.
+Un tabellone che parla? » un concetto nuovo.
+I have a feeling that won't work.
+Credo che non funzionerebbe.
+Let's see if there is anything interesting back there.
+Vediamo se c'Ë qualcosa di interessante laggi˘.
+Nope. What did I expect to find in an empty classroom?
+Niente. Che mi aspettavo di trovare in un'aula vuota?
+eDialog_StudentsPuzzleFullyResolved
+
+Professor!
+Professore!
+Where are you going?
+Dove stai andando?
+Are you even listening to us?
+Ci stai ascoltando?
+We need an answer!
+Ci servono risposte!
+Yes, yes, of course I'm listening. I'm not leaving before we find a solution together.
+SÏ, sÏ, certo che vi sto ascoltando. Non me ne andrÚ finchË non avrÚ una risposta.
+Someone left that artifact on my desk before the class.
+Qualcuno ha lasciato quell'artefatto sulla mia cattedra prima della lezione.
+Probably Irene, my secretary.
+Probabilmente Irene, la mia segretaria.
+I suppose a colleague of mine thought it would be of interest for me.
+Uno dei miei colleghi deve aver pensato che potesse interessarmi.
+FOR SALE: A math hand book. Will sell for $50,[ or trade for new slide rule.
+IN VENDITA: Libro di matematica. Lo vedo per $50,[ o scambio con un righello nuovo.
+It's the telegraph from Marcus. It says to meet him in Arizona.
+» il telegramma di Marcus, dice di incontrarlo in Arizona.
+It's the key to my office.
+» la chiave del mio ufficio.
+Chalk Board
+Lavagna
+Indy's Desk
+Scrivania di Indy
+Billboard
+Tabellone
+The back of the room
+Retro della stanza
+Door
+Porta
+... This stone artifact was discovered in my class dig.
+... Questo artefatto di pietra Ë stato ritrovato nel mio scavo di classe.
+Several other Aborigine artifacts were discovered in the dig.
+Diversi altri artefatti Aborigeni furono ritrovati in quello scavo.
+Now the dig wasn't a major dig and the artifacts we discovered were not major finds...
+Non si trattava di uno scavo principale e molti degli oggetti ritrovati non erano di valore...
+But each piece of history that archeology can uncover is important in the large scale of things...
+Ma ogni singolo ritrovamento dell'Archeologia Ë un tassello importante nella grande scala delle cose...
+Every clue to man's past is a vital piece of knowledge.
+Ogni indizio sul passato di un uomo Ë un elemento fondamentale...
+  %s
+
+[  
+
+Current flags are: [%s
+
+This screen is meant for testing fonts in several languages.
+
+Please note that it only tests TTF fonts (that support UTF-8 characters).
+
+(In other words: it only tests native multilingual fonts)
+
+The bits of text that you will see were entered 'as-is' in AGS' script editor.
+
+AGS' script editor does support UTF-8 encoding. The question is : does this font too?
+
+FRENCH TESTS
+
+Current font: '%d'
+
+Can you see all special characters in the following sentence?
+
+REMOVED FROM THE DEMO
+
+please update script to latest textarea version
+
+lol
+
+the mirrors module has been disabled in this demo. You need to recreate cMirror1, cMirror2, cMirror3 if you need to use it. Then you need to uncomment 'Mirrors2.AddMirrorChar(cMirror1);' in mirrors_2.0.asc
+
+Press 'i' for scroll lock info.
+
+unhandled
+
+Give to : unhandled
+
+Object
+
+Unknown checkpoint: %d
+
+Hey yo, Mr. White!
+Hey yo, Signor White!
+Imma make some badass pixel-art.
+Sto creando della pixel-art da paura.
+Let's start cooking, BITCH.
+Iniziamo a cucinare, BITCH.
+I can't walk out, they're blocking the door. And they seem pretty decided.
+Non riesco a uscire. Stanno bloccando la porta. Sembrano molto decisi.
+I'll just take it.
+Lo prendo io.
+I can't give to that.
+Capisco.
+As much fun as it would be to push the desk and give myself a back spasm, I think I'll pass.
+Certo, sarebbe divertente spingere la scrivania e rompermi la schiena, ma credo che ne farÚ a meno.
+desk
+la scrivania
+door
+la porta
+There is already a WaitNoBlock going on.
+
+Ugh...
+Ugh...
+All in an day's work for an archeologist.
+» dura, la vita di un archeologo.
+Now I better find that relic.
+Adesso devo trovare quella reliquia.
+*CLICK*
+*CLICK*
+STOP RIGHT THERE, THIEF!
+FERMO LA', LADRO!
+Norway, here I come!
+Norvegia, arrivo!
+*tap*
+*tap*
+*rattle* *rattle* *rattle*
+*rattle* *rattle* *rattle*
+*RATTLE*
+*RATTLE*
+*tap* *TAP* *TAP*
+*tap* *TAP* *TAP*
+Oof!
+Oof!
+*WOOSH*
+*WOOSH*
+Yagh!
+Yagh!
+*BANG*
+*BANG*
+Tinted glass
+Antica vetrata
+Reliquary
+Reliquiario
+That's an impressive pile of bones.
+» un notevole mucchio di ossa.
+A tinted glass? Underground?
+Una vetrata? Sotto terra?
+It's open now.
+Adesso Ë aperto.
+That was too close for my comfort.
+» stato un viaggio niente male.
+I'm not going back there before I find the relic.
+Non ho intenzione di tornare indietro finchÈ non avrÚ trovato la reliquia.
+Enter the elusive reliquary.
+Ed ecco qua il reliquiario nascosto.
+Let's snatch this thing before I get into any more trouble.
+PrenderÚ la reliquia e sparirÚ prima di avere altri problemi.
+Reliquaries usually contain bogus body parts.
+I reliquiari spesso contengono organi fasulli.
+I wonder what this one actually contains?
+Mi domando cosa contenga questo?
+Those look pretty steady.
+Sembrano piuttosto resistenti.
+I don't think they're hiding anything.
+Non credo nascondano alcunchÈ.
+I hope that mine won't end up there.
+Spero che il mio non finisca tra quelli.
+I don't see anything special there.
+Non mi sembra ci sia niente di speciale.
+I don't think it can be pushed or moved.
+Non puÚ essere premuto o spostato.
+It's just painted on.
+» solo dipinto.
+I've seen this symbol before.
+Ho gi‡ visto questo simbolo.
+But where?
+Ma dove?
+Pile of bones
+Mucchio di ossa
+Passageway
+Passaggio
+Loose skull
+Teschio attivabile
+Timbering
+Travi
+Skulls
+Teschi
+Stalls
+Loculi
+Symbol
+Simbolo
+This is a thingie
+Una cosuccia.
+His name is written around his head.
+Il suo nome Ë scritto attorno alla testa.
+It appears to be %s.
+Sembra che sia %s.
+He's the one whose words I should follow.
+'Colui la cui parola dice il vero'.
+DEBUG: you need to visit the catacombs room at least once.
+DEBUG: you need to visit the catacombs room at least once.
+The scroll says:
+La pergamena dice:
+Head
+Testa
+Scroll
+Pergamena
+I hope the trip was worth it.
+Spero che ne sia valsa davvero la pena di viaggiare fin qui.
+The door is unlocked.
+La porta Ë sbloccata.
+That makes no sense.
+Non ha senso.
+A large pile of half-frozen snow has cluttered the old iron door.
+Un mucchio di neve mezza congelata ha bloccato l'antico portello di metallo.
+No, there is no time for snowballing.
+Non ho tempo per le palle di neve.
+Usually I pay some kids to shovel the snow off my sidewalk.
+Di solito pago dei ragazzini per togliere la neve dal mio vialetto.
+Phew!
+Phew!
+I can get snow anywhere, but I don't think I need fresh water.
+C'Ë neve ovunque, ma non ho bisogno di acqua fresca.
+Can you imagine how much salt water I'd need to melt that much snow?
+Mi servirebbe fin troppa acqua salata per sciogliere tutta quella neve.
+That wouldn't work: The snow is slightly frozen and the oar is far from sharp.
+Non funzionerebbe, la neve Ë quasi congelata Ë il remo non Ë nemmeno appuntito.
+eDialog_DoorState
+
+It seems to have some ornament on the inside. Strange!
+Sembra che sia ornato al suo interno. Strano!
+The angle's not right, I don't see anything. I'd need to open it.
+La fessura Ë troppo stretta, non riesco a vedere niente. Dovrei aprire di pi˘.
+There. It's still awfully rusty but at least it's not welded shut.
+Ecco qua. » tremendamente arrugginito, ma almeno non Ë pi˘ bloccato.
+eDialog_hasDoorBeenOiled
+
+Hey, this oar is probably over a thousand years old. I won't use it as a lever!
+Ehi, questo remo sar‡ vecchio centinaia di anni, non intendo utilizzarlo come leva!
+It would surely break it.
+Si romperebbe sicuramente.
+This door is completely gripped! It won't move at all.
+Il portello Ë completamente bloccato, non si muove di un millimetro.
+eDialog_DoorCounter
+
+Hmmm, it's getting better. Let's do it again.
+Hmmm, gi‡ meglio. Facciamolo di nuovo.
+I think it's time for a final pull instead.
+Credo che sia il momento di tirare un'ultima volta.
+It's very rusty, it got stuck half-way. I might loosen it with some efforts.
+» molto arrugginito. Si Ë bloccato a met‡ strada. Potrebbe allentarsi insistendo un po'.
+Almost there. One of the hinges is crumbling away though.
+Ci siamo quasi. Una delle cerniere sta per cedere perÚ.
+It won't open further. I need to continue making it move in either direction.
+Non va oltre. Devo continuare a muoverlo in entrambe le direzioni.
+OK, one final push should do it!
+Ok, un'ultima spinta e ci siamo!
+*CLUNK!*
+*CLUNK!*
+*CRACK!*
+*CRACK!*
+I'm just glad it didn't fall on my feet.
+Sono felice che non mi sia caduta su un piede.
+eDialog_IceCrackOpened
+
+I should try to get rid of that ice.
+Dovrei cercare di togliere quel ghiaccio.
+I see someone rummaging inside, but whoever it is they don't notice me.
+C'Ë qualcuno che armeggia l‡ dentro ma non mi ha notato.
+AHOY! ANYONE ON BOARD?
+AHOY! C'» NESSUNO A BORDO?
+Hva er det?
+Hva er det?
+hasHelpedFisherman
+
+Look, I found the hose you were asking for.
+Guarda, ho trovato il tubo che mi avevi chiesto.
+Wonderful! Let me try my little experiment.
+Ottimo, lascia che proceda con il mio piccolo esperimento.
+*CLANG!*
+*CLANG!*
+*BONK!*
+*BONK!*
+It works!
+Funziona!
+Thank you mister!
+Grazie infinite!
+Now, tell me. How can I help you?
+Ora dimmi, come posso aiutarti?
+Tusen takk again for helping me! I'm confident I can sail away tomorrow at dawn.
+Tusen takk di nuovo per avermi aiutato. Sono certo che potrÚ salpare domani mattina all'alba.
+Shaking the boat will only make them hostile. Why not just call?
+Scuotere la barca potrebbe renderlo ostile. Potrei provare a chiamarlo.
+The boat is surely open already, but there's someone inside.
+L'imbarcazione Ë gi‡ aperta. C'Ë qualcuno dentro.
+Why not just call?
+PerchÈ non chiamare a basta?
+There are a few houses and buildings but I wonder where is everyone.
+Ci sono alcune case ed edifici. Mi domando dove siano le persone.
+The sea seems pretty still.
+Il mare sembra piuttosto calmo.
+The bucket is already full.
+Il secchio Ë gi‡ pieno
+It's one of those medieval Scandinavian churches, entirely made of wood.
+» una di quelle antiche chiese scandinave medievali interamente realizzate in legno.
+It's exceptionally well preserved.
+Ed Ë conservata in condizioni superbe.
+Even though it's technically christian, I'm certain Vikings were still around when it was built.
+Anche se Ë tecnicamente Cristiana, sono certo che ci fossero ancora i vichinghi quando fu costruita.
+Found it!
+Ecco qua!
+There's a TON of junk in there, but it's too dark.
+C'Ë un SACCO di roba l‡ dentro, ma Ë troppo buio.
+A lighter is not bright enough to search through it.
+L'accendino non fa abbastanza luce per cercare l‡ dentro.
+There's a lot of useless junk in there.
+C'Ë un sacco di ciarpame inutile l‡ dentro.
+That wasn't easy.
+Non Ë stato facile.
+I also found a shovel head. Not brand new but still good.
+Ho trovato anche una testa di pala. » vecchia, ma ancora utilizzabile.
+I don't think I'll find anything useful anymore in there.
+Non credo ci sia altro di utile la dentro.
+Those old storehouses can be found everywhere.
+Ci sono vecchi magazzini come quello un po' ovunque.
+Scandinavians would preserve salted meet and other goods in them.
+Gli scandinavi ci conservavano la carne sotto sale e altri viveri.
+I'd say it was a furnace or an oven. It's OLD.
+Credo che fosse un forno o una fornace. » ANTICO.
+But it looks like it burnt very recently.
+Ma sembra che sia arso di recente.
+There are just some remains of this so called building.
+Rimane ben poco di ciÚ che un tempo era un edificio.
+I don't want to destroy this completely!
+Non intendo distruggerlo completamente!
+No doubt, there used to be some Vikings nearby.
+Senza dubbio c'erano dei vichinghi nei paraggi.
+Why should I wandering around with that stone at my back?
+Non vedo perchË dovrei portarmi dietro una pietra di quelle dimensioni?
+If I didn't know better, I'd say this stone looks like... An ancient pipe?
+Questa pietra sembrerebbe quasi una sorta di... antica tubatura?
+I pops straight out of the ice wall... And back again into the ground, to God knows where.
+Spunta fuori da questa parete di ghiaccio e termina chiss‡ dove.
+It's a huge stone literally popping out of the mountain.
+» una grossa pietra che sbuca fuori dalla montagna.
+There's something going on behind that wall.
+C'Ë sicuramente qualcosa dietro a quel muro.
+My fiddling with the pipes did something!
+Sembra che sia successo qualcosa!
+This steam is going somewhere.
+Questo vapore finisce da qualche parte.
+Let's have a closer look...
+Diamo un'occhiata da vicino...
+It's made of massive font... Let's leave it here.
+» gigantesco... Lasciamolo stare.
+path to moutain
+la strada per la montagna
+path to fjord
+la strada per il fiordo
+church entrance
+l'entrata della chiesa
+Path to harbour
+la strada per il porto
+path to church
+la strada per la chiesa
+small ship
+la piccola nave
+fishermens village
+il villaggio di pescatori
+sea
+il mare
+wooden church
+la chiesa di legno
+old storehouse
+il vecchio magazzino
+structure
+la struttura
+carved stone
+la pietra intagliata
+man-made stone
+la pietra lavorata
+pile of snow
+il mucchio di neve
+metal door
+il portello di metallo
+crack
+la spaccatura
+steam
+il vapore
+Hey! What's the rush?
+Ehi, che fretta c'Ë?
+Oh well.
+Oh, al diavolo.
+HAPPY NEW YEAR TO ALL OF YOU FROM THE SEVEN CITIES DEVELOPMENT TEAM!
+FELICE ANNO NUOVO A TUTTI DAL TEAM DI SVILUPPO DI SEVEN CITIES!
+THE END
+FINE
+WHO DARES WAKING ME FROM MY ETERNAL SLUMBER?
+CHI OSA DESTARMI DAL MIO SONNO ETERNO?
+Uh oh!
+Uh oh!
+I'm afraid that was me, Agsvald!
+Sono stato io, Agsvald!
+DO YOU KNOW MY NAME?
+CONOSCI IL MIO NOME?
+Well yes, you wrote it for me.
+Beh sÏ, l'ho trovato scritto.
+Do you remember now?
+Ricordi adesso?
+IF I HAD TO REMEMBER ALL THE PLACES WHERE I WROTE MY NAME!
+COME SE POTESSI RICORDARMI TUTTI I POSTI IN CUI HO SCRITTO IL MIO NOME!
+That's not a very dignified answer...
+Non Ë una risposta molto dignitosa...
+I'VE ALWAYS FOUND LOKI MORE INSPIRATIONAL THAN ODIN.
+HO SEMPRE TROVATO LOKI MIGLIORE DI ODINO.
+No kidding.
+Non mi dire.
+DID YOU COME LOOKING AFTER YOUR SHIELDLESS GOD?
+SEI VENUTO A CERCARE IL TUO DIO SENZA SCUDO?
+Well now it doesn't seem that important anymore.
+Beh, non sembra pi˘ cosÏ importante, adesso.
+HA! HA! HA!
+HA! HA! HA!
+Easy there, Nur-Ab-Sal.
+Vacci piano, Nur-Ab-Sal.
+NUR AB WHO?
+NUR AB CHI?
+TONIGHT IS A VERY SPECIAL NIGHT!
+QUESTA » UNA NOTTE DAVVERO SPECIALE!
+IT WILL BE THE LONGEST NIGHT OF THE YEAR.
+SARA' LA NOTTE PIU LUNGA DELL'ANNO.
+So?
+Quindi?
+THIS MUST BE CELEBRATED, AS IT HAS ALWAYS BEEN.
+DEVE ESSERE CELEBRATA ADEGUATAMENTE.
+With flowers and dances?
+Con fiori e balli?
+NO, WITH BEER AND DRUNKEN SINGING.
+NO, CON BIRRA E CORI DA UBRIACHI.
+I MUST GO NOW, THEY ARE ALL WAITING FOR ME.
+DEVO ANDARE ADESSO, MI STANNO ASPETTANDO.
+HO HO HO!
+HO HO HO!
+I should go downstairs to do that.
+Dovrei scendere al piano di sotto per farlo.
+It's an ancient baptism font. I guess it had a different purpose in Viking times.
+» un vecchio bacino battesimale. Credo che al tempo dei vichinghi avesse uno scopo differente.
+It's right in front of that curved line on the floor.
+Si trova di fronte a quella linea ricurva sul pavimento.
+The bucket is empty. I'm no magician.
+Il secchio Ë vuoto, non sono un mago.
+It's a handwritten note pinned to the wall.
+» una nota scritta a mano attaccata al muro.
+It says : 'The key is behind the cross'.
+Dice: 'La chiave Ë dietro alla croce'.
+I don't see any cross.
+Non vedo alcuna croce.
+This one represents the resurrection of Jesus.
+Questo rappresenta la resurrezione di Ges˘.
+It's worthless.
+» senza valore.
+This one represents Jesus being crucified.
+Questo rappresenta la crocifissione di Ges˘.
+Hey! There's a small key taped behind the painting!
+Ehi! C'Ë una piccola chiave qua dietro!
+I've already taken the key.
+Ho gi‡ preso la chiave.
+This one represents a Roman soldier putting a crown of thorns on Jesus' head.
+Questo rappresenta un soldato romano che mette la corona di spine sulla testa di Ges˘.
+This one represents Jesus healing the lepers.
+Questo rappresenta Ges˘ che cura i lebbrosi.
+This one represents Joseph of Arimathea collecting the blood of Jesus in the Grail.
+Questo rappresenta Giuseppe di Arimatea che raccoglie il sangue di Cristo nel sacro Graal.
+hasTakenBucket
+
+hasTakenBroomStick
+
+isCabinetDoorOpen
+
+hasUnlockedCabinet
+
+A thick wooden door. How authentic.
+Una porta di legno spessa. Molto rurale.
+It's already open
+» gi‡ aperta
+The door is locked.
+La porta Ë chiusa a chiave.
+It's already closed
+» gi‡ chiusa
+It fits.
+Ci entra.
+these stairs lead to the balcony.
+Queste scale conducono alla balconata.
+I should go upstairs to do that.
+Dovrei salire al piano di sopra per farlo.
+These stairs lead to the ground floor.
+Queste scale conducono al piano terra.
+hasTakenGum
+
+My parents made me sit countless hours on those church benches.
+I miei genitori mi facevano sedere per ore sulle panchine della chiesa.
+I remember how rugged the wood felt.
+Ricordo bene quanto era ruvido il legno.
+Yuck! There's a gum glued to it!
+Che schifo! C'Ë una gomma appiccicata qua sotto!
+It's one of those awful old 'gums' made of chewed bark.
+» una di quelle vecchie "gomme" fatte di corteccia.
+Oh well, now that I've touched it.
+Oh beh, ormai l'ho toccata.
+I'm not starting a collection of old chewing gum, thanks.
+Non intendo iniziare una collezione di vecchie gomme da masticare, grazie.
+Gross.
+Che schifo.
+A rowing paddle. Not too surprising when everyone here is a fisherman.
+Un remo. Non c'Ë da stupirsi, sono tutti pescatori qua in zona.
+It seems in good shape.
+Sembra in buone condizioni.
+Why not.
+PerchÈ no?
+I used an old technique for efficient packing.
+Ho usato una antica tecnica per l'imballaggio.
+It was invented by pirates in the Caribbeans.
+Fu inventata da alcuni pirati dei Caraibi.
+A medieval shield used as a decoration.
+Uno scudo decorativo medievale.
+That's weird. The shield seems to be attached to an axis.
+Strano. Sembra che lo scudo sia attaccato ad un asse.
+This stelle has drawings of fog horns on it.
+Questa stele Ë ornata con disegni di corni da nebbia.
+There's a hole carved into each drawing. They seem to be running deep.
+C'Ë un buco al centro di ciascun disegno, sembrano profondi.
+Wow!
+Wow!
+POOOOOOOO
+POOOOOOOO
+Agsvald's fog horns! Alright!
+I corni da nebbia di Agsvald!
+pshhhhh...
+pshhhhh...
+Umph. It doesn't sound like a proper melody?
+Beh, non sembra la melodia giusta.
+Some sea water mist!
+Ed ecco la nebbia sull'acqua del mare!
+*Crrrrrrr*
+*Crrrrrrr*
+It's like they're moving along a wave! Perfect!
+Sembra che si muovano come un'onda! Perfetto!
+They're just clunking but nothing good seems to be happening.
+Stanno sbattendo ma non sembra che accada niente.
+The dragon is coming to life!
+Il drago sta prendendo vita!
+Something is not quite triggering there.
+Qualcosa non ha funzionato nel modo giusto.
+The stone is very hot, but... Not mist at all.
+La pietra Ë molto calda, ma... Non c'Ë nebbia.
+Pretty disappointing.
+Piuttosto deludente.
+I have a hunch that's not just an art installment.
+Ho la sensazione che non sia solo una decorazione.
+Well, at least SOME of it seemed correct.
+Beh, almeno UNA PARTE sembra essere corretta.
+I need to make this thing work!
+Devo riuscire a far funzionare questa cosa.
+This dragon has an unusually long tongue.
+Questo drago ha una lingua piuttosto lunga.
+I can't pick it up entirely but it seems to be able to slide.
+Non riesco a prenderla, ma sembra che possa scorrere.
+Nothing happened.
+Non Ë successo niente.
+I don't see the mop.
+Non vedo stracci.
+There's a small oil lamp resting on the basin.
+C'Ë una piccola lampada a olio sul bordo del bacino.
+I was sent by church representatives, after all.
+Sono in missione per conto della Chiesa, dopo tutto.
+There's only the stick, the rest is missing.
+» solo un bastone, manca il resto.
+This is a massive dragon head carved in wood.
+» un gigantesco drago di legno scolpito.
+It still has tiny seashells here and there.
+Ha ancora delle piccole conchiglie attaccate qua e l‡.
+I think it could have been at the front of a Viking longboat.
+Credo che fosse la polena di una nave da guerra vichinga.
+It won't budge.
+Non si muove.
+I'm too far away.
+Sono troppo lontano.
+It seems like my fiddling with the pipes did something after all.
+Sembra che armeggiare con le tubature sia servito, in fin dei conti.
+Just the striking plate to the door's lock.
+» la piastra della serratura.
+A secret compartment just opened at the back of the cabinet!
+Si Ë aperto uno scompartimento segreto sul retro!
+WOW! It contains two huge gems!
+WOW! Contiene due enormi gemme!
+I believe this church holds many secrets.
+Credo che questa chiesa contenga molti segreti.
+I think there's nothing more here.
+Non credo che ci sia dell'altro qua dentro.
+note
+la nota
+painting
+il dipinto
+stairs
+le scale
+bench
+la panchina
+stone
+la pietra
+dragon head
+la testa di drago
+font
+la fonte
+rowing paddle
+il remo
+shield
+lo scudo
+tongue
+la lingua
+door lock
+la serratura
+dragon's left eye
+l'occhio sinistro del drago
+dragon's right eye
+l'occhio destro del drago
+dragon's forehead
+la fronte del drago
+Nissefest, here I am.
+Eccomi qua, Nissefest.
+Lines
+Linee
+A star represents the soul. I've never seen that before.
+Una stella che rappresenta l'anima. Molto originale.
+The drawing is lacking some details but that's definitely the one.
+Manca qualche dettaglio, ma Ë senz'altro lui.
+Marcus confirmed my translation. Everything is OK.
+Marcus ha confermato la traduzione. » tutto ok.
+It says here:
+Qui dice:
+I'm certain that this relic is hidden in this crypt.
+Sono sicuro che la reliquia sia nascosta in questa cripta.
+...But where?
+...Ma dove?
+Drawing
+Disegno
+The soul
+L'anima
+Note
+Nota
+Saint's head
+Testa del santo
+Those are very condensed runes, but it's along the lines of:
+Sono rune molto piccole ma sembrano dire:
+'Agsvald's ship sails away in the morning mist,'
+'La nave di Agsvald salpa nella foschia del mattino'
+'All shields readied',
+'Con gli scudi pronti',
+'War horns playing his battle tune.'
+'Con i corni che suonano il suo inno di battaglia.'
+It looks suspiciously identical to the dragon head in the church.
+Sembra sospettosamente simile alla testa di drago nella chiesa.
+This rune is a letter but it also means 'Sun'.
+Questa runa Ë una lettera ma significa anche 'Sole'.
+This rune is a letter but it also means 'Sea'.
+Questa runa Ë una lettera ma significa anche 'Mare'.
+This rune is a letter but it also means 'Blood'.
+Questa runa Ë una lettera ma significa anche 'Sangue'.
+rune
+la runa
+dragon
+il drago
+inscription
+l'iscrizione
+Talk about tantalizing!
+» stupefacente!
+Climbing up a steep wall made of smooth ice? Sounds easy... and safe.
+Scalare una parete ripida di ghiaccio liscio? Sembra facile... e sicuro.
+It's not jousting, but almost.
+Forse potrei riuscire a...
+At least Marcus won't tell it's wasn't worth buying my ticket to Norway.
+Almeno Marcus non dir‡ che non ne sia valsa la pena comprare il biglietto per la Norvegia!
+It's way too short!
+» troppo corto!
+Well, well, well.
+Bene, bene, bene.
+ It seems our friend Agsvald kept some secrets after all.
+Sembra che il nostro amico Agsvald avesse dei segreti in fin dei conti.
+Up and ready to sail!
+Pronti a salpare!
+...Or to raid.
+...O a depredare.
+cave exit
+l'uscita della caverna
+carving
+gli intarsi
+contraption
+il macchinario
+enormous precious stone
+la grossa pietra preziosa
+$APPDATADIR$/Log.txt
+
+sv
+
+French (FranÁais)
+
+Italian (Italiano)
+
+Swedish (Svensk)
+
+In module Tumbleweed : Unable to change the translation to '%s'
+
+Nice %s
+
+It's %s
+
+I can't push %s
+
+I can't pull %s
+
+Lang
+
+New game
+Nuovo gioco
+Load game
+Carica
+Bonuses
+Bonus
+v1.1
+
+Svensk
+
+The catacombs are outside monastery land.
+Le catacombe sono al di fuori del terreno del monastero.
+Now, maybe we can talk?
+Magari adesso possiamo parlare?
+Aren't you curious about what's REALLY inside?
+Non vuoi sapere cosa ci sia dentro VERAMENTE?
+If you knew me better you'd trust me.
+Se mi conoscessi meglio ti fideresti di me.
+Stamp collections are less idiotic than relics.
+Collezionare francobolli Ë meno assurdo che adorare reliquie.
+So, you like relics... And beer, apparently.
+Quindi ti piacciono le reliquie... E anche la birra.
+VER:1.1DATA:Are you trying to be funny, thief?
+VER:1.1DATA:Stai cercando di fare il simpatico, ladro?
+VER:1.1DATA:Well, you know...
+VER:1.1DATA:Beh, sai...
+VER:1.1DATA:Since the box supposedly contains a toe or whatnot...
+VER:1.1DATA:Dato che il cofanetto dovrebbe contenere un alluce o qualcosa del genere...
+VER:1.1DATA:Aren't you curious about what's REALLY inside?
+VER:1.1DATA:Non vuoi sapere cosa ci sia dentro VERAMENTE?
+VER:1.1DATA:No one looks at the relic! Even me, its guardian!
+VER:1.1DATA:Nessuno puÚ guardare la reliquia! Nemmeno io, il suo guardiano.
+VER:1.1DATA:If you knew me better you'd trust me.
+VER:1.1DATA:Se mi conoscessi meglio ti fideresti di me.
+VER:1.1DATA:I hate EVERYTHING about you.
+VER:1.1DATA:Odio TUTTO di te.
+VER:1.1DATA:Oh come on, now...
+VER:1.1DATA:Dai...
+VER:1.1DATA:WHAT DID YOU SAY?!?
+VER:1.1DATA:CHE COSA HAI DETTO?!?
+VER:1.1DATA:The nerve of--
+VER:1.1DATA:Hai una bella--
+VER:1.1DATA:Stamp collections are less idiotic than relics.
+VER:1.1DATA:Collezionare francobolli Ë meno assurdo che adorare reliquie.
+VER:1.1DATA:EXCUSE ME?!?
+VER:1.1DATA:SCUSA?!?
+VER:1.1DATA:How dare you--
+VER:1.1DATA:Come osi--
+VER:1.1DATA:So, you like relics... And beer, apparently.
+VER:1.1DATA:Quindi ti piacciono le reliquie... E anche la birra.
+VER:1.1DATA:I BEG YOUR PARDON?!?
+VER:1.1DATA:COME SCUSA?!?
+VER:1.1DATA:I don't even know what to--
+VER:1.1DATA:Non so nemmeno cosa--
+Everyone LOVES the way I look.
+Tutti AMANO il mio aspetto.
+Everyone LOVES the way I dress.
+Tutti AMANO come mi vesto.
+Everyone LOVES the way I talk.
+Tutti AMANO come parlo.
+Everyone LOVES the way I use my smarts.
+Tutti AMANO come il mio acume.
+VER:1.1DATA:Everyone LOVES the way I look.
+VER:1.1DATA:Tutti AMANO il mio aspetto.
+VER:1.1DATA:Your hat is covered in cobwebs and your face is all bruised!
+VER:1.1DATA:Il tuo cappello Ë pieno di ragnatele e hai la faccia tutta graffiata!
+VER:1.1DATA:Fair enough.
+VER:1.1DATA:Come darti torto.
+VER:1.1DATA:Everyone LOVES the way I dress.
+VER:1.1DATA:Tutti AMANO come mi vesto.
+VER:1.1DATA:Button up that shirt, will you, punk?
+VER:1.1DATA:Abbottonati la camicia, scostumato!
+VER:1.1DATA:Everyone LOVES the way I talk.
+VER:1.1DATA:Tutti AMANO come parlo.
+VER:1.1DATA:With all your cursing?
+VER:1.1DATA:Con tutte quelle imprecazioni?
+VER:1.1DATA:Dammit! I only--
+VER:1.1DATA:Dannazione! Ho solo--
+VER:1.1DATA:...
+VER:1.1DATA:...
+VER:1.1DATA:But I've heard worse.
+VER:1.1DATA:Ma ho sentito di peggio.
+VER:1.1DATA:The one thing I hate is BLASPHEMY.
+VER:1.1DATA:L'unica cosa che odio Ë la BLASFEMIA.
+VER:1.1DATA:'Taking the name of the Lord thy God in vain.'?
+VER:1.1DATA:'Pronunciare il nome del Signore, Dio tuo, invano.'?
+VER:1.1DATA:Hearing God's name used as a curse makes me so furious I could just--
+VER:1.1DATA:Sentire il nome di Dio usato come imprecazione mi fa cosÏ infuriare che potrei anche--
+VER:1.1DATA:But why am I even talking with you?
+VER:1.1DATA:Ma perchÈ sto parlando con te?
+VER:1.1DATA:Everyone LOVES the way I use my smarts.
+VER:1.1DATA:Tutti AMANO il mio acume.
+VER:1.1DATA:Don't make me laugh. You can't even leave this room.
+VER:1.1DATA:Non farmi ridere. Non sai nemmeno come uscire da qui.
+VER:1.1DATA:Oh, I see what you're doing.
+VER:1.1DATA:Oh, ho capito cosa stai cercando di fare.
+VER:1.1DATA:You think that if I lose my temper I might open the box.
+VER:1.1DATA:Pensi che se mi arrabbio potrei aprire il cofanetto.
+VER:1.1DATA:Well, joke's on you because...
+VER:1.1DATA:Beh, peggio per te perchÈ...
+VER:1.1DATA:I'M NOT THE ONE WHO WILL ROT IN HELL!
+VER:1.1DATA:NON SONO IO QUELLO CHE MARCIRA' ALL'INFERNO!
+VER:1.1DATA:I'M NOT THE DEPRAVED SINNER IN THIS ROOM!
+VER:1.1DATA:NON SONO IO IL PECCATORE DEPRAVATO QUI DENTRO!
+VER:1.1DATA:UNLIKE YOU, I KNOW WHAT VIRTUE IS!
+VER:1.1DATA:A DIFFERENZA TUA, IO CONOSCO LA VIRTŸ!
+currentMonkCursingDialog
+
+VER:1.1DATA:ERROR unexpected value for currCursing : %d
+VER:1.1DATA:
+VER:1.1DATA:Only the truth hurts.
+VER:1.1DATA:La verit‡ fa male.
+Tolga ÷cek
+
+forums & hosting by
+Forum & Hosting
+translations by
+Traduzioni
+n0l4n
+
+Amiga Master
+
+Ivan Braidi
+
+gui_language
+
+Swedish (Svenska)
+
+Portuguese (PortuguÍs)
+
+GÂ till %s
+
+Titta pÂ %s
+
+Prata med %s
+
+Ge !s till %s
+
+Ge %s
+
+Ta %s
+
+Anv‰nd !s fˆr %s
+
+Anv‰nd %s
+
+÷ppna %s
+
+St‰ng %s
+
+Tryck %s
+
+Dra %s
+
+Missing language
+
+Inst‰llningar
+
+Musik nivÂ
+
+SFX nivÂ
+
+Original
+
+Spara
+
+Ladda
+
+L‰mna
+
+≈tergÂ
+
+Tryck mellanslag fˆr att forts‰tta
+
+V‰lj den omgÂng som du vill ˆppna
+
+Avbryt
+
+Namnge filen
+
+L‰mna nuvarande omgÂng
+
+ƒr du s‰ker pÂ att du vill avsluta
+
+Nej
+
+AUTOSAVE
+
+GÂ
+
+Titta
+
+Prata
+
+Ge
+
+Ta
+
+Anv‰nd
+
+÷ppna
+
+St‰ng
+
+Tryck
+
+Dra
+
+Unknown language : %d
+
+lan=%d, graphic = %d, action = %d
+
+nl
+
+DATA:
+
+NEVERTRANSLATE:
+
+Please run the game without a translation. Select 'Default Language' in Winsetup.exe\nCurrently you're using '%s'.
+
+VER:1.1ERR:ERROR. Cannot revert to defaut language. The old demo will probably crash now.
+
+VER:1.1ERR:ERROR. The current translation should be '', instead it's '%s'.
+
+VER:1.1DATA:It's my faithful leather whip.
+VER:1.1DATA:» la mia fedele frusta di pelle.
+This is the AUTOSAVE slot. Please pick another save slot.
+Questo Ë lo slot per l'AUTOSAVE. Seleziona un altro slot di salvataggio.
+VER:1.1DATA:He looked and said: 'You choose that number for %SIDENAME%? That is one too many'.
+VER:1.1DATA:GuardÚ e disse: 'Hai scelto quel numero per %SIDENAME%? » uno di troppo'.
+Svenska
+
+PortuguÍs
+
+Language label
+
+PARIS, 1938
+PARIGI, 1938
+whip
+la frusta
+Monsieur Ouxx[Selmiak[Tolga ÷cek
+
+TRANSLATIONS
+TRADUZIONI
+n0l4n[Amiga Master[Cassiebsg[Monsieur Ouxx[Ivan Braidi
+
+Current language : %s
+
+hasPushedCatacombsButton
+
+VER:1.1DATA:Nothing happens.
+VER:1.1DATA:Non succede niente.
+VER:1.1DATA:stone protrusion
+VER:1.1DATA:sporgenza di roccia
+knob
+la maniglia
+VER:1.1DATA:I can't do much with only the head.
+VER:1.1DATA:Non posso fare granchÈ solo con la testa.
+VER:1.1DATA:It's open. All I have to do is crawl into it.
+VER:1.1DATA:» aperto. Devo solo infilarmici dentro.
+VER:1.1DATA:What now? It took me a lot of efforts to reveal that passageway.
+VER:1.1DATA:E adesso? Mi ci Ë voluto un sacco di tempo per scoprire quel passaggio.
+VER:1.1DATA:I see someone rummaging inside. The guy is turning his back, he doesn't see me.
+VER:1.1DATA:C'Ë qualcuno che fruga lÏ dentro. Il tizio mi da le spalle, non puÚ vedermi.
+VER:1.1DATA:There are a few houses and buildings, nothing of much interest.
+VER:1.1DATA:Qualche casa e altre costruzioni, nulla di interessante.
+VER:1.1DATA:But I wonder where is everyone.
+VER:1.1DATA:Mi domando dove siano tutti.
+VER:1.1DATA:Why should I be wandering around with that stone on my back?
+VER:1.1DATA:PerchÈ dovrei andare in giro con quella pietra sulle spalle?
+VER:1.1DATA:I've pushed the lock three times, but nothing happened.
+VER:1.1DATA:Ho premuto tre volte la serratura, ma non Ë successo niente.
+VER:1.1DATA:Maybe I should push the lock that's inside?
+VER:1.1DATA:Forse dovrei premere la serratura che c'Ë all'interno?
+VER:1.1DATA:Nah. I think they're just holes. I don't see any mechanism.
+VER:1.1DATA:No. Credo che siano semplici fori. Non vedo nessun meccanismo.
+VER:1.1DATA:Those holes are pretty large. It's hopeless trying to patch them up.
+VER:1.1DATA:Quei fori sono molto larghi. Non ha senso provare a tapparli.
+VER:1.1DATA:Surely a good melody doesn't have ALL the notes at the same time.
+VER:1.1DATA:Di sicuro una bella melodia non contiene TUTTE le note allo stesso tempo.
+VER:1.1DATA:Is it supposed to make this sizzling noise?
+VER:1.1DATA:Dovrebbe fare questo sibilo?
+VER:1.1DATA:That's where the sizzling noise came from.
+VER:1.1DATA:Ecco da dove arriva il sibilo.
+VER:1.1DATA:That'd be more useful if I took the lamp first.
+VER:1.1DATA:Sarebbe pi˘ utile se prima prendessi la lampada.
+VER:1.1DATA:There's a cavity in place of each eye.
+VER:1.1DATA:C'Ë una cavit‡ per ogni occhio.
+VER:1.1DATA:There are some carvings in the wood here.
+VER:1.1DATA:Qui ci sono delle incisioni nel legno.
+VER:1.1DATA:Unfortunately it's too dark up here to see what it represents.
+VER:1.1DATA:Sfortunatamente Ë troppo buio per vedere cosa rappresenta.
+VER:1.1DATA:Three dots drawn on five horizontal lines.
+VER:1.1DATA:Tre punti disegnati su cinque linee orizzontali.
+VER:1.1DATA:I'll be damned if that doesn't mean something.
+VER:1.1DATA:Che sia dannato se quello non significa qualcosa.
+VER:1.1DATA:It looks windy outside.
+VER:1.1DATA:Sembra che fuori tiri un gran vento.
+dark wall
+la parete buia
+outside
+fuori
+Let's see if I can still aim properly.
+Vediamo se ho ancora una buona mira.
+VER:1.1DATA:Five horizontal rows.
+VER:1.1DATA:Cinque righe orizzontali.
+VER:1.1DATA:Each of them has one or several pipes running into it.
+VER:1.1DATA:Ognuna di esse ha uno o pi˘ tubi che ci passano attraverso.
+VER:1.1DATA:With a bit of work I could direct steam into some of them.
+VER:1.1DATA:Con un po' d'ingegno potrei deviare il vapore in alcuni di essi.
+exhaust ports
+i tubi di scarico
